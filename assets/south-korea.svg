@@ -1,0 +1,476 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="7200" height="9600" viewBox="0 0 7200 9600"><rect width="100%" height="100%" fill="#f7f9fc"/>
+<text x="160" y="145" dominant-baseline="text-before-edge" text-anchor="start" font-family="Arial,sans-serif" font-weight="700" font-size="180" fill="#2264a2">NEURIPS 2026</text>
+<text x="150" y="405" dominant-baseline="text-before-edge" text-anchor="start" font-family="Arial,sans-serif" font-weight="700" font-size="285" fill="#102c44">SOUTH KOREA</text>
+<text x="160" y="790" dominant-baseline="text-before-edge" text-anchor="start" font-family="Arial,sans-serif" font-weight="700" font-size="89" fill="#4a647b">72 INSTITUTIONS  /  PAPER PARTICIPATION</text>
+<g class="institution" data-name="Korea Advanced Institute of Science and Technology" data-country="South Korea"><title>Korea Advanced Institute of Science and Technology — 237 papers</title>
+<rect x="150.0000" y="1090.0000" width="4372.4599" height="3222.7223" fill="#487eb2" stroke="white" stroke-width="5"/>
+<text x="2336.229946524064" y="2407.3611416026342" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="white">KAIST</text>
+<text x="2336.229946524064" y="2757.3611416026342" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="white">237</text>
+</g>
+<g class="institution" data-name="Seoul National University" data-country="South Korea"><title>Seoul National University — 137 papers</title>
+<rect x="4522.4599" y="1090.0000" width="2527.5401" height="3222.7223" fill="#6895bf" stroke="white" stroke-width="5"/>
+<text x="5786.229946524064" y="2253.3611416026342" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Seoul National</text>
+<text x="5786.229946524064" y="2561.3611416026342" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Univ.</text>
+<text x="5786.229946524064" y="2911.3611416026342" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">137</text>
+</g>
+<g class="institution" data-name="Yonsei University" data-country="South Korea"><title>Yonsei University — 66 papers</title>
+<rect x="150.0000" y="4312.7223" width="1670.3911" height="2349.2333" fill="#87abcd" stroke="white" stroke-width="5"/>
+<text x="985.1955307262568" y="5039.338934391623" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Yonsei</text>
+<text x="985.1955307262568" y="5347.338934391623" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Univ.</text>
+<text x="985.1955307262568" y="5697.338934391623" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">66</text>
+</g>
+<g class="institution" data-name="Korea University" data-country="South Korea"><title>Korea University — 64 papers</title>
+<rect x="150.0000" y="6661.9556" width="1670.3911" height="2278.0444" fill="#88accd" stroke="white" stroke-width="5"/>
+<text x="985.1955307262568" y="7506.977792788989" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Korea Univ.</text>
+<text x="985.1955307262568" y="7856.977792788989" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">64</text>
+</g>
+<g class="institution" data-name="Samsung" data-country="South Korea"><title>Samsung — 47 papers</title>
+<rect x="1820.3911" y="4312.7223" width="1541.8994" height="1812.3504" fill="#92b3d1" stroke="white" stroke-width="5"/>
+<text x="2591.340782122905" y="4924.897502744237" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Samsung</text>
+<text x="2591.340782122905" y="5274.897502744237" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">47</text>
+</g>
+<g class="institution" data-name="Sungkyunkwan University" data-country="South Korea"><title>Sungkyunkwan University — 37 papers</title>
+<rect x="1820.3911" y="6125.0727" width="1541.8994" height="1426.7440" fill="#99b8d4" stroke="white" stroke-width="5"/>
+<text x="2591.340782122905" y="6511.444703622393" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="205" fill="#12344b">Sungkyunkwan</text>
+<text x="2591.340782122905" y="6736.444703622393" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="205" fill="#12344b">Univ.</text>
+<text x="2591.340782122905" y="6991.444703622393" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="174" fill="#12344b">37</text>
+</g>
+<g class="institution" data-name="Pohang University of Science and Technology" data-country="South Korea"><title>Pohang University of Science and Technology — 36 papers</title>
+<rect x="1820.3911" y="7551.8167" width="1541.8994" height="1388.1833" fill="#9ab8d4" stroke="white" stroke-width="5"/>
+<text x="2591.340782122905" y="7578.4083424807895" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="248" fill="#12344b">Pohang</text>
+<text x="2591.340782122905" y="7850.4083424807895" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="248" fill="#12344b">Univ. of</text>
+<text x="2591.340782122905" y="8122.4083424807895" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="248" fill="#12344b">Science &amp;</text>
+<text x="2591.340782122905" y="8394.40834248079" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="248" fill="#12344b">Tech.</text>
+<text x="2591.340782122905" y="8703.40834248079" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="210" fill="#12344b">36</text>
+</g>
+<g class="institution" data-name="Hanyang University" data-country="South Korea"><title>Hanyang University — 24 papers</title>
+<rect x="3362.2905" y="4312.7223" width="1475.0838" height="967.3751" fill="#a3bfd8" stroke="white" stroke-width="5"/>
+<text x="4099.832402234637" y="4348.409849420746" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Hanyang</text>
+<text x="4099.832402234637" y="4656.409849420746" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Univ.</text>
+<text x="4099.832402234637" y="5006.409849420746" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">24</text>
+</g>
+<g class="institution" data-name="Chung-Ang University" data-country="South Korea"><title>Chung-Ang University — 23 papers</title>
+<rect x="4837.3743" y="4312.7223" width="1413.6220" height="967.3751" fill="#a4bfd9" stroke="white" stroke-width="5"/>
+<text x="5544.185288640596" y="4390.909849420746" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="254" fill="#12344b">Chung-Ang</text>
+<text x="5544.185288640596" y="4669.909849420746" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="254" fill="#12344b">Univ.</text>
+<text x="5544.185288640596" y="4986.909849420746" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="215" fill="#12344b">23</text>
+</g>
+<g class="institution" data-name="NAVER" data-country="South Korea"><title>NAVER — 13 papers</title>
+<rect x="6250.9963" y="4312.7223" width="799.0037" height="967.3751" fill="#afc7dd" stroke="white" stroke-width="5"/>
+<text x="6650.498137802607" y="4567.409849420746" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="219" fill="#12344b">NAVER</text>
+<text x="6650.498137802607" y="4839.409849420746" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="186" fill="#12344b">13</text>
+</g>
+<g class="institution" data-name="Gwangju Institute of Science and Technology" data-country="South Korea"><title>Gwangju Institute of Science and Technology — 12 papers</title>
+<rect x="3362.2905" y="5280.0974" width="779.7800" height="914.9756" fill="#b0c8de" stroke="white" stroke-width="5"/>
+<text x="3752.1804936873964" y="5305.585238681695" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="160" fill="#12344b">Gwangju</text>
+<text x="3752.1804936873964" y="5481.585238681695" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="160" fill="#12344b">Inst. of</text>
+<text x="3752.1804936873964" y="5657.585238681695" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="160" fill="#12344b">Science</text>
+<text x="3752.1804936873964" y="5833.585238681695" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="160" fill="#12344b">&amp; Tech.</text>
+<text x="3752.1804936873964" y="6033.585238681695" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="136" fill="#12344b">12</text>
+</g>
+<g class="institution" data-name="Kyung Hee University" data-country="South Korea"><title>Kyung Hee University — 12 papers</title>
+<rect x="3362.2905" y="6195.0731" width="779.7800" height="914.9756" fill="#b0c8de" stroke="white" stroke-width="5"/>
+<text x="3752.1804936873964" y="6221.06088477264" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="201" fill="#12344b">Kyung</text>
+<text x="3752.1804936873964" y="6442.06088477264" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="201" fill="#12344b">Hee</text>
+<text x="3752.1804936873964" y="6663.06088477264" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="201" fill="#12344b">Univ.</text>
+<text x="3752.1804936873964" y="6914.06088477264" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="170" fill="#12344b">12</text>
+</g>
+<g class="institution" data-name="LG" data-country="South Korea"><title>LG — 12 papers</title>
+<rect x="3362.2905" y="7110.0487" width="779.7800" height="914.9756" fill="#b0c8de" stroke="white" stroke-width="5"/>
+<text x="3752.1804936873964" y="7273.536530863585" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">LG</text>
+<text x="3752.1804936873964" y="7623.536530863585" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">12</text>
+</g>
+<g class="institution" data-name="Ulsan National Institute of Science and Technology" data-country="South Korea"><title>Ulsan National Institute of Science and Technology — 12 papers</title>
+<rect x="3362.2905" y="8025.0244" width="779.7800" height="914.9756" fill="#b0c8de" stroke="white" stroke-width="5"/>
+<text x="3752.1804936873964" y="8051.512176954529" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="133" fill="#12344b">Ulsan</text>
+<text x="3752.1804936873964" y="8197.51217695453" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="133" fill="#12344b">National</text>
+<text x="3752.1804936873964" y="8343.51217695453" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="133" fill="#12344b">Inst. of</text>
+<text x="3752.1804936873964" y="8489.51217695453" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="133" fill="#12344b">Science &amp;</text>
+<text x="3752.1804936873964" y="8635.51217695453" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="133" fill="#12344b">Tech.</text>
+<text x="3752.1804936873964" y="8800.51217695453" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="113" fill="#12344b">12</text>
+</g>
+<g class="institution" data-name="Daegu Gyeongbuk Institute of Science and Technology" data-country="South Korea"><title>Daegu Gyeongbuk Institute of Science and Technology — 10 papers</title>
+<rect x="4142.0705" y="5280.0974" width="807.7582" height="736.0698" fill="#b3c9df" stroke="white" stroke-width="5"/>
+<text x="4545.949583945178" y="5305.632312387887" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="106" fill="#12344b">Daegu</text>
+<text x="4545.949583945178" y="5421.632312387887" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="106" fill="#12344b">Gyeongbuk</text>
+<text x="4545.949583945178" y="5537.632312387887" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="106" fill="#12344b">Inst. of</text>
+<text x="4545.949583945178" y="5653.632312387887" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="106" fill="#12344b">Science &amp;</text>
+<text x="4545.949583945178" y="5769.632312387887" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="106" fill="#12344b">Tech.</text>
+<text x="4545.949583945178" y="5900.632312387887" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="90" fill="#12344b">10</text>
+</g>
+<g class="institution" data-name="Electronics and Telecommunications Research Institute" data-country="South Korea"><title>Electronics and Telecommunications Research Institute — 10 papers</title>
+<rect x="4949.8287" y="5280.0974" width="807.7582" height="736.0698" fill="#b3c9df" stroke="white" stroke-width="5"/>
+<text x="5353.70778267254" y="5354.132312387887" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">ETRI</text>
+<text x="5353.70778267254" y="5704.132312387887" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">10</text>
+</g>
+<g class="institution" data-name="Ajou University" data-country="South Korea"><title>Ajou University — 8 papers</title>
+<rect x="5757.5869" y="5280.0974" width="646.2066" height="736.0698" fill="#b6cce0" stroke="white" stroke-width="5"/>
+<text x="6080.690161527165" y="5305.132312387887" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="215" fill="#12344b">Ajou</text>
+<text x="6080.690161527165" y="5541.132312387887" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="215" fill="#12344b">Univ.</text>
+<text x="6080.690161527165" y="5809.132312387887" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="182" fill="#12344b">8</text>
+</g>
+<g class="institution" data-name="Inha University" data-country="South Korea"><title>Inha University — 8 papers</title>
+<rect x="6403.7934" y="5280.0974" width="646.2066" height="736.0698" fill="#b6cce0" stroke="white" stroke-width="5"/>
+<text x="6726.896720509055" y="5305.132312387887" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="215" fill="#12344b">Inha</text>
+<text x="6726.896720509055" y="5541.132312387887" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="215" fill="#12344b">Univ.</text>
+<text x="6726.896720509055" y="5809.132312387887" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="182" fill="#12344b">8</text>
+</g>
+<g class="institution" data-name="Korea Institute for Advanced Study" data-country="South Korea"><title>Korea Institute for Advanced Study — 8 papers</title>
+<rect x="4142.0705" y="6016.1672" width="775.4479" height="613.3915" fill="#b6cce0" stroke="white" stroke-width="5"/>
+<text x="4529.794419970631" y="6041.362956432606" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="269" fill="#12344b">KIAS</text>
+<text x="4529.794419970631" y="6376.362956432606" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="228" fill="#12344b">8</text>
+</g>
+<g class="institution" data-name="KRAFTON" data-country="South Korea"><title>KRAFTON — 8 papers</title>
+<rect x="4917.5184" y="6016.1672" width="775.4479" height="613.3915" fill="#b6cce0" stroke="white" stroke-width="5"/>
+<text x="5305.242290748898" y="6164.862956432606" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="151" fill="#12344b">KRAFTON</text>
+<text x="5305.242290748898" y="6352.862956432606" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="128" fill="#12344b">8</text>
+</g>
+<g class="institution" data-name="Kookmin University" data-country="South Korea"><title>Kookmin University — 7 papers</title>
+<rect x="5692.9662" y="6016.1672" width="678.5169" height="613.3915" fill="#b7cde1" stroke="white" stroke-width="5"/>
+<text x="6032.224669603524" y="6081.862956432606" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="151" fill="#12344b">Kookmin</text>
+<text x="6032.224669603524" y="6247.862956432606" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="151" fill="#12344b">Univ.</text>
+<text x="6032.224669603524" y="6435.862956432606" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="128" fill="#12344b">7</text>
+</g>
+<g class="institution" data-name="Pusan National University" data-country="South Korea"><title>Pusan National University — 7 papers</title>
+<rect x="6371.4831" y="6016.1672" width="678.5169" height="613.3915" fill="#b7cde1" stroke="white" stroke-width="5"/>
+<text x="6710.741556534507" y="6041.862956432606" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="131" fill="#12344b">Pusan</text>
+<text x="6710.741556534507" y="6185.862956432606" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="131" fill="#12344b">National</text>
+<text x="6710.741556534507" y="6329.862956432606" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="131" fill="#12344b">Univ.</text>
+<text x="6710.741556534507" y="6492.862956432606" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="111" fill="#12344b">7</text>
+</g>
+<g class="institution" data-name="Sejong University" data-country="South Korea"><title>Sejong University — 7 papers</title>
+<rect x="4142.0705" y="6629.5587" width="669.0811" height="622.0419" fill="#b7cde1" stroke="white" stroke-width="5"/>
+<text x="4476.611048302209" y="6655.579647454898" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="179" fill="#12344b">Sejong</text>
+<text x="4476.611048302209" y="6851.579647454898" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="179" fill="#12344b">Univ.</text>
+<text x="4476.611048302209" y="7073.579647454898" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="152" fill="#12344b">7</text>
+</g>
+<g class="institution" data-name="Sogang University" data-country="South Korea"><title>Sogang University — 7 papers</title>
+<rect x="4142.0705" y="7251.6006" width="669.0811" height="622.0419" fill="#b7cde1" stroke="white" stroke-width="5"/>
+<text x="4476.611048302209" y="7285.1215349133745" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="174" fill="#12344b">Sogang</text>
+<text x="4476.611048302209" y="7476.1215349133745" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="174" fill="#12344b">Univ.</text>
+<text x="4476.611048302209" y="7693.1215349133745" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="147" fill="#12344b">7</text>
+</g>
+<g class="institution" data-name="Ewha Womans University" data-country="South Korea"><title>Ewha Womans University — 6 papers</title>
+<rect x="4142.0705" y="7873.6425" width="669.0811" height="533.1788" fill="#b9cee2" stroke="white" stroke-width="5"/>
+<text x="4476.611048302209" y="7896.231858981959" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="114" fill="#12344b">Ewha</text>
+<text x="4476.611048302209" y="8021.231858981959" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="114" fill="#12344b">Womans</text>
+<text x="4476.611048302209" y="8146.231858981959" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="114" fill="#12344b">Univ.</text>
+<text x="4476.611048302209" y="8288.231858981959" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="96" fill="#12344b">6</text>
+</g>
+<g class="institution" data-name="Korea Telecom Research" data-country="South Korea"><title>Korea Telecom Research — 6 papers</title>
+<rect x="4142.0705" y="8406.8212" width="669.0811" height="533.1788" fill="#b9cee2" stroke="white" stroke-width="5"/>
+<text x="4476.611048302209" y="8429.410619660652" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="114" fill="#12344b">Korea</text>
+<text x="4476.611048302209" y="8554.410619660652" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="114" fill="#12344b">Telecom</text>
+<text x="4476.611048302209" y="8679.410619660652" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="114" fill="#12344b">Research</text>
+<text x="4476.611048302209" y="8821.410619660652" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="96" fill="#12344b">6</text>
+</g>
+<g class="institution" data-name="Seoul National University of Science and Technology" data-country="South Korea"><title>Seoul National University of Science and Technology — 6 papers</title>
+<rect x="4811.1516" y="6629.5587" width="671.6545" height="531.1359" fill="#b9cee2" stroke="white" stroke-width="5"/>
+<text x="5146.978870219484" y="6652.626668814664" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="90" fill="#12344b">Seoul National</text>
+<text x="5146.978870219484" y="6751.626668814664" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="90" fill="#12344b">Univ. of</text>
+<text x="5146.978870219484" y="6850.626668814664" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="90" fill="#12344b">Science &amp;</text>
+<text x="5146.978870219484" y="6949.626668814664" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="90" fill="#12344b">Tech.</text>
+<text x="5146.978870219484" y="7061.626668814664" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="76" fill="#12344b">6</text>
+</g>
+<g class="institution" data-name="Hankuk University of Foreign Studies" data-country="South Korea"><title>Hankuk University of Foreign Studies — 5 papers</title>
+<rect x="5482.8061" y="6629.5587" width="559.7121" height="531.1359" fill="#bbcfe2" stroke="white" stroke-width="5"/>
+<text x="5762.662176913181" y="6652.626668814664" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="90" fill="#12344b">Hankuk</text>
+<text x="5762.662176913181" y="6751.626668814664" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="90" fill="#12344b">Univ. of</text>
+<text x="5762.662176913181" y="6850.626668814664" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="90" fill="#12344b">Foreign</text>
+<text x="5762.662176913181" y="6949.626668814664" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="90" fill="#12344b">Studies</text>
+<text x="5762.662176913181" y="7061.626668814664" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="76" fill="#12344b">5</text>
+</g>
+<g class="institution" data-name="Konkuk University" data-country="South Korea"><title>Konkuk University — 5 papers</title>
+<rect x="6042.5182" y="6629.5587" width="559.7121" height="531.1359" fill="#bbcfe2" stroke="white" stroke-width="5"/>
+<text x="6322.37427390745" y="6667.126668814664" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="143" fill="#12344b">Konkuk</text>
+<text x="6322.37427390745" y="6824.126668814664" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="143" fill="#12344b">Univ.</text>
+<text x="6322.37427390745" y="7002.126668814664" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="121" fill="#12344b">5</text>
+</g>
+<g class="institution" data-name="AIM Intelligence" data-country="South Korea"><title>AIM Intelligence — 4 papers</title>
+<rect x="6602.2303" y="6629.5587" width="447.7697" height="531.1359" fill="#bdd1e3" stroke="white" stroke-width="5"/>
+<text x="6826.115161202292" y="6774.626668814664" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="76" fill="#12344b">AIM</text>
+<text x="6826.115161202292" y="6857.626668814664" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="76" fill="#12344b">Intelligence</text>
+<text x="6826.115161202292" y="6951.626668814664" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="64" fill="#12344b">4</text>
+</g>
+<g class="institution" data-name="Korea AI Safety Institute" data-country="South Korea"><title>Korea AI Safety Institute — 4 papers</title>
+<rect x="4811.1516" y="7160.6946" width="467.8191" height="508.3730" fill="#bdd1e3" stroke="white" stroke-width="5"/>
+<text x="5045.061145095155" y="7190.381114774574" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="105" fill="#12344b">Korea AI</text>
+<text x="5045.061145095155" y="7305.381114774574" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="105" fill="#12344b">Safety</text>
+<text x="5045.061145095155" y="7420.381114774574" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="105" fill="#12344b">Inst.</text>
+<text x="5045.061145095155" y="7550.381114774574" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="89" fill="#12344b">4</text>
+</g>
+<g class="institution" data-name="Sookmyung Women&#x27;s University" data-country="South Korea"><title>Sookmyung Women&#x27;s University — 4 papers</title>
+<rect x="4811.1516" y="7669.0676" width="467.8191" height="508.3730" fill="#bdd1e3" stroke="white" stroke-width="5"/>
+<text x="5045.061145095155" y="7761.254076516382" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="76" fill="#12344b">Sookmyung</text>
+<text x="5045.061145095155" y="7844.254076516382" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="76" fill="#12344b">Women&#x27;s</text>
+<text x="5045.061145095155" y="7927.254076516382" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="76" fill="#12344b">Univ.</text>
+<text x="5045.061145095155" y="8021.254076516382" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="64" fill="#12344b">4</text>
+</g>
+<g class="institution" data-name="Chonnam National University" data-country="South Korea"><title>Chonnam National University — 3 papers</title>
+<rect x="4811.1516" y="8177.4406" width="467.8191" height="381.2797" fill="#bfd2e4" stroke="white" stroke-width="5"/>
+<text x="5045.061145095155" y="8194.580418040465" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="81" fill="#12344b">Chonnam</text>
+<text x="5045.061145095155" y="8283.580418040465" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="81" fill="#12344b">National</text>
+<text x="5045.061145095155" y="8372.580418040465" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="81" fill="#12344b">Univ.</text>
+<text x="5045.061145095155" y="8473.580418040465" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="68" fill="#12344b">3</text>
+</g>
+<g class="institution" data-name="Chungnam National University" data-country="South Korea"><title>Chungnam National University — 3 papers</title>
+<rect x="4811.1516" y="8558.7203" width="467.8191" height="381.2797" fill="#bfd2e4" stroke="white" stroke-width="5"/>
+<text x="5045.061145095155" y="8575.860139346822" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="81" fill="#12344b">Chungnam</text>
+<text x="5045.061145095155" y="8664.860139346822" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="81" fill="#12344b">National</text>
+<text x="5045.061145095155" y="8753.860139346822" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="81" fill="#12344b">Univ.</text>
+<text x="5045.061145095155" y="8854.860139346822" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="68" fill="#12344b">3</text>
+</g>
+<g class="institution" data-name="DEEPNOID Inc." data-country="South Korea"><title>DEEPNOID Inc. — 3 papers</title>
+<rect x="5278.9707" y="7160.6946" width="483.0080" height="369.2898" fill="#bfd2e4" stroke="white" stroke-width="5"/>
+<text x="5520.474676599107" y="7208.839530385364" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="86" fill="#12344b">DEEPNOID</text>
+<text x="5520.474676599107" y="7302.839530385364" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="86" fill="#12344b">Inc.</text>
+<text x="5520.474676599107" y="7408.839530385364" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="73" fill="#12344b">3</text>
+</g>
+<g class="institution" data-name="Kyungpook National University" data-country="South Korea"><title>Kyungpook National University — 3 papers</title>
+<rect x="5761.9787" y="7160.6946" width="483.0080" height="369.2898" fill="#bfd2e4" stroke="white" stroke-width="5"/>
+<text x="6003.482673462547" y="7177.339530385364" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="79" fill="#12344b">Kyungpook</text>
+<text x="6003.482673462547" y="7263.339530385364" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="79" fill="#12344b">National</text>
+<text x="6003.482673462547" y="7349.339530385364" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="79" fill="#12344b">Univ.</text>
+<text x="6003.482673462547" y="7446.339530385364" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="67" fill="#12344b">3</text>
+</g>
+<g class="institution" data-name="Soongsil University" data-country="South Korea"><title>Soongsil University — 3 papers</title>
+<rect x="6244.9867" y="7160.6946" width="483.0080" height="369.2898" fill="#bfd2e4" stroke="white" stroke-width="5"/>
+<text x="6486.490670325987" y="7176.839530385364" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="106" fill="#12344b">Soongsil</text>
+<text x="6486.490670325987" y="7292.839530385364" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="106" fill="#12344b">Univ.</text>
+<text x="6486.490670325987" y="7423.839530385364" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="90" fill="#12344b">3</text>
+</g>
+<g class="institution" data-name="Dankook University" data-country="South Korea"><title>Dankook University — 2 papers</title>
+<rect x="6727.9947" y="7160.6946" width="322.0053" height="369.2898" fill="#c2d4e5" stroke="white" stroke-width="5"/>
+<text x="6888.997334378853" y="7236.339530385364" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="69" fill="#12344b">Dankook</text>
+<text x="6888.997334378853" y="7311.339530385364" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="69" fill="#12344b">Univ.</text>
+<text x="6888.997334378853" y="7396.339530385364" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="58" fill="#12344b">2</text>
+</g>
+<g class="institution" data-name="Dongguk University" data-country="South Korea"><title>Dongguk University — 2 papers</title>
+<rect x="5278.9707" y="7529.9844" width="337.3389" height="352.5039" fill="#c2d4e5" stroke="white" stroke-width="5"/>
+<text x="5447.6401373895405" y="7593.2363735086765" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="71" fill="#12344b">Dongguk</text>
+<text x="5447.6401373895405" y="7671.2363735086765" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="71" fill="#12344b">Univ.</text>
+<text x="5447.6401373895405" y="7759.2363735086765" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="60" fill="#12344b">2</text>
+</g>
+<g class="institution" data-name="Institute for Basic Science" data-country="South Korea"><title>Institute for Basic Science — 2 papers</title>
+<rect x="5278.9707" y="7882.4883" width="337.3389" height="352.5039" fill="#c2d4e5" stroke="white" stroke-width="5"/>
+<text x="5447.6401373895405" y="7896.740266791912" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="76" fill="#12344b">Inst. for</text>
+<text x="5447.6401373895405" y="7979.740266791912" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="76" fill="#12344b">Basic</text>
+<text x="5447.6401373895405" y="8062.740266791912" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="76" fill="#12344b">Science</text>
+<text x="5447.6401373895405" y="8156.740266791912" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="64" fill="#12344b">2</text>
+</g>
+<g class="institution" data-name="Korea Electronics Technology Institute" data-country="South Korea"><title>Korea Electronics Technology Institute — 2 papers</title>
+<rect x="5278.9707" y="8234.9922" width="337.3389" height="352.5039" fill="#c2d4e5" stroke="white" stroke-width="5"/>
+<text x="5447.6401373895405" y="8290.244160075148" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="57" fill="#12344b">Korea</text>
+<text x="5447.6401373895405" y="8352.244160075148" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="57" fill="#12344b">Electronics</text>
+<text x="5447.6401373895405" y="8414.244160075148" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="57" fill="#12344b">Tech. Inst.</text>
+<text x="5447.6401373895405" y="8484.244160075148" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="48" fill="#12344b">2</text>
+</g>
+<g class="institution" data-name="Korea Research Institute of Chemical Technology" data-country="South Korea"><title>Korea Research Institute of Chemical Technology — 2 papers</title>
+<rect x="5278.9707" y="8587.4961" width="337.3389" height="352.5039" fill="#c2d4e5" stroke="white" stroke-width="5"/>
+<text x="5447.6401373895405" y="8601.748053358384" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="50" fill="#12344b">Korea</text>
+<text x="5447.6401373895405" y="8656.748053358384" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="50" fill="#12344b">Research</text>
+<text x="5447.6401373895405" y="8711.748053358384" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="50" fill="#12344b">Inst. of</text>
+<text x="5447.6401373895405" y="8766.748053358384" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="50" fill="#12344b">Chemical</text>
+<text x="5447.6401373895405" y="8821.748053358384" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="50" fill="#12344b">Tech.</text>
+<text x="5447.6401373895405" y="8883.748053358384" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="42" fill="#12344b">2</text>
+</g>
+<g class="institution" data-name="Kumoh Nat&#x27;l Institute of Technolgy" data-country="South Korea"><title>Kumoh Nat&#x27;l Institute of Technolgy — 2 papers</title>
+<rect x="5616.3096" y="7529.9844" width="337.3389" height="352.5039" fill="#c2d4e5" stroke="white" stroke-width="5"/>
+<text x="5784.979055833847" y="7544.2363735086765" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="60" fill="#12344b">Kumoh</text>
+<text x="5784.979055833847" y="7610.2363735086765" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="60" fill="#12344b">Nat&#x27;l Inst.</text>
+<text x="5784.979055833847" y="7676.2363735086765" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="60" fill="#12344b">of</text>
+<text x="5784.979055833847" y="7742.2363735086765" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="60" fill="#12344b">Technolgy</text>
+<text x="5784.979055833847" y="7817.2363735086765" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="51" fill="#12344b">2</text>
+</g>
+<g class="institution" data-name="SimPlatform Co. Ltd. Affiliate Research Institute" data-country="South Korea"><title>SimPlatform Co. Ltd. Affiliate Research Institute — 2 papers</title>
+<rect x="5616.3096" y="7882.4883" width="337.3389" height="352.5039" fill="#c2d4e5" stroke="white" stroke-width="5"/>
+<text x="5784.979055833847" y="7896.740266791912" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="50" fill="#12344b">SimPlatform</text>
+<text x="5784.979055833847" y="7951.740266791912" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="50" fill="#12344b">Co. Ltd.</text>
+<text x="5784.979055833847" y="8006.740266791912" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="50" fill="#12344b">Affiliate</text>
+<text x="5784.979055833847" y="8061.740266791912" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="50" fill="#12344b">Research</text>
+<text x="5784.979055833847" y="8116.740266791912" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="50" fill="#12344b">Inst.</text>
+<text x="5784.979055833847" y="8178.740266791912" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="42" fill="#12344b">2</text>
+</g>
+<g class="institution" data-name="Ulsan University" data-country="South Korea"><title>Ulsan University — 2 papers</title>
+<rect x="5616.3096" y="8234.9922" width="337.3389" height="352.5039" fill="#c2d4e5" stroke="white" stroke-width="5"/>
+<text x="5784.979055833847" y="8250.244160075148" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="101" fill="#12344b">Ulsan</text>
+<text x="5784.979055833847" y="8361.244160075148" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="101" fill="#12344b">Univ.</text>
+<text x="5784.979055833847" y="8487.244160075148" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="85" fill="#12344b">2</text>
+</g>
+<g class="institution" data-name="University of Seoul" data-country="South Korea"><title>University of Seoul — 2 papers</title>
+<rect x="5616.3096" y="8587.4961" width="337.3389" height="352.5039" fill="#c2d4e5" stroke="white" stroke-width="5"/>
+<text x="5784.979055833847" y="8630.248053358384" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="84" fill="#12344b">Univ. of</text>
+<text x="5784.979055833847" y="8722.248053358384" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="84" fill="#12344b">Seoul</text>
+<text x="5784.979055833847" y="8826.248053358384" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="71" fill="#12344b">2</text>
+</g>
+<g class="institution" data-name="Chungbuk National University" data-country="South Korea"><title>Chungbuk National University — 1 papers</title>
+<rect x="5953.6485" y="7529.9844" width="219.2703" height="271.1568" fill="#c6d7e7" stroke="white" stroke-width="5"/>
+<text x="6063.2836635504" y="7579.56284736061" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="40" fill="#12344b">Chungbuk</text>
+<text x="6063.2836635504" y="7623.56284736061" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="40" fill="#12344b">National</text>
+<text x="6063.2836635504" y="7667.56284736061" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="40" fill="#12344b">Univ.</text>
+<text x="6063.2836635504" y="7717.56284736061" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="34" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="Dong-A University" data-country="South Korea"><title>Dong-A University — 1 papers</title>
+<rect x="6172.9188" y="7529.9844" width="219.2703" height="271.1568" fill="#c6d7e7" stroke="white" stroke-width="5"/>
+<text x="6282.5539605392" y="7577.06284736061" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="56" fill="#12344b">Dong-A</text>
+<text x="6282.5539605392" y="7638.06284736061" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="56" fill="#12344b">Univ.</text>
+<text x="6282.5539605392" y="7707.06284736061" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="47" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="EbTech Co. Ltd." data-country="South Korea"><title>EbTech Co. Ltd. — 1 papers</title>
+<rect x="6392.1891" y="7529.9844" width="219.2703" height="271.1568" fill="#c6d7e7" stroke="white" stroke-width="5"/>
+<text x="6501.824257527999" y="7546.56284736061" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="56" fill="#12344b">EbTech</text>
+<text x="6501.824257527999" y="7607.56284736061" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="56" fill="#12344b">Co.</text>
+<text x="6501.824257527999" y="7668.56284736061" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="56" fill="#12344b">Ltd.</text>
+<text x="6501.824257527999" y="7737.56284736061" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="47" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="Gachon University" data-country="South Korea"><title>Gachon University — 1 papers</title>
+<rect x="6611.4594" y="7529.9844" width="219.2703" height="271.1568" fill="#c6d7e7" stroke="white" stroke-width="5"/>
+<text x="6721.094554516799" y="7580.06284736061" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="54" fill="#12344b">Gachon</text>
+<text x="6721.094554516799" y="7639.06284736061" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="54" fill="#12344b">Univ.</text>
+<text x="6721.094554516799" y="7706.06284736061" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="45" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="Gyeongsang National University" data-country="South Korea"><title>Gyeongsang National University — 1 papers</title>
+<rect x="6830.7297" y="7529.9844" width="219.2703" height="271.1568" fill="#c6d7e7" stroke="white" stroke-width="5"/>
+<text x="6940.364851505598" y="7593.56284736061" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="34" fill="#12344b">Gyeongsan-</text>
+<text x="6940.364851505598" y="7630.56284736061" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="34" fill="#12344b">g National</text>
+<text x="6940.364851505598" y="7667.56284736061" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="34" fill="#12344b">Univ.</text>
+<text x="6940.364851505598" y="7709.56284736061" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="28" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="HodooAI Lab" data-country="South Korea"><title>HodooAI Lab — 1 papers</title>
+<rect x="5953.6485" y="7801.1413" width="219.2703" height="271.1568" fill="#c6d7e7" stroke="white" stroke-width="5"/>
+<text x="6063.2836635504" y="7861.2196883477145" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="48" fill="#12344b">HodooAI</text>
+<text x="6063.2836635504" y="7913.2196883477145" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="48" fill="#12344b">Lab</text>
+<text x="6063.2836635504" y="7972.2196883477145" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="40" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="Hyundai Motor Company" data-country="South Korea"><title>Hyundai Motor Company — 1 papers</title>
+<rect x="6172.9188" y="7801.1413" width="219.2703" height="271.1568" fill="#c6d7e7" stroke="white" stroke-width="5"/>
+<text x="6282.5539605392" y="7843.2196883477145" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="44" fill="#12344b">Hyundai</text>
+<text x="6282.5539605392" y="7891.2196883477145" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="44" fill="#12344b">Motor</text>
+<text x="6282.5539605392" y="7939.2196883477145" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="44" fill="#12344b">Company</text>
+<text x="6282.5539605392" y="7993.2196883477145" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="37" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="Incheon National University" data-country="South Korea"><title>Incheon National University — 1 papers</title>
+<rect x="6392.1891" y="7801.1413" width="219.2703" height="271.1568" fill="#c6d7e7" stroke="white" stroke-width="5"/>
+<text x="6501.824257527999" y="7827.7196883477145" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="51" fill="#12344b">Incheon</text>
+<text x="6501.824257527999" y="7883.7196883477145" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="51" fill="#12344b">National</text>
+<text x="6501.824257527999" y="7939.7196883477145" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="51" fill="#12344b">Univ.</text>
+<text x="6501.824257527999" y="8002.7196883477145" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="43" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="Kakaohealthcare Inc." data-country="South Korea"><title>Kakaohealthcare Inc. — 1 papers</title>
+<rect x="6611.4594" y="7801.1413" width="219.2703" height="271.1568" fill="#c6d7e7" stroke="white" stroke-width="5"/>
+<text x="6721.094554516799" y="7883.2196883477145" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="34" fill="#12344b">Kakaohealt-</text>
+<text x="6721.094554516799" y="7920.2196883477145" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="34" fill="#12344b">hcare Inc.</text>
+<text x="6721.094554516799" y="7962.2196883477145" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="28" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="Kangwon National University" data-country="South Korea"><title>Kangwon National University — 1 papers</title>
+<rect x="6830.7297" y="7801.1413" width="219.2703" height="271.1568" fill="#c6d7e7" stroke="white" stroke-width="5"/>
+<text x="6940.364851505598" y="7841.2196883477145" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="45" fill="#12344b">Kangwon</text>
+<text x="6940.364851505598" y="7890.2196883477145" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="45" fill="#12344b">National</text>
+<text x="6940.364851505598" y="7939.2196883477145" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="45" fill="#12344b">Univ.</text>
+<text x="6940.364851505598" y="7994.2196883477145" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="38" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="Korea Cyber University" data-country="South Korea"><title>Korea Cyber University — 1 papers</title>
+<rect x="5953.6485" y="8072.2981" width="274.0879" height="216.9255" fill="#c6d7e7" stroke="white" stroke-width="5"/>
+<text x="6090.692450674" y="8081.260845236109" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="47" fill="#12344b">Korea</text>
+<text x="6090.692450674" y="8132.260845236109" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="47" fill="#12344b">Cyber</text>
+<text x="6090.692450674" y="8183.260845236109" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="47" fill="#12344b">Univ.</text>
+<text x="6090.692450674" y="8241.26084523611" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="39" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="Korea Institute of Industrial Technology" data-country="South Korea"><title>Korea Institute of Industrial Technology — 1 papers</title>
+<rect x="5953.6485" y="8289.2236" width="274.0879" height="216.9255" fill="#c6d7e7" stroke="white" stroke-width="5"/>
+<text x="6090.692450674" y="8304.186318025793" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="44" fill="#12344b">Korea Inst.</text>
+<text x="6090.692450674" y="8352.186318025793" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="44" fill="#12344b">of Industrial</text>
+<text x="6090.692450674" y="8400.186318025793" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="44" fill="#12344b">Tech.</text>
+<text x="6090.692450674" y="8454.186318025793" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="37" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="Korea Military Academy" data-country="South Korea"><title>Korea Military Academy — 1 papers</title>
+<rect x="5953.6485" y="8506.1491" width="274.0879" height="216.9255" fill="#c6d7e7" stroke="white" stroke-width="5"/>
+<text x="6090.692450674" y="8515.111790815477" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="47" fill="#12344b">Korea</text>
+<text x="6090.692450674" y="8566.111790815477" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="47" fill="#12344b">Military</text>
+<text x="6090.692450674" y="8617.111790815477" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="47" fill="#12344b">Academy</text>
+<text x="6090.692450674" y="8675.111790815477" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="39" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="Kwangwoon University" data-country="South Korea"><title>Kwangwoon University — 1 papers</title>
+<rect x="5953.6485" y="8723.0745" width="274.0879" height="216.9255" fill="#c6d7e7" stroke="white" stroke-width="5"/>
+<text x="6090.692450674" y="8763.537263605162" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="43" fill="#12344b">Kwangwoon</text>
+<text x="6090.692450674" y="8810.537263605162" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="43" fill="#12344b">Univ.</text>
+<text x="6090.692450674" y="8863.537263605162" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="36" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="Lunit Inc." data-country="South Korea"><title>Lunit Inc. — 1 papers</title>
+<rect x="6227.7364" y="8072.2981" width="274.0879" height="216.9255" fill="#c6d7e7" stroke="white" stroke-width="5"/>
+<text x="6364.78032191" y="8082.260845236108" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="62" fill="#12344b">Lunit</text>
+<text x="6364.78032191" y="8150.260845236108" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="62" fill="#12344b">Inc.</text>
+<text x="6364.78032191" y="8227.26084523611" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="52" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="Myongji University" data-country="South Korea"><title>Myongji University — 1 papers</title>
+<rect x="6501.8243" y="8072.2981" width="274.0879" height="216.9255" fill="#c6d7e7" stroke="white" stroke-width="5"/>
+<text x="6638.868193146" y="8082.260845236108" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="62" fill="#12344b">Myongji</text>
+<text x="6638.868193146" y="8150.260845236108" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="62" fill="#12344b">Univ.</text>
+<text x="6638.868193146" y="8227.26084523611" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="52" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="National Institute for Mathematical Sciences" data-country="South Korea"><title>National Institute for Mathematical Sciences — 1 papers</title>
+<rect x="6775.9121" y="8072.2981" width="274.0879" height="216.9255" fill="#c6d7e7" stroke="white" stroke-width="5"/>
+<text x="6912.956064382" y="8082.760845236108" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="37" fill="#12344b">National Inst.</text>
+<text x="6912.956064382" y="8122.760845236108" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="37" fill="#12344b">for</text>
+<text x="6912.956064382" y="8162.760845236108" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="37" fill="#12344b">Mathematical</text>
+<text x="6912.956064382" y="8202.76084523611" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="37" fill="#12344b">Sciences</text>
+<text x="6912.956064382" y="8247.76084523611" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="31" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="Pukyong National University" data-country="South Korea"><title>Pukyong National University — 1 papers</title>
+<rect x="6227.7364" y="8289.2236" width="274.0879" height="216.9255" fill="#c6d7e7" stroke="white" stroke-width="5"/>
+<text x="6364.780321909999" y="8298.186318025791" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="47" fill="#12344b">Pukyong</text>
+<text x="6364.780321909999" y="8349.186318025791" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="47" fill="#12344b">National</text>
+<text x="6364.780321909999" y="8400.186318025791" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="47" fill="#12344b">Univ.</text>
+<text x="6364.780321909999" y="8458.186318025791" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="39" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="RLWRLD Inc." data-country="South Korea"><title>RLWRLD Inc. — 1 papers</title>
+<rect x="6227.7364" y="8506.1491" width="274.0879" height="216.9255" fill="#c6d7e7" stroke="white" stroke-width="5"/>
+<text x="6364.780321909999" y="8523.111790815476" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="58" fill="#12344b">RLWRLD</text>
+<text x="6364.780321909999" y="8586.111790815476" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="58" fill="#12344b">Inc.</text>
+<text x="6364.780321909999" y="8657.111790815476" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="49" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="Semyung University" data-country="South Korea"><title>Semyung University — 1 papers</title>
+<rect x="6227.7364" y="8723.0745" width="274.0879" height="216.9255" fill="#c6d7e7" stroke="white" stroke-width="5"/>
+<text x="6364.780321909999" y="8743.03726360516" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="56" fill="#12344b">Semyung</text>
+<text x="6364.780321909999" y="8804.03726360516" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="56" fill="#12344b">Univ.</text>
+<text x="6364.780321909999" y="8873.03726360516" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="47" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="Snuailab" data-country="South Korea"><title>Snuailab — 1 papers</title>
+<rect x="6501.8243" y="8289.2236" width="274.0879" height="216.9255" fill="#c6d7e7" stroke="white" stroke-width="5"/>
+<text x="6638.868193145999" y="8334.686318025791" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="60" fill="#12344b">Snuailab</text>
+<text x="6638.868193145999" y="8409.686318025791" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="51" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="Soonchunhyang University" data-country="South Korea"><title>Soonchunhyang University — 1 papers</title>
+<rect x="6775.9121" y="8289.2236" width="274.0879" height="216.9255" fill="#c6d7e7" stroke="white" stroke-width="5"/>
+<text x="6912.956064382" y="8344.186318025791" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="34" fill="#12344b">Soonchunhya-</text>
+<text x="6912.956064382" y="8381.186318025791" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="34" fill="#12344b">ng Univ.</text>
+<text x="6912.956064382" y="8423.186318025791" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="28" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="Sungshin Women&#x27;s University" data-country="South Korea"><title>Sungshin Women&#x27;s University — 1 papers</title>
+<rect x="6501.8243" y="8506.1491" width="274.0879" height="216.9255" fill="#c6d7e7" stroke="white" stroke-width="5"/>
+<text x="6638.868193145998" y="8515.111790815474" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="47" fill="#12344b">Sungshin</text>
+<text x="6638.868193145998" y="8566.111790815474" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="47" fill="#12344b">Women&#x27;s</text>
+<text x="6638.868193145998" y="8617.111790815474" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="47" fill="#12344b">Univ.</text>
+<text x="6638.868193145998" y="8675.111790815474" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="39" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="Suwon University" data-country="South Korea"><title>Suwon University — 1 papers</title>
+<rect x="6501.8243" y="8723.0745" width="274.0879" height="216.9255" fill="#c6d7e7" stroke="white" stroke-width="5"/>
+<text x="6638.868193145998" y="8733.037263605158" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="62" fill="#12344b">Suwon</text>
+<text x="6638.868193145998" y="8801.037263605158" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="62" fill="#12344b">Univ.</text>
+<text x="6638.868193145998" y="8878.037263605158" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="52" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="Tech University of Korea" data-country="South Korea"><title>Tech University of Korea — 1 papers</title>
+<rect x="6775.9121" y="8506.1491" width="274.0879" height="216.9255" fill="#c6d7e7" stroke="white" stroke-width="5"/>
+<text x="6912.956064381998" y="8537.611790815472" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="49" fill="#12344b">Tech Univ.</text>
+<text x="6912.956064381998" y="8590.611790815472" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="49" fill="#12344b">of Korea</text>
+<text x="6912.956064381998" y="8650.611790815472" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="41" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="VUNO Inc" data-country="South Korea"><title>VUNO Inc — 1 papers</title>
+<rect x="6775.9121" y="8723.0745" width="274.0879" height="216.9255" fill="#c6d7e7" stroke="white" stroke-width="5"/>
+<text x="6912.956064381993" y="8733.037263605156" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="62" fill="#12344b">VUNO</text>
+<text x="6912.956064381993" y="8801.037263605156" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="62" fill="#12344b">Inc</text>
+<text x="6912.956064381993" y="8878.037263605156" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="52" fill="#12344b">1</text>
+</g>
+<rect x="150.0000" y="9150.0000" width="6900.0000" height="7.0000" fill="#dbe3ed"/>
+<text x="3600.0" y="9270" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="235" fill="#102c44">github.com/ZipengWu365</text>
+</svg>

@@ -1,0 +1,1395 @@
+[
+  {
+    "name": "Peking University",
+    "value": 309,
+    "country": "China",
+    "aliases": [
+      "Peking University",
+      "Peeking University"
+    ],
+    "source_sum": 309,
+    "rank": 4
+  },
+  {
+    "name": "Korea Advanced Institute of Science and Technology",
+    "value": 237,
+    "country": "South Korea",
+    "aliases": [
+      "Korea Advanced Institute of Science and Technology",
+      "Korea Advanced Institute of Science and Technololgy"
+    ],
+    "source_sum": 238,
+    "rank": 12
+  },
+  {
+    "name": "University of Washington",
+    "value": 127,
+    "country": "United States",
+    "aliases": [
+      "University of Washington",
+      "University of Washignton"
+    ],
+    "source_sum": 128,
+    "rank": 36
+  },
+  {
+    "name": "Harbin Institute of Technology",
+    "value": 123,
+    "country": "China",
+    "aliases": [
+      "Harbin Institute of Technology",
+      "Harbin Insititute of Technology"
+    ],
+    "source_sum": 123,
+    "rank": 39
+  },
+  {
+    "name": "University of Chinese Academy of Sciences",
+    "value": 120,
+    "country": "China",
+    "aliases": [
+      "University of Chinese Academy of Sciences",
+      "University of Chinese Academic of Sciences"
+    ],
+    "source_sum": 120,
+    "rank": 42
+  },
+  {
+    "name": "Institute of Automation, Chinese Academy of Sciences",
+    "value": 117,
+    "country": "China",
+    "aliases": [
+      "Institute of Automation, Chinese Academy of Sciences",
+      "Institute of Automation of the Chinese Academy of Sciences"
+    ],
+    "source_sum": 117,
+    "rank": 45
+  },
+  {
+    "name": "Sun Yat-sen University",
+    "value": 116,
+    "country": "China",
+    "aliases": [
+      "Sun Yat-sen University",
+      "Sun Yat-san University",
+      "Sun Yat-Sein University"
+    ],
+    "source_sum": 116,
+    "rank": 46
+  },
+  {
+    "name": "Shanghai Artificial Intelligence Laboratory",
+    "value": 102,
+    "country": "China",
+    "aliases": [
+      "Shanghai Artificial Intelligence Laboratory",
+      "PJLab",
+      "pjlab.org.cn"
+    ],
+    "source_sum": 103,
+    "rank": 58
+  },
+  {
+    "name": "Chines Academy of Science",
+    "value": 98,
+    "country": "China",
+    "aliases": [
+      "Chinese Academy of Sciences",
+      "Chines Academy of Science"
+    ],
+    "source_sum": 98,
+    "rank": 63
+  },
+  {
+    "name": "Huazhong University of Science and Technology",
+    "value": 88,
+    "country": "China",
+    "aliases": [
+      "Huazhong University of Science and Technology",
+      "Huazhong University of Science and Techology"
+    ],
+    "source_sum": 89,
+    "rank": 68
+  },
+  {
+    "name": "University of Electronic Science and Technology of China",
+    "value": 79,
+    "country": "China",
+    "aliases": [
+      "University of Electronic Science and Technology of China",
+      "University of Electrionic Science and Technology of China"
+    ],
+    "source_sum": 79,
+    "rank": 75
+  },
+  {
+    "name": "Beijing Institute of Technology",
+    "value": 74,
+    "country": "China",
+    "aliases": [
+      "Beijing Institute of Technology",
+      "Beijing Insitute of Technology"
+    ],
+    "source_sum": 75,
+    "rank": 80
+  },
+  {
+    "name": "East China Normal University",
+    "value": 61,
+    "country": "China",
+    "aliases": [
+      "East China Normal University",
+      "East China nornal university",
+      "East Normal China University"
+    ],
+    "source_sum": 63,
+    "rank": 92
+  },
+  {
+    "name": "Westlake University",
+    "value": 51,
+    "country": "China",
+    "aliases": [
+      "Westlake University",
+      "Wsetlake University"
+    ],
+    "source_sum": 52,
+    "rank": 105
+  },
+  {
+    "name": "The Institute of Computing Technology of the Chinese Academy of Sciences",
+    "value": 43,
+    "country": "China",
+    "aliases": [
+      "Institute of Computing Technology, Chinese Academy of Sciences",
+      "The Institute of Computing Technology of the Chinese Academy of Sciences"
+    ],
+    "source_sum": 44,
+    "rank": 127
+  },
+  {
+    "name": "Xi'an University of Electronic Science and Technology",
+    "value": 42,
+    "country": "China",
+    "aliases": [
+      "Xidian University",
+      "Xi'an University of Electronic Science and Technology",
+      "Xi'an University of Telecommunications Engineering"
+    ],
+    "source_sum": 52,
+    "rank": 129
+  },
+  {
+    "name": "University of Munich",
+    "value": 38,
+    "country": "Germany",
+    "aliases": [
+      "Ludwig Maximilian University of Munich",
+      "University of Munich"
+    ],
+    "source_sum": 47,
+    "rank": 142
+  },
+  {
+    "name": "Sungkyunkwan University",
+    "value": 37,
+    "country": "South Korea",
+    "aliases": [
+      "Sungkyunkwan University",
+      "Sungkunkwan University"
+    ],
+    "source_sum": 38,
+    "rank": 147
+  },
+  {
+    "name": "University of Illinois Chicago",
+    "value": 33,
+    "country": "United States",
+    "aliases": [
+      "University of Illinois Chicago",
+      "University of IL at Chicago",
+      "University of illions at Chicago"
+    ],
+    "source_sum": 35,
+    "rank": 158
+  },
+  {
+    "name": "Sorbonne University",
+    "value": 32,
+    "country": "France",
+    "aliases": [
+      "Sorbonne University",
+      "University Paris VI"
+    ],
+    "source_sum": 32,
+    "rank": 161
+  },
+  {
+    "name": "Stony Brook University",
+    "value": 32,
+    "country": "United States",
+    "aliases": [
+      "Stony Brook University",
+      "SUNY - University at Stony Brook",
+      "University at Stony Brook"
+    ],
+    "source_sum": 34,
+    "rank": 161
+  },
+  {
+    "name": "National University of Defense Technology",
+    "value": 29,
+    "country": "China",
+    "aliases": [
+      "National University of Defense Technology",
+      "Naional University of Defense Technology",
+      "National University of Defence Technology"
+    ],
+    "source_sum": 31,
+    "rank": 172
+  },
+  {
+    "name": "Institute of Science Tokyo",
+    "value": 24,
+    "country": "Japan",
+    "aliases": [
+      "Institute of Science Tokyo",
+      "Institute of Tokyo Science"
+    ],
+    "source_sum": 26,
+    "rank": 189
+  },
+  {
+    "name": "Chongqing University",
+    "value": 23,
+    "country": "China",
+    "aliases": [
+      "Chongqing University",
+      "Chong Qing University"
+    ],
+    "source_sum": 24,
+    "rank": 199
+  },
+  {
+    "name": "Technical University of Berlin",
+    "value": 23,
+    "country": "Germany",
+    "aliases": [
+      "Technical University of Berlin",
+      "Technical University Berlin"
+    ],
+    "source_sum": 23,
+    "rank": 199
+  },
+  {
+    "name": "Toyota Technological Institute at Chicago",
+    "value": 22,
+    "country": "United States",
+    "aliases": [
+      "Toyota Technological Institute at Chicago",
+      "Toyota Technological Instute at Chicago"
+    ],
+    "source_sum": 22,
+    "rank": 207
+  },
+  {
+    "name": "Hanoi University of Science and Technology",
+    "value": 21,
+    "country": null,
+    "aliases": [
+      "Hanoi University of Science and Technology",
+      "Ha Noi University of Science and Technology"
+    ],
+    "source_sum": 21,
+    "rank": 214
+  },
+  {
+    "name": "University of Texas at Arlington",
+    "value": 21,
+    "country": "United States",
+    "aliases": [
+      "University of Texas at Arlington",
+      "University of Texas Arlington"
+    ],
+    "source_sum": 21,
+    "rank": 214
+  },
+  {
+    "name": "Saarland University",
+    "value": 19,
+    "country": "Germany",
+    "aliases": [
+      "Saarland University",
+      "University Of Saarland"
+    ],
+    "source_sum": 20,
+    "rank": 224
+  },
+  {
+    "name": "Sapienza University of Rome",
+    "value": 18,
+    "country": "Italy",
+    "aliases": [
+      "Sapienza University of Rome",
+      "Sapienza University",
+      "University La Sapienza of Rome"
+    ],
+    "source_sum": 20,
+    "rank": 232
+  },
+  {
+    "name": "Heidelberg University",
+    "value": 16,
+    "country": "Germany",
+    "aliases": [
+      "Heidelberg University",
+      "University of Heidelberg"
+    ],
+    "source_sum": 18,
+    "rank": 254
+  },
+  {
+    "name": "University at Buffalo",
+    "value": 15,
+    "country": "United States",
+    "aliases": [
+      "University at Buffalo",
+      "State University of New York Buffalo"
+    ],
+    "source_sum": 16,
+    "rank": 260
+  },
+  {
+    "name": "Oak Ridge National Laboratory",
+    "value": 14,
+    "country": "United States",
+    "aliases": [
+      "Oak Ridge National Laboratory",
+      "Oak Ridge National Lab"
+    ],
+    "source_sum": 15,
+    "rank": 269
+  },
+  {
+    "name": "Argonne National Laboratory",
+    "value": 12,
+    "country": "United States",
+    "aliases": [
+      "Argonne National Laboratory",
+      "Argonne National Lab"
+    ],
+    "source_sum": 13,
+    "rank": 299
+  },
+  {
+    "name": "Queen's University",
+    "value": 12,
+    "country": null,
+    "aliases": [
+      "Queen's University",
+      "Queens University"
+    ],
+    "source_sum": 13,
+    "rank": 299
+  },
+  {
+    "name": "Shanghai Innovation Institute",
+    "value": 12,
+    "country": "China",
+    "aliases": [
+      "Shanghai Innovation Institute",
+      "Shanghai Innovation Institution"
+    ],
+    "source_sum": 12,
+    "rank": 299
+  },
+  {
+    "name": "Max Plank Institute for Software Systems",
+    "value": 11,
+    "country": "Germany",
+    "aliases": [
+      "Max Planck Institute for Software Systems",
+      "Max Plank Institute for Software Systems"
+    ],
+    "source_sum": 12,
+    "rank": 324
+  },
+  {
+    "name": "University of California, Merced",
+    "value": 11,
+    "country": "United States",
+    "aliases": [
+      "University of California, Merced",
+      "University of California at Merced"
+    ],
+    "source_sum": 12,
+    "rank": 324
+  },
+  {
+    "name": "Electronics and Telecommunications Research Institute",
+    "value": 10,
+    "country": "South Korea",
+    "aliases": [
+      "Electronics and Telecommunications Research Institute",
+      "Electronics and Telecommucations Research Institute"
+    ],
+    "source_sum": 11,
+    "rank": 343
+  },
+  {
+    "name": "Macquarie University",
+    "value": 10,
+    "country": "Australia",
+    "aliases": [
+      "Macquarie University",
+      "University of Macquaire"
+    ],
+    "source_sum": 11,
+    "rank": 343
+  },
+  {
+    "name": "Max-Planck-Institut für Informatik",
+    "value": 10,
+    "country": "Germany",
+    "aliases": [
+      "Max Planck Institute for Informatics",
+      "Max-Planck-Institut für Informatik"
+    ],
+    "source_sum": 10,
+    "rank": 343
+  },
+  {
+    "name": "Stevens Institute of Technology",
+    "value": 10,
+    "country": "United States",
+    "aliases": [
+      "Stevens Institute of Technology",
+      "Steven Institute of Technology"
+    ],
+    "source_sum": 10,
+    "rank": 343
+  },
+  {
+    "name": "Università degli Studi di Milano",
+    "value": 10,
+    "country": "Italy",
+    "aliases": [
+      "Università degli Studi di Milano",
+      "University of Milan"
+    ],
+    "source_sum": 11,
+    "rank": 343
+  },
+  {
+    "name": "Case Western Reserve University",
+    "value": 9,
+    "country": "United States",
+    "aliases": [
+      "Case Western Reserve University",
+      "Case Western Researve University"
+    ],
+    "source_sum": 9,
+    "rank": 370
+  },
+  {
+    "name": "Forschungszentrum Jülich",
+    "value": 9,
+    "country": "Germany",
+    "aliases": [
+      "Forschungszentrum Jülich",
+      "Juelich Research Center",
+      "Juelich Research Centre",
+      "Research Center Juelich"
+    ],
+    "source_sum": 12,
+    "rank": 370
+  },
+  {
+    "name": "Los Alamos National Laboratory",
+    "value": 9,
+    "country": "United States",
+    "aliases": [
+      "Los Alamos National Laboratory",
+      "Los Alamos National Lab"
+    ],
+    "source_sum": 10,
+    "rank": 370
+  },
+  {
+    "name": "Marburguniversity",
+    "value": 9,
+    "country": "Germany",
+    "aliases": [
+      "Marburguniversity",
+      "Phillips-Universität Marburg"
+    ],
+    "source_sum": 9,
+    "rank": 370
+  },
+  {
+    "name": "Cardiff University",
+    "value": 8,
+    "country": "United Kingdom",
+    "aliases": [
+      "Cardiff University",
+      "University of Cardiff"
+    ],
+    "source_sum": 8,
+    "rank": 400
+  },
+  {
+    "name": "Heriot-Watt University",
+    "value": 8,
+    "country": "United Kingdom",
+    "aliases": [
+      "Heriot-Watt University",
+      "HeriotWatt University"
+    ],
+    "source_sum": 8,
+    "rank": 400
+  },
+  {
+    "name": "University of Genoa",
+    "value": 8,
+    "country": "Italy",
+    "aliases": [
+      "University of Genoa",
+      "Università degli Studi di Genova"
+    ],
+    "source_sum": 9,
+    "rank": 400
+  },
+  {
+    "name": "University of Padua",
+    "value": 8,
+    "country": "Italy",
+    "aliases": [
+      "University of Padua",
+      "University of Padova"
+    ],
+    "source_sum": 10,
+    "rank": 400
+  },
+  {
+    "name": "Université Paris Dauphine - PSL",
+    "value": 8,
+    "country": "France",
+    "aliases": [
+      "Université Paris Dauphine - PSL",
+      "Paris-Dauphine University - PSL",
+      "Université Paris-Dauphine",
+      "Paris Dauphine - PSL University"
+    ],
+    "source_sum": 10,
+    "rank": 400
+  },
+  {
+    "name": "Guangming Laboratory",
+    "value": 7,
+    "country": "China",
+    "aliases": [
+      "Guangming Laboratory",
+      "Guangming Lab."
+    ],
+    "source_sum": 7,
+    "rank": 432
+  },
+  {
+    "name": "Leibniz University Hannover",
+    "value": 7,
+    "country": "Germany",
+    "aliases": [
+      "Leibniz University Hannover",
+      "Universität Hannover",
+      "University of Hannover"
+    ],
+    "source_sum": 10,
+    "rank": 432
+  },
+  {
+    "name": "Pusan National University",
+    "value": 7,
+    "country": "South Korea",
+    "aliases": [
+      "Pusan National University",
+      "Pusan Natioinal University"
+    ],
+    "source_sum": 8,
+    "rank": 432
+  },
+  {
+    "name": "Shanghai Academy of Artificial Intelligence for Science",
+    "value": 7,
+    "country": "China",
+    "aliases": [
+      "Shanghai Academy of Artificial Intelligence for Science",
+      "Shanghai Academy of AI for Science (SAIS)",
+      "Shanghai Institute of AI for Science"
+    ],
+    "source_sum": 8,
+    "rank": 432
+  },
+  {
+    "name": "TU Dortmund University",
+    "value": 7,
+    "country": "Germany",
+    "aliases": [
+      "TU Dortmund University",
+      "Technical University of Dortmund",
+      "Technische Universität Dortmund"
+    ],
+    "source_sum": 9,
+    "rank": 432
+  },
+  {
+    "name": "University of Göttingen",
+    "value": 7,
+    "country": "Germany",
+    "aliases": [
+      "University of Göttingen",
+      "University Göttingen"
+    ],
+    "source_sum": 8,
+    "rank": 432
+  },
+  {
+    "name": "Université Grenoble Alpes",
+    "value": 7,
+    "country": "France",
+    "aliases": [
+      "Université Grenoble Alpes",
+      "University of Grenoble"
+    ],
+    "source_sum": 7,
+    "rank": 432
+  },
+  {
+    "name": "Beijing Institute for General Artificial Intelligence",
+    "value": 6,
+    "country": "China",
+    "aliases": [
+      "Beijing Institute for General Artificial Intelligence",
+      "Beijing institute of general artificial intelligence"
+    ],
+    "source_sum": 7,
+    "rank": 478
+  },
+  {
+    "name": "Ewha Womans University",
+    "value": 6,
+    "country": "South Korea",
+    "aliases": [
+      "Ewha Womans University",
+      "Ewha Women's University"
+    ],
+    "source_sum": 7,
+    "rank": 478
+  },
+  {
+    "name": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+    "value": 6,
+    "country": "Germany",
+    "aliases": [
+      "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+      "Friedrich-Alexander University Erlangen-Nuernberg",
+      "Friedrich-Alexander University of Erlangen–Nuremberg"
+    ],
+    "source_sum": 8,
+    "rank": 478
+  },
+  {
+    "name": "Hohai University",
+    "value": 6,
+    "country": "China",
+    "aliases": [
+      "Hohai University",
+      "HohaiUniversity"
+    ],
+    "source_sum": 6,
+    "rank": 478
+  },
+  {
+    "name": "Korea Telecom Research",
+    "value": 6,
+    "country": "South Korea",
+    "aliases": [
+      "Korea Telecom Research",
+      "KT Corporation",
+      "KT Research"
+    ],
+    "source_sum": 7,
+    "rank": 478
+  },
+  {
+    "name": "University of Modena and Reggio Emilia",
+    "value": 6,
+    "country": "Italy",
+    "aliases": [
+      "University of Modena and Reggio Emilia",
+      "Università degli Studi di Modena e Reggio Emilia",
+      "Università di Modena e Reggio Emilia",
+      "University of Modena e Reggio Emilia"
+    ],
+    "source_sum": 9,
+    "rank": 478
+  },
+  {
+    "name": "University of Technology Nuremberg",
+    "value": 6,
+    "country": "Germany",
+    "aliases": [
+      "University of Technology Nuremberg",
+      "niversity of Technology Nuremberg"
+    ],
+    "source_sum": 6,
+    "rank": 478
+  },
+  {
+    "name": "University of Texas Health Science Center at Houston",
+    "value": 6,
+    "country": "United States",
+    "aliases": [
+      "University of Texas Health Science Center at Houston",
+      "University of Texas Health Center at Houson"
+    ],
+    "source_sum": 7,
+    "rank": 478
+  },
+  {
+    "name": "University of Würzburg",
+    "value": 6,
+    "country": "Germany",
+    "aliases": [
+      "University of Würzburg",
+      "University of Wuerzburg"
+    ],
+    "source_sum": 7,
+    "rank": 478
+  },
+  {
+    "name": "Charité - Universitätsmedizin Berlin",
+    "value": 5,
+    "country": "Germany",
+    "aliases": [
+      "Charité - Universitätsmedizin Berlin",
+      "Charité Universitaetsmedizin Berlin"
+    ],
+    "source_sum": 5,
+    "rank": 545
+  },
+  {
+    "name": "China University of Geosciences",
+    "value": 5,
+    "country": "China",
+    "aliases": [
+      "China University of Geoscience",
+      "China University of Geosciences"
+    ],
+    "source_sum": 6,
+    "rank": 545
+  },
+  {
+    "name": "Newcastle University",
+    "value": 5,
+    "country": "United Kingdom",
+    "aliases": [
+      "Newcastle University",
+      "University of Newcastle-upon-Tyne"
+    ],
+    "source_sum": 6,
+    "rank": 545
+  },
+  {
+    "name": "University of Bordeaux",
+    "value": 5,
+    "country": "France",
+    "aliases": [
+      "University of Bordeaux",
+      "Université de Bordeaux"
+    ],
+    "source_sum": 5,
+    "rank": 545
+  },
+  {
+    "name": "University of Mannheim",
+    "value": 5,
+    "country": "Germany",
+    "aliases": [
+      "University of Mannheim",
+      "Universität Mannheim"
+    ],
+    "source_sum": 6,
+    "rank": 545
+  },
+  {
+    "name": "Bielefeld University",
+    "value": 4,
+    "country": "Germany",
+    "aliases": [
+      "Bielefeld University",
+      "Universität Bielefeld"
+    ],
+    "source_sum": 4,
+    "rank": 600
+  },
+  {
+    "name": "Freie Universität Berlin",
+    "value": 4,
+    "country": "Germany",
+    "aliases": [
+      "Freie Universität Berlin",
+      "Freie Universitaet Berlin"
+    ],
+    "source_sum": 5,
+    "rank": 600
+  },
+  {
+    "name": "Fujitsu Research",
+    "value": 4,
+    "country": "Japan",
+    "aliases": [
+      "Fujitsu Research",
+      "Fujitsu Ltd."
+    ],
+    "source_sum": 4,
+    "rank": 600
+  },
+  {
+    "name": "German Cancer Research Center",
+    "value": 4,
+    "country": "Germany",
+    "aliases": [
+      "German Cancer Research Center",
+      "German Cancer Research Center (DKFZ)"
+    ],
+    "source_sum": 6,
+    "rank": 600
+  },
+  {
+    "name": "National Institutes of Health",
+    "value": 4,
+    "country": "United States",
+    "aliases": [
+      "National Institutes of Health",
+      "National Institute of Health"
+    ],
+    "source_sum": 4,
+    "rank": 600
+  },
+  {
+    "name": "State University of New York at Albany",
+    "value": 4,
+    "country": "United States",
+    "aliases": [
+      "State University of New York at Albany",
+      "University at Albany"
+    ],
+    "source_sum": 5,
+    "rank": 600
+  },
+  {
+    "name": "Technische Universität Clausthal",
+    "value": 4,
+    "country": "Germany",
+    "aliases": [
+      "Technische Universität Clausthal",
+      "Clausthal University of Technology",
+      "Technical University of Clausthal"
+    ],
+    "source_sum": 6,
+    "rank": 600
+  },
+  {
+    "name": "University of Florence",
+    "value": 4,
+    "country": "Italy",
+    "aliases": [
+      "University of Florence",
+      "Università degli Studi di Firenze",
+      "Università di Firenze"
+    ],
+    "source_sum": 6,
+    "rank": 600
+  },
+  {
+    "name": "Università di Roma Tor Vergata",
+    "value": 4,
+    "country": "Italy",
+    "aliases": [
+      "Università di Roma Tor Vergata",
+      "University of Roma \"Tor Vergata\"",
+      "University of Rome Tor Vergata"
+    ],
+    "source_sum": 6,
+    "rank": 600
+  },
+  {
+    "name": "Wellcome Sanger Institute",
+    "value": 4,
+    "country": "United Kingdom",
+    "aliases": [
+      "Wellcome Sanger Institute",
+      "Sanger institute"
+    ],
+    "source_sum": 6,
+    "rank": 600
+  },
+  {
+    "name": "Beijing Forestry University",
+    "value": 3,
+    "country": "China",
+    "aliases": [
+      "Beijing Forestry University",
+      "Beijing Foresty University"
+    ],
+    "source_sum": 3,
+    "rank": 680
+  },
+  {
+    "name": "Beijing Institute of Mathematical Sciences and Applications (BIMSA)",
+    "value": 3,
+    "country": "China",
+    "aliases": [
+      "Beijing Institute of Mathematical Sciences and Applications (BIMSA)",
+      "Beijing Institute of Mathematical Sciences and Applications"
+    ],
+    "source_sum": 3,
+    "rank": 680
+  },
+  {
+    "name": "Institute of Microelectronics of the Chinese Academy of Sciences",
+    "value": 3,
+    "country": "China",
+    "aliases": [
+      "Institute of Microelectronics of the Chinese Academy of Sciences",
+      "Institute of Microelectronics of the Chinese Academy"
+    ],
+    "source_sum": 3,
+    "rank": 680
+  },
+  {
+    "name": "Mitsubishi Electric Research Laboratories (MERL)",
+    "value": 3,
+    "country": "United States",
+    "aliases": [
+      "Mitsubishi Electric Research Laboratories (MERL)",
+      "Mitsubishi Electric Research Labs"
+    ],
+    "source_sum": 4,
+    "rank": 680
+  },
+  {
+    "name": "Nanjing Agricultural University",
+    "value": 3,
+    "country": "China",
+    "aliases": [
+      "Nanjing Agricultural University",
+      "Nanjing Agricutural University"
+    ],
+    "source_sum": 3,
+    "rank": 680
+  },
+  {
+    "name": "North-west A&F University",
+    "value": 3,
+    "country": "China",
+    "aliases": [
+      "North-west A&F University",
+      "Northwest A&F university"
+    ],
+    "source_sum": 3,
+    "rank": 680
+  },
+  {
+    "name": "Ulm University",
+    "value": 3,
+    "country": "Germany",
+    "aliases": [
+      "Ulm University",
+      "Universität Ulm",
+      "University Ulm"
+    ],
+    "source_sum": 4,
+    "rank": 680
+  },
+  {
+    "name": "University of Siena",
+    "value": 3,
+    "country": "Italy",
+    "aliases": [
+      "University of Siena",
+      "Università di SIena"
+    ],
+    "source_sum": 3,
+    "rank": 680
+  },
+  {
+    "name": "Universität Augsburg",
+    "value": 3,
+    "country": "Germany",
+    "aliases": [
+      "Universität Augsburg",
+      "University of Augsburg"
+    ],
+    "source_sum": 4,
+    "rank": 680
+  },
+  {
+    "name": "Universität Hamburg",
+    "value": 3,
+    "country": "Germany",
+    "aliases": [
+      "Universität Hamburg",
+      "University of Hamburg"
+    ],
+    "source_sum": 3,
+    "rank": 680
+  },
+  {
+    "name": "Universität Potsdam",
+    "value": 3,
+    "country": "Germany",
+    "aliases": [
+      "Universität Potsdam",
+      "University of Potsdam"
+    ],
+    "source_sum": 3,
+    "rank": 680
+  },
+  {
+    "name": "Bergische Universität Wuppertal",
+    "value": 2,
+    "country": "Germany",
+    "aliases": [
+      "Bergische Universität Wuppertal",
+      "University of Wuppertal"
+    ],
+    "source_sum": 2,
+    "rank": 797
+  },
+  {
+    "name": "Brookhaven National Laboratory",
+    "value": 2,
+    "country": "United States",
+    "aliases": [
+      "Brookhaven National Laboratory",
+      "Brookhaven National Lab"
+    ],
+    "source_sum": 3,
+    "rank": 797
+  },
+  {
+    "name": "Central Institute of Mental Health Mannheim",
+    "value": 2,
+    "country": "Germany",
+    "aliases": [
+      "Central Institute of Mental Health Mannheim",
+      "Central Institute Of Mental Health"
+    ],
+    "source_sum": 3,
+    "rank": 797
+  },
+  {
+    "name": "Honda Research Institution US",
+    "value": 2,
+    "country": "United States",
+    "aliases": [
+      "Honda Research Institution US",
+      "Honda Research Institute"
+    ],
+    "source_sum": 6,
+    "rank": 797
+  },
+  {
+    "name": "Kumoh Nat'l Institute of Technolgy",
+    "value": 2,
+    "country": "South Korea",
+    "aliases": [
+      "Kumoh Nat'l Institute of Technolgy",
+      "Kumoh National Institute of Technology",
+      "Kumoh National University of Technology"
+    ],
+    "source_sum": 3,
+    "rank": 797
+  },
+  {
+    "name": "NTT corporation",
+    "value": 2,
+    "country": "Japan",
+    "aliases": [
+      "NTT corporation",
+      "NTT Human Informatics Laboratories"
+    ],
+    "source_sum": 3,
+    "rank": 797
+  },
+  {
+    "name": "Panasonic Holdings Corporation",
+    "value": 2,
+    "country": "Japan",
+    "aliases": [
+      "Panasonic Holdings Corporation",
+      "Panasonic AI Lab",
+      "Panasonic Corporation"
+    ],
+    "source_sum": 4,
+    "rank": 797
+  },
+  {
+    "name": "Rostock University",
+    "value": 2,
+    "country": "Germany",
+    "aliases": [
+      "Rostock University",
+      "University of Rostock"
+    ],
+    "source_sum": 2,
+    "rank": 797
+  },
+  {
+    "name": "ServiceNow Inc",
+    "value": 2,
+    "country": "United States",
+    "aliases": [
+      "Service Now Research",
+      "ServiceNow AI Research",
+      "ServiceNow Inc"
+    ],
+    "source_sum": 3,
+    "rank": 797
+  },
+  {
+    "name": "SimPlatform Co. Ltd. Affiliate Research Institute",
+    "value": 2,
+    "country": "South Korea",
+    "aliases": [
+      "SimPlatform Co. Ltd.",
+      "SimPlatform Co. Ltd. Affiliate Research Institute"
+    ],
+    "source_sum": 4,
+    "rank": 797
+  },
+  {
+    "name": "Ulsan University",
+    "value": 2,
+    "country": "South Korea",
+    "aliases": [
+      "Ulsan University",
+      "University of Ulsan"
+    ],
+    "source_sum": 2,
+    "rank": 797
+  },
+  {
+    "name": "University Medicine Essen",
+    "value": 2,
+    "country": "Germany",
+    "aliases": [
+      "University Medicine Essen",
+      "Universitätsmedizin Essen"
+    ],
+    "source_sum": 3,
+    "rank": 797
+  },
+  {
+    "name": "Universität Hildesheim",
+    "value": 2,
+    "country": "Germany",
+    "aliases": [
+      "Universität Hildesheim",
+      "University of Hildesheim"
+    ],
+    "source_sum": 4,
+    "rank": 797
+  },
+  {
+    "name": "Universität Osnabrück",
+    "value": 2,
+    "country": "Germany",
+    "aliases": [
+      "Universität Osnabrück",
+      "University of Osnabrück",
+      "Osnabrück University",
+      "Osnabrueck University"
+    ],
+    "source_sum": 6,
+    "rank": 797
+  },
+  {
+    "name": "Universität zu Lübeck",
+    "value": 2,
+    "country": "Germany",
+    "aliases": [
+      "Universität zu Lübeck",
+      "University of Luebeck"
+    ],
+    "source_sum": 3,
+    "rank": 797
+  },
+  {
+    "name": "Université Bretagne Sud",
+    "value": 2,
+    "country": "France",
+    "aliases": [
+      "Université Bretagne Sud",
+      "Université de Bretagne Sud"
+    ],
+    "source_sum": 3,
+    "rank": 797
+  },
+  {
+    "name": "Université Clermont Auvergne",
+    "value": 2,
+    "country": "France",
+    "aliases": [
+      "Université Clermont Auvergne",
+      "University Clermont Auvergne"
+    ],
+    "source_sum": 3,
+    "rank": 797
+  },
+  {
+    "name": "Université Gustave Eiffel",
+    "value": 2,
+    "country": "France",
+    "aliases": [
+      "Gustave-Eiffel University",
+      "Université Gustave Eiffel"
+    ],
+    "source_sum": 2,
+    "rank": 797
+  },
+  {
+    "name": "ASIAN INSTITUTE OF GASTROENTEROLOGY",
+    "value": 1,
+    "country": "India",
+    "aliases": [
+      "ASIAN INSTITUTE OF GASTROENTEROLOGY",
+      "ASIAN INSTITUTE OFGASTROENTEROLOGY"
+    ],
+    "source_sum": 2,
+    "rank": 1022
+  },
+  {
+    "name": "Campus Bio-Medico University of Rome",
+    "value": 1,
+    "country": "Italy",
+    "aliases": [
+      "Campus Bio-Medico University of Rome",
+      "Università Campus Bio-Medico di Roma"
+    ],
+    "source_sum": 2,
+    "rank": 1022
+  },
+  {
+    "name": "Heinrich-Heine Universität Düsseldorf",
+    "value": 1,
+    "country": "Germany",
+    "aliases": [
+      "Heinrich-Heine Universität Düsseldorf",
+      "Heinrich-Heine University Düsseldorf"
+    ],
+    "source_sum": 2,
+    "rank": 1022
+  },
+  {
+    "name": "Helmut Schmidt University",
+    "value": 1,
+    "country": "Germany",
+    "aliases": [
+      "Helmut Schmidt University",
+      "Helmut Schmidt University Hamburg"
+    ],
+    "source_sum": 2,
+    "rank": 1022
+  },
+  {
+    "name": "HodooAI Lab",
+    "value": 1,
+    "country": "South Korea",
+    "aliases": [
+      "HodooAI Lab",
+      "hodooailab"
+    ],
+    "source_sum": 2,
+    "rank": 1022
+  },
+  {
+    "name": "Johannes-Gutenberg Universität Mainz",
+    "value": 1,
+    "country": "Germany",
+    "aliases": [
+      "Johannes-Gutenberg Universität Mainz",
+      "University of Mainz"
+    ],
+    "source_sum": 2,
+    "rank": 1022
+  },
+  {
+    "name": "Polytechnic Institute of Bari",
+    "value": 1,
+    "country": "Italy",
+    "aliases": [
+      "Polytechnic Institute of Bari",
+      "Polytechnic University of Bari - Politecnico di Bari"
+    ],
+    "source_sum": 2,
+    "rank": 1022
+  },
+  {
+    "name": "Smithsonian Institution",
+    "value": 1,
+    "country": "United States",
+    "aliases": [
+      "Smithsonian Institute",
+      "Smithsonian Institution"
+    ],
+    "source_sum": 2,
+    "rank": 1022
+  },
+  {
+    "name": "Suwon University",
+    "value": 1,
+    "country": "South Korea",
+    "aliases": [
+      "Suwon University",
+      "The University of Suwon"
+    ],
+    "source_sum": 2,
+    "rank": 1022
+  },
+  {
+    "name": "Technische Universität Braunschweig",
+    "value": 1,
+    "country": "Germany",
+    "aliases": [
+      "Technische Universität Braunschweig",
+      "Technische Universität Carolo-Wilhelmina zu Braunschweig"
+    ],
+    "source_sum": 2,
+    "rank": 1022
+  },
+  {
+    "name": "Università degli Studi di Salerno",
+    "value": 1,
+    "country": "Italy",
+    "aliases": [
+      "Università degli Studi di Salerno",
+      "University of Salerno"
+    ],
+    "source_sum": 2,
+    "rank": 1022
+  },
+  {
+    "name": "Universität Koblenz",
+    "value": 1,
+    "country": "Germany",
+    "aliases": [
+      "Koblenz University",
+      "Universität Koblenz",
+      "University Koblenz"
+    ],
+    "source_sum": 3,
+    "rank": 1022
+  }
+]

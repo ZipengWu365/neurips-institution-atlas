@@ -1,0 +1,357 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="7200" height="9600" viewBox="0 0 7200 9600"><rect width="100%" height="100%" fill="#f7f9fc"/>
+<text x="160" y="145" dominant-baseline="text-before-edge" text-anchor="start" font-family="Arial,sans-serif" font-weight="700" font-size="180" fill="#71489b">NEURIPS 2026</text>
+<text x="150" y="405" dominant-baseline="text-before-edge" text-anchor="start" font-family="Arial,sans-serif" font-weight="700" font-size="285" fill="#102c44">FRANCE</text>
+<text x="160" y="790" dominant-baseline="text-before-edge" text-anchor="start" font-family="Arial,sans-serif" font-weight="700" font-size="89" fill="#4a647b">53 INSTITUTIONS  /  PAPER PARTICIPATION</text>
+<g class="institution" data-name="Inria" data-country="France"><title>Inria — 81 papers</title>
+<rect x="150.0000" y="1090.0000" width="4170.8955" height="2412.6147" fill="#8967ac" stroke="white" stroke-width="5"/>
+<text x="2235.44776119403" y="2002.3073394495414" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="white">Inria</text>
+<text x="2235.44776119403" y="2352.3073394495414" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="white">81</text>
+</g>
+<g class="institution" data-name="CNRS" data-country="France"><title>CNRS — 53 papers</title>
+<rect x="4320.8955" y="1090.0000" width="2729.1045" height="2412.6147" fill="#9a7cb8" stroke="white" stroke-width="5"/>
+<text x="5685.44776119403" y="2002.3073394495414" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">CNRS</text>
+<text x="5685.44776119403" y="2352.3073394495414" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">53</text>
+</g>
+<g class="institution" data-name="École Polytechnique" data-country="France"><title>École Polytechnique — 46 papers</title>
+<rect x="150.0000" y="3502.6147" width="2558.9404" height="2233.2118" fill="#9e83bb" stroke="white" stroke-width="5"/>
+<text x="1429.4701986754967" y="4171.220593053735" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">École</text>
+<text x="1429.4701986754967" y="4479.220593053735" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Polytechnique</text>
+<text x="1429.4701986754967" y="4829.220593053735" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">46</text>
+</g>
+<g class="institution" data-name="École Normale Supérieure de Paris" data-country="France"><title>École Normale Supérieure de Paris — 34 papers</title>
+<rect x="150.0000" y="5735.8265" width="2558.9404" height="1650.6348" fill="#a88ec1" stroke="white" stroke-width="5"/>
+<text x="1429.4701986754967" y="5959.143922018348" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">École Normale</text>
+<text x="1429.4701986754967" y="6267.143922018348" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Supérieure de</text>
+<text x="1429.4701986754967" y="6575.143922018348" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Paris</text>
+<text x="1429.4701986754967" y="6925.143922018348" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">34</text>
+</g>
+<g class="institution" data-name="Sorbonne University" data-country="France"><title>Sorbonne University — 32 papers</title>
+<rect x="150.0000" y="7386.4613" width="2558.9404" height="1553.5387" fill="#a991c3" stroke="white" stroke-width="5"/>
+<text x="1429.4701986754967" y="7869.230668414154" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Sorbonne Univ.</text>
+<text x="1429.4701986754967" y="8219.230668414155" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">32</text>
+</g>
+<g class="institution" data-name="Télécom Paris" data-country="France"><title>Télécom Paris — 18 papers</title>
+<rect x="2708.9404" y="3502.6147" width="1627.8974" height="1373.6552" fill="#b7a2cc" stroke="white" stroke-width="5"/>
+<text x="3522.889072847682" y="3741.442298406567" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Télécom</text>
+<text x="3522.889072847682" y="4049.442298406567" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Paris</text>
+<text x="3522.889072847682" y="4399.442298406567" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">18</text>
+</g>
+<g class="institution" data-name="Institut Polytechnique de Paris" data-country="France"><title>Institut Polytechnique de Paris — 15 papers</title>
+<rect x="4336.8377" y="3502.6147" width="1356.5811" height="1373.6552" fill="#baa7cf" stroke="white" stroke-width="5"/>
+<text x="5015.128311258279" y="3775.442298406567" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="193" fill="#12344b">Institut</text>
+<text x="5015.128311258279" y="3987.442298406567" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="193" fill="#12344b">Polytechnique</text>
+<text x="5015.128311258279" y="4199.442298406567" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="193" fill="#12344b">de Paris</text>
+<text x="5015.128311258279" y="4439.442298406567" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="164" fill="#12344b">15</text>
+</g>
+<g class="institution" data-name="Université Paris-Saclay" data-country="France"><title>Université Paris-Saclay — 15 papers</title>
+<rect x="5693.4189" y="3502.6147" width="1356.5811" height="1373.6552" fill="#baa7cf" stroke="white" stroke-width="5"/>
+<text x="6371.709437086092" y="3834.942298406567" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="222" fill="#12344b">Université</text>
+<text x="6371.709437086092" y="4078.942298406567" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="222" fill="#12344b">Paris-Saclay</text>
+<text x="6371.709437086092" y="4355.942298406567" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="188" fill="#12344b">15</text>
+</g>
+<g class="institution" data-name="CentraleSupélec" data-country="France"><title>CentraleSupélec — 14 papers</title>
+<rect x="2708.9404" y="4876.2699" width="1100.5503" height="1580.3395" fill="#bca8d0" stroke="white" stroke-width="5"/>
+<text x="3259.215558250163" y="5524.43965609743" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="136" fill="#12344b">CentraleSupélec</text>
+<text x="3259.215558250163" y="5693.43965609743" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="115" fill="#12344b">14</text>
+</g>
+<g class="institution" data-name="École des Ponts ParisTech" data-country="France"><title>École des Ponts ParisTech — 14 papers</title>
+<rect x="2708.9404" y="6456.6094" width="1100.5503" height="1580.3395" fill="#bca8d0" stroke="white" stroke-width="5"/>
+<text x="3259.215558250163" y="6768.279132464188" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="223" fill="#12344b">École des</text>
+<text x="3259.215558250163" y="7013.279132464188" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="223" fill="#12344b">Ponts</text>
+<text x="3259.215558250163" y="7258.279132464188" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="223" fill="#12344b">ParisTech</text>
+<text x="3259.215558250163" y="7536.279132464188" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="189" fill="#12344b">14</text>
+</g>
+<g class="institution" data-name="Criteo" data-country="France"><title>Criteo — 8 papers</title>
+<rect x="2708.9404" y="8036.9489" width="1100.5503" height="903.0511" fill="#c5b4d6" stroke="white" stroke-width="5"/>
+<text x="3259.215558250163" y="8194.474435323782" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Criteo</text>
+<text x="3259.215558250163" y="8544.474435323782" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">8</text>
+</g>
+<g class="institution" data-name="Université Paris Dauphine - PSL" data-country="France"><title>Université Paris Dauphine - PSL — 8 papers</title>
+<rect x="3809.4907" y="4876.2699" width="960.1509" height="1035.1011" fill="#c5b4d6" stroke="white" stroke-width="5"/>
+<text x="4289.566168164247" y="4903.320447236318" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="182" fill="#12344b">Université</text>
+<text x="4289.566168164247" y="5103.320447236318" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="182" fill="#12344b">Paris</text>
+<text x="4289.566168164247" y="5303.320447236318" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="182" fill="#12344b">Dauphine</text>
+<text x="4289.566168164247" y="5503.320447236318" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="182" fill="#12344b">- PSL</text>
+<text x="4289.566168164247" y="5730.320447236318" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="154" fill="#12344b">8</text>
+</g>
+<g class="institution" data-name="Université Grenoble Alpes" data-country="France"><title>Université Grenoble Alpes — 7 papers</title>
+<rect x="4769.6416" y="4876.2699" width="840.1320" height="1035.1011" fill="#c6b6d7" stroke="white" stroke-width="5"/>
+<text x="5189.7076350672105" y="5036.320447236318" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="167" fill="#12344b">Université</text>
+<text x="5189.7076350672105" y="5219.320447236318" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="167" fill="#12344b">Grenoble</text>
+<text x="5189.7076350672105" y="5402.320447236318" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="167" fill="#12344b">Alpes</text>
+<text x="5189.7076350672105" y="5610.320447236318" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="141" fill="#12344b">7</text>
+</g>
+<g class="institution" data-name="CEA" data-country="France"><title>CEA — 6 papers</title>
+<rect x="5609.7737" y="4876.2699" width="720.1132" height="1035.1011" fill="#c8b8d8" stroke="white" stroke-width="5"/>
+<text x="5969.830239716444" y="5099.820447236318" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">CEA</text>
+<text x="5969.830239716444" y="5449.820447236318" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">6</text>
+</g>
+<g class="institution" data-name="Mines ParisTech" data-country="France"><title>Mines ParisTech — 6 papers</title>
+<rect x="6329.8868" y="4876.2699" width="720.1132" height="1035.1011" fill="#c8b8d8" stroke="white" stroke-width="5"/>
+<text x="6689.943413238815" y="5164.320447236318" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="144" fill="#12344b">Mines</text>
+<text x="6689.943413238815" y="5322.320447236318" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="144" fill="#12344b">ParisTech</text>
+<text x="6689.943413238815" y="5501.320447236318" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="122" fill="#12344b">6</text>
+</g>
+<g class="institution" data-name="Université Paris Cité" data-country="France"><title>Université Paris Cité — 6 papers</title>
+<rect x="3809.4907" y="5911.3710" width="902.4203" height="825.9897" fill="#c8b8d8" stroke="white" stroke-width="5"/>
+<text x="4260.700872179173" y="6036.365843391504" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="180" fill="#12344b">Université</text>
+<text x="4260.700872179173" y="6234.365843391504" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="180" fill="#12344b">Paris Cité</text>
+<text x="4260.700872179173" y="6459.365843391504" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="153" fill="#12344b">6</text>
+</g>
+<g class="institution" data-name="Valeo" data-country="France"><title>Valeo — 6 papers</title>
+<rect x="3809.4907" y="6737.3607" width="902.4203" height="825.9897" fill="#c8b8d8" stroke="white" stroke-width="5"/>
+<text x="4260.700872179173" y="6856.355577057345" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Valeo</text>
+<text x="4260.700872179173" y="7206.355577057345" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">6</text>
+</g>
+<g class="institution" data-name="Capital Fund Management" data-country="France"><title>Capital Fund Management — 5 papers</title>
+<rect x="3809.4907" y="7563.3504" width="902.4203" height="688.3248" fill="#cabbda" stroke="white" stroke-width="5"/>
+<text x="4260.700872179173" y="7681.012832917699" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="142" fill="#12344b">Capital Fund</text>
+<text x="4260.700872179173" y="7837.012832917699" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="142" fill="#12344b">Management</text>
+<text x="4260.700872179173" y="8014.012832917699" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="120" fill="#12344b">5</text>
+</g>
+<g class="institution" data-name="Télécom SudParis" data-country="France"><title>Télécom SudParis — 5 papers</title>
+<rect x="3809.4907" y="8251.6752" width="902.4203" height="688.3248" fill="#cabbda" stroke="white" stroke-width="5"/>
+<text x="4260.700872179173" y="8278.837610972565" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="199" fill="#12344b">Télécom</text>
+<text x="4260.700872179173" y="8496.837610972565" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="199" fill="#12344b">SudParis</text>
+<text x="4260.700872179173" y="8743.837610972565" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="169" fill="#12344b">5</text>
+</g>
+<g class="institution" data-name="University of Bordeaux" data-country="France"><title>University of Bordeaux — 5 papers</title>
+<rect x="4711.9110" y="5911.3710" width="899.2650" height="690.7400" fill="#cabbda" stroke="white" stroke-width="5"/>
+<text x="5161.543520361125" y="5958.740952915939" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="187" fill="#12344b">Univ. of</text>
+<text x="5161.543520361125" y="6163.740952915939" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="187" fill="#12344b">Bordeaux</text>
+<text x="5161.543520361125" y="6396.740952915939" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="158" fill="#12344b">5</text>
+</g>
+<g class="institution" data-name="Université Claude Bernard (Lyon I)" data-country="France"><title>Université Claude Bernard (Lyon I) — 4 papers</title>
+<rect x="5611.1760" y="5911.3710" width="719.4120" height="690.7400" fill="#cdbedb" stroke="white" stroke-width="5"/>
+<text x="5970.882011634928" y="5938.240952915939" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="149" fill="#12344b">Claude</text>
+<text x="5970.882011634928" y="6101.240952915939" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="149" fill="#12344b">Bernard</text>
+<text x="5970.882011634928" y="6264.240952915939" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="149" fill="#12344b">Lyon 1</text>
+<text x="5970.882011634928" y="6449.240952915939" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="126" fill="#12344b">4</text>
+</g>
+<g class="institution" data-name="Université de Lille" data-country="France"><title>Université de Lille — 4 papers</title>
+<rect x="6330.5880" y="5911.3710" width="719.4120" height="690.7400" fill="#cdbedb" stroke="white" stroke-width="5"/>
+<text x="6690.294003878309" y="6030.240952915939" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="142" fill="#12344b">Université</text>
+<text x="6690.294003878309" y="6186.240952915939" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="142" fill="#12344b">de Lille</text>
+<text x="6690.294003878309" y="6363.240952915939" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="120" fill="#12344b">4</text>
+</g>
+<g class="institution" data-name="IMT Atlantique" data-country="France"><title>IMT Atlantique — 3 papers</title>
+<rect x="4711.9110" y="6602.1109" width="637.6606" height="584.4723" fill="#cfc1dd" stroke="white" stroke-width="5"/>
+<text x="5030.741339953238" y="6698.347063114131" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="123" fill="#12344b">IMT</text>
+<text x="5030.741339953238" y="6833.347063114131" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="123" fill="#12344b">Atlantique</text>
+<text x="5030.741339953238" y="6986.347063114131" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="104" fill="#12344b">3</text>
+</g>
+<g class="institution" data-name="Universite Cote d&#x27;Azur" data-country="France"><title>Universite Cote d&#x27;Azur — 3 papers</title>
+<rect x="4711.9110" y="7186.5832" width="637.6606" height="584.4723" fill="#cfc1dd" stroke="white" stroke-width="5"/>
+<text x="5030.741339953238" y="7213.319330795807" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="124" fill="#12344b">Universite</text>
+<text x="5030.741339953238" y="7349.319330795807" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="124" fill="#12344b">Cote</text>
+<text x="5030.741339953238" y="7485.319330795807" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="124" fill="#12344b">d&#x27;Azur</text>
+<text x="5030.741339953238" y="7639.319330795807" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="105" fill="#12344b">3</text>
+</g>
+<g class="institution" data-name="University of Toulouse" data-country="France"><title>University of Toulouse — 3 papers</title>
+<rect x="4711.9110" y="7771.0555" width="637.6606" height="584.4723" fill="#cfc1dd" stroke="white" stroke-width="5"/>
+<text x="5030.741339953238" y="7846.791598477484" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="136" fill="#12344b">Univ. of</text>
+<text x="5030.741339953238" y="7995.791598477484" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="136" fill="#12344b">Toulouse</text>
+<text x="5030.741339953238" y="8164.791598477484" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="115" fill="#12344b">3</text>
+</g>
+<g class="institution" data-name="Université de Toulouse" data-country="France"><title>Université de Toulouse — 3 papers</title>
+<rect x="4711.9110" y="8355.5277" width="637.6606" height="584.4723" fill="#cfc1dd" stroke="white" stroke-width="5"/>
+<text x="5030.741339953238" y="8382.26386615916" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="124" fill="#12344b">Université</text>
+<text x="5030.741339953238" y="8518.26386615916" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="124" fill="#12344b">de</text>
+<text x="5030.741339953238" y="8654.26386615916" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="124" fill="#12344b">Toulouse</text>
+<text x="5030.741339953238" y="8808.26386615916" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="105" fill="#12344b">3</text>
+</g>
+<g class="institution" data-name="Université Bretagne Sud" data-country="France"><title>Université Bretagne Sud — 2 papers</title>
+<rect x="5349.5717" y="6602.1109" width="566.8094" height="438.3542" fill="#d2c5df" stroke="white" stroke-width="5"/>
+<text x="5632.976378914553" y="6620.2880296539215" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="94" fill="#12344b">Université</text>
+<text x="5632.976378914553" y="6723.2880296539215" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="94" fill="#12344b">Bretagne</text>
+<text x="5632.976378914553" y="6826.2880296539215" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="94" fill="#12344b">Sud</text>
+<text x="5632.976378914553" y="6943.2880296539215" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="79" fill="#12344b">2</text>
+</g>
+<g class="institution" data-name="Université Clermont Auvergne" data-country="France"><title>Université Clermont Auvergne — 2 papers</title>
+<rect x="5916.3811" y="6602.1109" width="566.8094" height="438.3542" fill="#d2c5df" stroke="white" stroke-width="5"/>
+<text x="6199.785827348732" y="6620.2880296539215" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="94" fill="#12344b">Université</text>
+<text x="6199.785827348732" y="6723.2880296539215" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="94" fill="#12344b">Clermont</text>
+<text x="6199.785827348732" y="6826.2880296539215" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="94" fill="#12344b">Auvergne</text>
+<text x="6199.785827348732" y="6943.2880296539215" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="79" fill="#12344b">2</text>
+</g>
+<g class="institution" data-name="Université de Paris" data-country="France"><title>Université de Paris — 2 papers</title>
+<rect x="6483.1906" y="6602.1109" width="566.8094" height="438.3542" fill="#d2c5df" stroke="white" stroke-width="5"/>
+<text x="6766.595275782911" y="6645.7880296539215" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="110" fill="#12344b">Université</text>
+<text x="6766.595275782911" y="6766.7880296539215" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="110" fill="#12344b">de Paris</text>
+<text x="6766.595275782911" y="6903.7880296539215" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="93" fill="#12344b">2</text>
+</g>
+<g class="institution" data-name="Université Gustave Eiffel" data-country="France"><title>Université Gustave Eiffel — 2 papers</title>
+<rect x="5349.5717" y="7040.4651" width="566.8094" height="438.3542" fill="#d2c5df" stroke="white" stroke-width="5"/>
+<text x="5632.976378914553" y="7058.642230415179" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="94" fill="#12344b">Université</text>
+<text x="5632.976378914553" y="7161.642230415179" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="94" fill="#12344b">Gustave</text>
+<text x="5632.976378914553" y="7264.642230415179" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="94" fill="#12344b">Eiffel</text>
+<text x="5632.976378914553" y="7381.642230415179" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="79" fill="#12344b">2</text>
+</g>
+<g class="institution" data-name="Université Paul Sabatier" data-country="France"><title>Université Paul Sabatier — 2 papers</title>
+<rect x="5916.3811" y="7040.4651" width="566.8094" height="438.3542" fill="#d2c5df" stroke="white" stroke-width="5"/>
+<text x="6199.785827348732" y="7058.642230415179" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="94" fill="#12344b">Université</text>
+<text x="6199.785827348732" y="7161.642230415179" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="94" fill="#12344b">Paul</text>
+<text x="6199.785827348732" y="7264.642230415179" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="94" fill="#12344b">Sabatier</text>
+<text x="6199.785827348732" y="7381.642230415179" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="79" fill="#12344b">2</text>
+</g>
+<g class="institution" data-name="Aix Marseille University" data-country="France"><title>Aix Marseille University — 1 papers</title>
+<rect x="6483.1906" y="7040.4651" width="283.4047" height="438.3542" fill="#d6cae2" stroke="white" stroke-width="5"/>
+<text x="6624.892913674366" y="7130.642230415179" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="60" fill="#12344b">Aix</text>
+<text x="6624.892913674366" y="7196.642230415179" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="60" fill="#12344b">Marseille</text>
+<text x="6624.892913674366" y="7262.642230415179" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="60" fill="#12344b">Univ.</text>
+<text x="6624.892913674366" y="7337.642230415179" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="51" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="H Company" data-country="France"><title>H Company — 1 papers</title>
+<rect x="6766.5953" y="7040.4651" width="283.4047" height="438.3542" fill="#d6cae2" stroke="white" stroke-width="5"/>
+<text x="6908.297637891455" y="7171.142230415179" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="56" fill="#12344b">H</text>
+<text x="6908.297637891455" y="7232.142230415179" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="56" fill="#12344b">Company</text>
+<text x="6908.297637891455" y="7301.142230415179" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="47" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="Institut Curie" data-country="France"><title>Institut Curie — 1 papers</title>
+<rect x="5349.5717" y="7478.8193" width="340.0857" height="365.2952" fill="#d6cae2" stroke="white" stroke-width="5"/>
+<text x="5519.614489227717" y="7511.966914446332" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="94" fill="#12344b">Institut</text>
+<text x="5519.614489227717" y="7614.966914446332" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="94" fill="#12344b">Curie</text>
+<text x="5519.614489227717" y="7731.966914446332" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="79" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="Institut national de la santé et de la recherche médicale" data-country="France"><title>Institut national de la santé et de la recherche médicale — 1 papers</title>
+<rect x="5349.5717" y="7844.1145" width="340.0857" height="365.2952" fill="#d6cae2" stroke="white" stroke-width="5"/>
+<text x="5519.614489227717" y="7927.76208174738" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="95" fill="#12344b">Inserm</text>
+<text x="5519.614489227717" y="8045.76208174738" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="80" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="Institut Supérieur de l&#x27;Aéronautique et de l&#x27;Espace" data-country="France"><title>Institut Supérieur de l&#x27;Aéronautique et de l&#x27;Espace — 1 papers</title>
+<rect x="5349.5717" y="8209.4097" width="340.0857" height="365.2952" fill="#d6cae2" stroke="white" stroke-width="5"/>
+<text x="5519.614489227717" y="8274.557249048426" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="44" fill="#12344b">Institut</text>
+<text x="5519.614489227717" y="8322.557249048426" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="44" fill="#12344b">Supérieur de</text>
+<text x="5519.614489227717" y="8370.557249048426" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="44" fill="#12344b">l&#x27;Aéronautique</text>
+<text x="5519.614489227717" y="8418.557249048426" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="44" fill="#12344b">et de l&#x27;Espace</text>
+<text x="5519.614489227717" y="8472.557249048426" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="37" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="Institut Supérieure d&#x27;Electronique de Paris" data-country="France"><title>Institut Supérieure d&#x27;Electronique de Paris — 1 papers</title>
+<rect x="5349.5717" y="8574.7048" width="340.0857" height="365.2952" fill="#d6cae2" stroke="white" stroke-width="5"/>
+<text x="5519.614489227717" y="8637.352416349475" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="45" fill="#12344b">Institut</text>
+<text x="5519.614489227717" y="8686.352416349475" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="45" fill="#12344b">Supérieure</text>
+<text x="5519.614489227717" y="8735.352416349475" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="45" fill="#12344b">d&#x27;Electronique</text>
+<text x="5519.614489227717" y="8784.352416349475" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="45" fill="#12344b">de Paris</text>
+<text x="5519.614489227717" y="8839.352416349475" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="38" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="Institute of Mathematics of Toulouse" data-country="France"><title>Institute of Mathematics of Toulouse — 1 papers</title>
+<rect x="5689.6573" y="7478.8193" width="340.0857" height="365.2952" fill="#d6cae2" stroke="white" stroke-width="5"/>
+<text x="5859.700158288224" y="7552.466914446332" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="51" fill="#12344b">Inst. of</text>
+<text x="5859.700158288224" y="7608.466914446332" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="51" fill="#12344b">Mathematics</text>
+<text x="5859.700158288224" y="7664.466914446332" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="51" fill="#12344b">of Toulouse</text>
+<text x="5859.700158288224" y="7727.466914446332" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="43" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="IRIT - Institut de Recherche en Informatique de Toulouse" data-country="France"><title>IRIT - Institut de Recherche en Informatique de Toulouse — 1 papers</title>
+<rect x="6029.7430" y="7478.8193" width="340.0857" height="365.2952" fill="#d6cae2" stroke="white" stroke-width="5"/>
+<text x="6199.785827348731" y="7510.966914446332" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="47" fill="#12344b">IRIT - Institut</text>
+<text x="6199.785827348731" y="7561.966914446332" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="47" fill="#12344b">de Recherche</text>
+<text x="6199.785827348731" y="7612.966914446332" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="47" fill="#12344b">en</text>
+<text x="6199.785827348731" y="7663.966914446332" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="47" fill="#12344b">Informatique</text>
+<text x="6199.785827348731" y="7714.966914446332" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="47" fill="#12344b">de Toulouse</text>
+<text x="6199.785827348731" y="7772.966914446332" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="39" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="Laboratoire de Probabilités Statistique et Modélisation" data-country="France"><title>Laboratoire de Probabilités Statistique et Modélisation — 1 papers</title>
+<rect x="6369.8287" y="7478.8193" width="340.0857" height="365.2952" fill="#d6cae2" stroke="white" stroke-width="5"/>
+<text x="6539.871496409238" y="7504.966914446332" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="49" fill="#12344b">Laboratoire</text>
+<text x="6539.871496409238" y="7557.966914446332" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="49" fill="#12344b">de</text>
+<text x="6539.871496409238" y="7610.966914446332" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="49" fill="#12344b">Probabilités</text>
+<text x="6539.871496409238" y="7663.966914446332" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="49" fill="#12344b">Statistique et</text>
+<text x="6539.871496409238" y="7716.966914446332" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="49" fill="#12344b">Modélisation</text>
+<text x="6539.871496409238" y="7776.966914446332" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="41" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="Laboratoire de recherche en informatique" data-country="France"><title>Laboratoire de recherche en informatique — 1 papers</title>
+<rect x="6709.9143" y="7478.8193" width="340.0857" height="365.2952" fill="#d6cae2" stroke="white" stroke-width="5"/>
+<text x="6879.957165469745" y="7496.466914446332" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="51" fill="#12344b">Laboratoire</text>
+<text x="6879.957165469745" y="7552.466914446332" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="51" fill="#12344b">de</text>
+<text x="6879.957165469745" y="7608.466914446332" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="51" fill="#12344b">recherche</text>
+<text x="6879.957165469745" y="7664.466914446332" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="51" fill="#12344b">en</text>
+<text x="6879.957165469745" y="7720.466914446332" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="51" fill="#12344b">informatique</text>
+<text x="6879.957165469745" y="7783.466914446332" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="43" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="Laboratory of Mathematics and Modelisation of Evry" data-country="France"><title>Laboratory of Mathematics and Modelisation of Evry — 1 papers</title>
+<rect x="5689.6573" y="7844.1145" width="340.0857" height="365.2952" fill="#d6cae2" stroke="white" stroke-width="5"/>
+<text x="5859.700158288224" y="7861.76208174738" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="51" fill="#12344b">Lab of</text>
+<text x="5859.700158288224" y="7917.76208174738" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="51" fill="#12344b">Mathematics</text>
+<text x="5859.700158288224" y="7973.76208174738" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="51" fill="#12344b">&amp;</text>
+<text x="5859.700158288224" y="8029.76208174738" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="51" fill="#12344b">Modelisation</text>
+<text x="5859.700158288224" y="8085.76208174738" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="51" fill="#12344b">of Evry</text>
+<text x="5859.700158288224" y="8148.76208174738" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="43" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="LIPN - Laboratoire d&#x27;Informatique de Paris Nord" data-country="France"><title>LIPN - Laboratoire d&#x27;Informatique de Paris Nord — 1 papers</title>
+<rect x="5689.6573" y="8209.4097" width="340.0857" height="365.2952" fill="#d6cae2" stroke="white" stroke-width="5"/>
+<text x="5859.700158288224" y="8272.057249048426" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="45" fill="#12344b">LIPN -</text>
+<text x="5859.700158288224" y="8321.057249048426" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="45" fill="#12344b">Laboratoire</text>
+<text x="5859.700158288224" y="8370.057249048426" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="45" fill="#12344b">d&#x27;Informatique</text>
+<text x="5859.700158288224" y="8419.057249048426" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="45" fill="#12344b">de Paris Nord</text>
+<text x="5859.700158288224" y="8474.057249048426" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="38" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="OceanDataLab" data-country="France"><title>OceanDataLab — 1 papers</title>
+<rect x="5689.6573" y="8574.7048" width="340.0857" height="365.2952" fill="#d6cae2" stroke="white" stroke-width="5"/>
+<text x="5859.700158288224" y="8711.852416349475" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="44" fill="#12344b">OceanDataLab</text>
+<text x="5859.700158288224" y="8765.852416349475" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="37" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="Onera - The french aerospace lab" data-country="France"><title>Onera - The french aerospace lab — 1 papers</title>
+<rect x="6029.7430" y="7844.1145" width="340.0857" height="365.2952" fill="#d6cae2" stroke="white" stroke-width="5"/>
+<text x="6199.785827348731" y="7862.76208174738" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="61" fill="#12344b">Onera -</text>
+<text x="6199.785827348731" y="7929.76208174738" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="61" fill="#12344b">The french</text>
+<text x="6199.785827348731" y="7996.76208174738" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="61" fill="#12344b">aerospace</text>
+<text x="6199.785827348731" y="8063.76208174738" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="61" fill="#12344b">lab</text>
+<text x="6199.785827348731" y="8139.76208174738" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="51" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="Scienta Lab" data-country="France"><title>Scienta Lab — 1 papers</title>
+<rect x="6369.8287" y="7844.1145" width="340.0857" height="365.2952" fill="#d6cae2" stroke="white" stroke-width="5"/>
+<text x="6539.871496409239" y="7888.76208174738" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="87" fill="#12344b">Scienta</text>
+<text x="6539.871496409239" y="7983.76208174738" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="87" fill="#12344b">Lab</text>
+<text x="6539.871496409239" y="8091.76208174738" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="73" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="Université d&#x27;Artois" data-country="France"><title>Université d&#x27;Artois — 1 papers</title>
+<rect x="6709.9143" y="7844.1145" width="340.0857" height="365.2952" fill="#d6cae2" stroke="white" stroke-width="5"/>
+<text x="6879.9571654697465" y="7925.26208174738" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="64" fill="#12344b">Université</text>
+<text x="6879.9571654697465" y="7995.26208174738" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="64" fill="#12344b">d&#x27;Artois</text>
+<text x="6879.9571654697465" y="8074.26208174738" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="54" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="Université de Haute Alsace" data-country="France"><title>Université de Haute Alsace — 1 papers</title>
+<rect x="6029.7430" y="8209.4097" width="340.0857" height="365.2952" fill="#d6cae2" stroke="white" stroke-width="5"/>
+<text x="6199.785827348731" y="8255.557249048426" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="64" fill="#12344b">Université</text>
+<text x="6199.785827348731" y="8325.557249048426" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="64" fill="#12344b">de Haute</text>
+<text x="6199.785827348731" y="8395.557249048426" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="64" fill="#12344b">Alsace</text>
+<text x="6199.785827348731" y="8474.557249048426" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="54" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="Université de Technologie de Troyes" data-country="France"><title>Université de Technologie de Troyes — 1 papers</title>
+<rect x="6029.7430" y="8574.7048" width="340.0857" height="365.2952" fill="#d6cae2" stroke="white" stroke-width="5"/>
+<text x="6199.785827348731" y="8615.352416349475" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="53" fill="#12344b">Université</text>
+<text x="6199.785827348731" y="8673.352416349475" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="53" fill="#12344b">de</text>
+<text x="6199.785827348731" y="8731.352416349475" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="53" fill="#12344b">Technologie</text>
+<text x="6199.785827348731" y="8789.352416349475" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="53" fill="#12344b">de Troyes</text>
+<text x="6199.785827348731" y="8854.352416349475" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="45" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="Université Evry Paris-Saclay" data-country="France"><title>Université Evry Paris-Saclay — 1 papers</title>
+<rect x="6369.8287" y="8209.4097" width="340.0857" height="365.2952" fill="#d6cae2" stroke="white" stroke-width="5"/>
+<text x="6539.871496409238" y="8281.057249048426" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="52" fill="#12344b">Université</text>
+<text x="6539.871496409238" y="8338.057249048426" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="52" fill="#12344b">Evry</text>
+<text x="6539.871496409238" y="8395.057249048426" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="52" fill="#12344b">Paris-Saclay</text>
+<text x="6539.871496409238" y="8459.057249048426" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="44" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="Université Paris 8" data-country="France"><title>Université Paris 8 — 1 papers</title>
+<rect x="6709.9143" y="8209.4097" width="340.0857" height="365.2952" fill="#d6cae2" stroke="white" stroke-width="5"/>
+<text x="6879.957165469746" y="8290.557249048426" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="64" fill="#12344b">Université</text>
+<text x="6879.957165469746" y="8360.557249048426" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="64" fill="#12344b">Paris 8</text>
+<text x="6879.957165469746" y="8439.557249048426" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="54" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="Université Sorbonne-Nouvelle (Paris III)" data-country="France"><title>Université Sorbonne-Nouvelle (Paris III) — 1 papers</title>
+<rect x="6369.8287" y="8574.7048" width="340.0857" height="365.2952" fill="#d6cae2" stroke="white" stroke-width="5"/>
+<text x="6539.871496409238" y="8685.352416349475" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="34" fill="#12344b">Université</text>
+<text x="6539.871496409238" y="8722.352416349475" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="34" fill="#12344b">Sorbonne-Nouvell-</text>
+<text x="6539.871496409238" y="8759.352416349475" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="34" fill="#12344b">e (Paris III)</text>
+<text x="6539.871496409238" y="8801.352416349475" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="28" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="Université Toulouse Capitole" data-country="France"><title>Université Toulouse Capitole — 1 papers</title>
+<rect x="6709.9143" y="8574.7048" width="340.0857" height="365.2952" fill="#d6cae2" stroke="white" stroke-width="5"/>
+<text x="6879.957165469746" y="8620.852416349473" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="64" fill="#12344b">Université</text>
+<text x="6879.957165469746" y="8690.852416349473" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="64" fill="#12344b">Toulouse</text>
+<text x="6879.957165469746" y="8760.852416349473" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="64" fill="#12344b">Capitole</text>
+<text x="6879.957165469746" y="8839.852416349473" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="54" fill="#12344b">1</text>
+</g>
+<rect x="150.0000" y="9150.0000" width="6900.0000" height="7.0000" fill="#dbe3ed"/>
+<text x="3600.0" y="9270" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="235" fill="#102c44">github.com/ZipengWu365</text>
+</svg>

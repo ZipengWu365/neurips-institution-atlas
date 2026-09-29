@@ -1,0 +1,205 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="7200" height="9600" viewBox="0 0 7200 9600"><rect width="100%" height="100%" fill="#f7f9fc"/>
+<text x="160" y="145" dominant-baseline="text-before-edge" text-anchor="start" font-family="Arial,sans-serif" font-weight="700" font-size="180" fill="#c2791d">NEURIPS 2026</text>
+<text x="150" y="405" dominant-baseline="text-before-edge" text-anchor="start" font-family="Arial,sans-serif" font-weight="700" font-size="285" fill="#102c44">AUSTRALIA</text>
+<text x="160" y="790" dominant-baseline="text-before-edge" text-anchor="start" font-family="Arial,sans-serif" font-weight="700" font-size="89" fill="#4a647b">32 INSTITUTIONS  /  PAPER PARTICIPATION</text>
+<g class="institution" data-name="University of Sydney" data-country="Australia"><title>University of Sydney — 65 papers</title>
+<rect x="150.0000" y="1090.0000" width="2718.1818" height="2606.1368" fill="#cc9043" stroke="white" stroke-width="5"/>
+<text x="1509.090909090909" y="2099.0684104627767" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="white">Univ. of Sydney</text>
+<text x="1509.090909090909" y="2449.0684104627767" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="white">65</text>
+</g>
+<g class="institution" data-name="Monash University" data-country="Australia"><title>Monash University — 50 papers</title>
+<rect x="2868.1818" y="1090.0000" width="2090.9091" height="2606.1368" fill="#d19a54" stroke="white" stroke-width="5"/>
+<text x="3913.6363636363635" y="2099.0684104627767" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Monash Univ.</text>
+<text x="3913.6363636363635" y="2449.0684104627767" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">50</text>
+</g>
+<g class="institution" data-name="University of New South Wales" data-country="Australia"><title>University of New South Wales — 50 papers</title>
+<rect x="4959.0909" y="1090.0000" width="2090.9091" height="2606.1368" fill="#d19a54" stroke="white" stroke-width="5"/>
+<text x="6004.545454545454" y="2099.0684104627767" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">UNSW</text>
+<text x="6004.545454545454" y="2449.0684104627767" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">50</text>
+</g>
+<g class="institution" data-name="University of Technology Sydney" data-country="Australia"><title>University of Technology Sydney — 45 papers</title>
+<rect x="150.0000" y="3696.1368" width="1828.9157" height="2681.5209" fill="#d39e5b" stroke="white" stroke-width="5"/>
+<text x="1064.4578313253014" y="4742.897292847997" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">UTS</text>
+<text x="1064.4578313253014" y="5092.897292847997" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">45</text>
+</g>
+<g class="institution" data-name="University of Melbourne" data-country="Australia"><title>University of Melbourne — 43 papers</title>
+<rect x="150.0000" y="6377.6578" width="1828.9157" height="2562.3422" fill="#d39f5d" stroke="white" stroke-width="5"/>
+<text x="1064.4578313253014" y="7210.82888238522" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Univ. of</text>
+<text x="1064.4578313253014" y="7518.82888238522" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Melbourne</text>
+<text x="1064.4578313253014" y="7868.82888238522" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">43</text>
+</g>
+<g class="institution" data-name="Australian National University" data-country="Australia"><title>Australian National University — 41 papers</title>
+<rect x="1978.9157" y="3696.1368" width="2631.8286" height="1697.8082" fill="#d4a160" stroke="white" stroke-width="5"/>
+<text x="3294.8299527222816" y="4251.040901144573" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">ANU</text>
+<text x="3294.8299527222816" y="4601.040901144573" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">41</text>
+</g>
+<g class="institution" data-name="University of Adelaide" data-country="Australia"><title>University of Adelaide — 38 papers</title>
+<rect x="4610.7442" y="3696.1368" width="2439.2558" height="1697.8082" fill="#d5a364" stroke="white" stroke-width="5"/>
+<text x="5830.372121396981" y="4251.040901144573" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Univ. of Adelaide</text>
+<text x="5830.372121396981" y="4601.040901144573" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">38</text>
+</g>
+<g class="institution" data-name="CSIRO" data-country="Australia"><title>CSIRO — 28 papers</title>
+<rect x="1978.9157" y="5393.9450" width="1567.4261" height="1946.8537" fill="#d9ac73" stroke="white" stroke-width="5"/>
+<text x="2762.6286966046005" y="6073.371849224566" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">CSIRO</text>
+<text x="2762.6286966046005" y="6423.371849224566" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">28</text>
+</g>
+<g class="institution" data-name="University of Queensland" data-country="Australia"><title>University of Queensland — 23 papers</title>
+<rect x="1978.9157" y="7340.7987" width="1567.4261" height="1599.2013" fill="#dbb17b" stroke="white" stroke-width="5"/>
+<text x="2762.6286966046005" y="7712.899358542771" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="268" fill="#12344b">Univ. of</text>
+<text x="2762.6286966046005" y="8006.899358542771" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="268" fill="#12344b">Queensland</text>
+<text x="2762.6286966046005" y="8340.89935854277" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="227" fill="#12344b">23</text>
+</g>
+<g class="institution" data-name="Griffith University" data-country="Australia"><title>Griffith University — 19 papers</title>
+<rect x="3546.3417" y="5393.9450" width="1358.5614" height="1524.1815" fill="#ddb583" stroke="white" stroke-width="5"/>
+<text x="4225.622415450298" y="5708.035752912644" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Griffith</text>
+<text x="4225.622415450298" y="6016.035752912644" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Univ.</text>
+<text x="4225.622415450298" y="6366.035752912644" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">19</text>
+</g>
+<g class="institution" data-name="RMIT University" data-country="Australia"><title>RMIT University — 16 papers</title>
+<rect x="4904.9031" y="5393.9450" width="1144.0517" height="1524.1815" fill="#dfb989" stroke="white" stroke-width="5"/>
+<text x="5476.928940250798" y="5708.035752912644" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">RMIT</text>
+<text x="5476.928940250798" y="6016.035752912644" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Univ.</text>
+<text x="5476.928940250798" y="6366.035752912644" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">16</text>
+</g>
+<g class="institution" data-name="Deakin University" data-country="Australia"><title>Deakin University — 14 papers</title>
+<rect x="6048.9548" y="5393.9450" width="1001.0452" height="1524.1815" fill="#e0bc8d" stroke="white" stroke-width="5"/>
+<text x="6549.477390079799" y="5708.035752912644" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Deakin</text>
+<text x="6549.477390079799" y="6016.035752912644" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Univ.</text>
+<text x="6549.477390079799" y="6366.035752912644" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">14</text>
+</g>
+<g class="institution" data-name="Macquarie University" data-country="Australia"><title>Macquarie University — 10 papers</title>
+<rect x="3546.3417" y="6918.1265" width="970.2438" height="1123.2630" fill="#e3c197" stroke="white" stroke-width="5"/>
+<text x="4031.463644788946" y="7178.758045444559" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="189" fill="#12344b">Macquarie</text>
+<text x="4031.463644788946" y="7385.758045444559" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="189" fill="#12344b">Univ.</text>
+<text x="4031.463644788946" y="7620.758045444559" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="160" fill="#12344b">10</text>
+</g>
+<g class="institution" data-name="University of Wollongong" data-country="Australia"><title>University of Wollongong — 8 papers</title>
+<rect x="3546.3417" y="8041.3896" width="970.2438" height="898.6104" fill="#e5c59d" stroke="white" stroke-width="5"/>
+<text x="4031.463644788946" y="8232.19478321371" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="162" fill="#12344b">Univ. of</text>
+<text x="4031.463644788946" y="8410.19478321371" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="162" fill="#12344b">Wollongong</text>
+<text x="4031.463644788946" y="8612.19478321371" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="137" fill="#12344b">8</text>
+</g>
+<g class="institution" data-name="Western Sydney University" data-country="Australia"><title>Western Sydney University — 8 papers</title>
+<rect x="4516.5856" y="6918.1265" width="808.5365" height="1078.3325" fill="#e5c59d" stroke="white" stroke-width="5"/>
+<text x="4920.853820877917" y="7037.292784605244" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="196" fill="#12344b">Western</text>
+<text x="4920.853820877917" y="7252.292784605244" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="196" fill="#12344b">Sydney</text>
+<text x="4920.853820877917" y="7467.292784605244" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="196" fill="#12344b">Univ.</text>
+<text x="4920.853820877917" y="7711.292784605244" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="166" fill="#12344b">8</text>
+</g>
+<g class="institution" data-name="Canva" data-country="Australia"><title>Canva — 7 papers</title>
+<rect x="4516.5856" y="7996.4590" width="808.5365" height="943.5410" fill="#e5c7a0" stroke="white" stroke-width="5"/>
+<text x="4920.853820877917" y="8198.229522374395" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="258" fill="#12344b">Canva</text>
+<text x="4920.853820877917" y="8519.229522374395" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="219" fill="#12344b">7</text>
+</g>
+<g class="institution" data-name="Australian Institute for Machine Learning" data-country="Australia"><title>Australian Institute for Machine Learning — 5 papers</title>
+<rect x="5325.1221" y="6918.1265" width="958.2655" height="568.6519" fill="#e7cba7" stroke="white" stroke-width="5"/>
+<text x="5804.254837531947" y="6940.952481959272" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="122" fill="#12344b">Australian Inst.</text>
+<text x="5804.254837531947" y="7074.952481959272" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="122" fill="#12344b">for Machine</text>
+<text x="5804.254837531947" y="7208.952481959272" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="122" fill="#12344b">Learning</text>
+<text x="5804.254837531947" y="7360.952481959272" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="103" fill="#12344b">5</text>
+</g>
+<g class="institution" data-name="University of Western Australia" data-country="Australia"><title>University of Western Australia — 4 papers</title>
+<rect x="6283.3876" y="6918.1265" width="766.6124" height="568.6519" fill="#e8cdab" stroke="white" stroke-width="5"/>
+<text x="6666.693796163676" y="6940.952481959272" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="122" fill="#12344b">Univ. of</text>
+<text x="6666.693796163676" y="7074.952481959272" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="122" fill="#12344b">Western</text>
+<text x="6666.693796163676" y="7208.952481959272" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="122" fill="#12344b">Australia</text>
+<text x="6666.693796163676" y="7360.952481959272" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="103" fill="#12344b">4</text>
+</g>
+<g class="institution" data-name="La Trobe University" data-country="Australia"><title>La Trobe University — 3 papers</title>
+<rect x="5325.1221" y="7486.7784" width="674.9522" height="484.4072" fill="#ead0b0" stroke="white" stroke-width="5"/>
+<text x="5662.59819698374" y="7507.9820328807045" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="139" fill="#12344b">La Trobe</text>
+<text x="5662.59819698374" y="7659.9820328807045" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="139" fill="#12344b">Univ.</text>
+<text x="5662.59819698374" y="7831.9820328807045" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="118" fill="#12344b">3</text>
+</g>
+<g class="institution" data-name="Pluralis Research" data-country="Australia"><title>Pluralis Research — 3 papers</title>
+<rect x="5325.1221" y="7971.1856" width="674.9522" height="484.4072" fill="#ead0b0" stroke="white" stroke-width="5"/>
+<text x="5662.59819698374" y="7992.389219728422" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="139" fill="#12344b">Pluralis</text>
+<text x="5662.59819698374" y="8144.389219728422" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="139" fill="#12344b">Research</text>
+<text x="5662.59819698374" y="8316.389219728422" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="118" fill="#12344b">3</text>
+</g>
+<g class="institution" data-name="Queensland University of Technology" data-country="Australia"><title>Queensland University of Technology — 3 papers</title>
+<rect x="5325.1221" y="8455.5928" width="674.9522" height="484.4072" fill="#ead0b0" stroke="white" stroke-width="5"/>
+<text x="5662.59819698374" y="8475.29640657614" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="104" fill="#12344b">Queensland</text>
+<text x="5662.59819698374" y="8589.29640657614" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="104" fill="#12344b">Univ. of</text>
+<text x="5662.59819698374" y="8703.29640657614" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="104" fill="#12344b">Tech.</text>
+<text x="5662.59819698374" y="8832.29640657614" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="88" fill="#12344b">3</text>
+</g>
+<g class="institution" data-name="Edith Cowan University" data-country="Australia"><title>Edith Cowan University — 2 papers</title>
+<rect x="6000.0743" y="7486.7784" width="524.9628" height="415.2062" fill="#ebd3b5" stroke="white" stroke-width="5"/>
+<text x="6262.555733423204" y="7504.88151953444" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="89" fill="#12344b">Edith</text>
+<text x="6262.555733423204" y="7601.88151953444" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="89" fill="#12344b">Cowan</text>
+<text x="6262.555733423204" y="7698.88151953444" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="89" fill="#12344b">Univ.</text>
+<text x="6262.555733423204" y="7808.88151953444" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="75" fill="#12344b">2</text>
+</g>
+<g class="institution" data-name="Swinburne University of Technology" data-country="Australia"><title>Swinburne University of Technology — 2 papers</title>
+<rect x="6525.0372" y="7486.7784" width="524.9628" height="415.2062" fill="#ebd3b5" stroke="white" stroke-width="5"/>
+<text x="6787.518577807735" y="7504.88151953444" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="89" fill="#12344b">Swinburne</text>
+<text x="6787.518577807735" y="7601.88151953444" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="89" fill="#12344b">Univ. of</text>
+<text x="6787.518577807735" y="7698.88151953444" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="89" fill="#12344b">Tech.</text>
+<text x="6787.518577807735" y="7808.88151953444" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="75" fill="#12344b">2</text>
+</g>
+<g class="institution" data-name="University of Southern Queensland" data-country="Australia"><title>University of Southern Queensland — 2 papers</title>
+<rect x="6000.0743" y="7901.9846" width="419.9703" height="519.0077" fill="#ebd3b5" stroke="white" stroke-width="5"/>
+<text x="6210.059448984752" y="8018.988449709024" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="67" fill="#12344b">Univ. of</text>
+<text x="6210.059448984752" y="8091.988449709024" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="67" fill="#12344b">Southern</text>
+<text x="6210.059448984752" y="8164.988449709024" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="67" fill="#12344b">Queensland</text>
+<text x="6210.059448984752" y="8247.988449709024" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="56" fill="#12344b">2</text>
+</g>
+<g class="institution" data-name="Cortical Labs Pty Ltd" data-country="Australia"><title>Cortical Labs Pty Ltd — 1 papers</title>
+<rect x="6000.0743" y="8420.9923" width="419.9703" height="259.5039" fill="#edd7bc" stroke="white" stroke-width="5"/>
+<text x="6210.059448984752" y="8449.244224854512" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="64" fill="#12344b">Cortical</text>
+<text x="6210.059448984752" y="8519.244224854512" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="64" fill="#12344b">Labs Pty Ltd</text>
+<text x="6210.059448984752" y="8598.244224854512" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="54" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="Defence Science and Technology Group (DSTG)" data-country="Australia"><title>Defence Science and Technology Group (DSTG) — 1 papers</title>
+<rect x="6000.0743" y="8680.4961" width="419.9703" height="259.5039" fill="#edd7bc" stroke="white" stroke-width="5"/>
+<text x="6210.059448984752" y="8691.248074951503" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="114" fill="#12344b">DSTG</text>
+<text x="6210.059448984752" y="8833.248074951503" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="96" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="Garvan Institute of Medical Research" data-country="Australia"><title>Garvan Institute of Medical Research — 1 papers</title>
+<rect x="6420.0446" y="7901.9846" width="314.9777" height="346.0051" fill="#edd7bc" stroke="white" stroke-width="5"/>
+<text x="6577.533440053924" y="7917.987166343361" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="59" fill="#12344b">Garvan</text>
+<text x="6577.533440053924" y="7981.987166343361" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="59" fill="#12344b">Inst. of</text>
+<text x="6577.533440053924" y="8045.987166343361" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="59" fill="#12344b">Medical</text>
+<text x="6577.533440053924" y="8109.987166343361" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="59" fill="#12344b">Research</text>
+<text x="6577.533440053924" y="8181.987166343361" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="50" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="James Cook University" data-country="Australia"><title>James Cook University — 1 papers</title>
+<rect x="6735.0223" y="7901.9846" width="314.9777" height="346.0051" fill="#edd7bc" stroke="white" stroke-width="5"/>
+<text x="6892.511146684641" y="7916.987166343361" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="74" fill="#12344b">James</text>
+<text x="6892.511146684641" y="7997.987166343361" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="74" fill="#12344b">Cook</text>
+<text x="6892.511146684641" y="8078.987166343361" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="74" fill="#12344b">Univ.</text>
+<text x="6892.511146684641" y="8170.987166343361" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="62" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="Profenso Pty Ltd" data-country="Australia"><title>Profenso Pty Ltd — 1 papers</title>
+<rect x="6420.0446" y="8247.9897" width="314.9777" height="346.0051" fill="#edd7bc" stroke="white" stroke-width="5"/>
+<text x="6577.533440053924" y="8316.49229980602" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="66" fill="#12344b">Profenso</text>
+<text x="6577.533440053924" y="8388.49229980602" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="66" fill="#12344b">Pty Ltd</text>
+<text x="6577.533440053924" y="8469.49229980602" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="56" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="QIMR Berghofer Medical Research Institute" data-country="Australia"><title>QIMR Berghofer Medical Research Institute — 1 papers</title>
+<rect x="6735.0223" y="8247.9897" width="314.9777" height="346.0051" fill="#edd7bc" stroke="white" stroke-width="5"/>
+<text x="6892.511146684641" y="8264.49229980602" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="49" fill="#12344b">QIMR</text>
+<text x="6892.511146684641" y="8317.49229980602" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="49" fill="#12344b">Berghofer</text>
+<text x="6892.511146684641" y="8370.49229980602" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="49" fill="#12344b">Medical</text>
+<text x="6892.511146684641" y="8423.49229980602" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="49" fill="#12344b">Research</text>
+<text x="6892.511146684641" y="8476.49229980602" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="49" fill="#12344b">Inst.</text>
+<text x="6892.511146684641" y="8536.49229980602" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="41" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="University of Tasmania" data-country="Australia"><title>University of Tasmania — 1 papers</title>
+<rect x="6420.0446" y="8593.9949" width="314.9777" height="346.0051" fill="#edd7bc" stroke="white" stroke-width="5"/>
+<text x="6577.533440053927" y="8668.497433268672" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="62" fill="#12344b">Univ. of</text>
+<text x="6577.533440053927" y="8736.497433268672" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="62" fill="#12344b">Tasmania</text>
+<text x="6577.533440053927" y="8813.497433268672" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="52" fill="#12344b">1</text>
+</g>
+<g class="institution" data-name="University of the Sunshine Coast" data-country="Australia"><title>University of the Sunshine Coast — 1 papers</title>
+<rect x="6735.0223" y="8593.9949" width="314.9777" height="346.0051" fill="#edd7bc" stroke="white" stroke-width="5"/>
+<text x="6892.511146684644" y="8609.997433268678" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="59" fill="#12344b">Univ. of</text>
+<text x="6892.511146684644" y="8673.997433268678" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="59" fill="#12344b">the</text>
+<text x="6892.511146684644" y="8737.997433268678" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="59" fill="#12344b">Sunshine</text>
+<text x="6892.511146684644" y="8801.997433268678" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="59" fill="#12344b">Coast</text>
+<text x="6892.511146684644" y="8873.997433268678" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="50" fill="#12344b">1</text>
+</g>
+<rect x="150.0000" y="9150.0000" width="6900.0000" height="7.0000" fill="#dbe3ed"/>
+<text x="3600.0" y="9270" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="235" fill="#102c44">github.com/ZipengWu365</text>
+</svg>

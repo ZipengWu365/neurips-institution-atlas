@@ -1,0 +1,1277 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="7200" height="9600" viewBox="0 0 7200 9600"><rect width="100%" height="100%" fill="#f7f9fc"/>
+<text x="160" y="145" dominant-baseline="text-before-edge" text-anchor="start" font-family="Arial,sans-serif" font-weight="700" font-size="180" fill="#117762">NEURIPS 2026</text>
+<text x="150" y="405" dominant-baseline="text-before-edge" text-anchor="start" font-family="Arial,sans-serif" font-weight="700" font-size="285" fill="#102c44">UNITED STATES</text>
+<text x="160" y="790" dominant-baseline="text-before-edge" text-anchor="start" font-family="Arial,sans-serif" font-weight="700" font-size="89" fill="#4a647b">TOP 200 INSTITUTIONS  /  PAPER PARTICIPATION</text>
+<g class="institution" data-name="Google" data-country="United States"><title>Google — 398 papers</title>
+<rect x="150.0000" y="1090.0000" width="1869.4350" height="1640.8153" fill="#398e7d" stroke="white" stroke-width="5"/>
+<text x="1084.7174948944858" y="1462.4076550939103" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="white">Google /</text>
+<text x="1084.7174948944858" y="1770.4076550939103" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="white">DeepMind</text>
+<text x="1084.7174948944858" y="2120.4076550939103" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="white">398</text>
+</g>
+<g class="institution" data-name="Massachusetts Institute of Technology" data-country="United States"><title>Massachusetts Institute of Technology — 305 papers</title>
+<rect x="2019.4350" y="1090.0000" width="1432.6072" height="1640.8153" fill="#4c9889" stroke="white" stroke-width="5"/>
+<text x="2735.7385976855" y="1616.4076550939103" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">MIT</text>
+<text x="2735.7385976855" y="1966.4076550939103" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">305</text>
+</g>
+<g class="institution" data-name="Stanford University" data-country="United States"><title>Stanford University — 286 papers</title>
+<rect x="3452.0422" y="1090.0000" width="1343.3628" height="1640.8153" fill="#509b8b" stroke="white" stroke-width="5"/>
+<text x="4123.723621511232" y="1462.4076550939103" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Stanford</text>
+<text x="4123.723621511232" y="1770.4076550939103" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Univ.</text>
+<text x="4123.723621511232" y="2120.4076550939103" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">286</text>
+</g>
+<g class="institution" data-name="Carnegie Mellon University" data-country="United States"><title>Carnegie Mellon University — 252 papers</title>
+<rect x="4795.4050" y="1090.0000" width="1183.6624" height="1640.8153" fill="#579f90" stroke="white" stroke-width="5"/>
+<text x="5387.236215112321" y="1335.9076550939103" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="268" fill="#12344b">Carnegie</text>
+<text x="5387.236215112321" y="1629.9076550939103" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="268" fill="#12344b">Mellon</text>
+<text x="5387.236215112321" y="1923.9076550939103" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="268" fill="#12344b">Univ.</text>
+<text x="5387.236215112321" y="2257.9076550939103" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="227" fill="#12344b">252</text>
+</g>
+<g class="institution" data-name="University of California, Berkeley" data-country="United States"><title>University of California, Berkeley — 228 papers</title>
+<rect x="5979.0674" y="1090.0000" width="1070.9326" height="1640.8153" fill="#5da294" stroke="white" stroke-width="5"/>
+<text x="6514.533696392103" y="1513.4076550939103" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="249" fill="#12344b">UC</text>
+<text x="6514.533696392103" y="1786.4076550939103" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="249" fill="#12344b">Berkeley</text>
+<text x="6514.533696392103" y="2096.4076550939103" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="211" fill="#12344b">228</text>
+</g>
+<g class="institution" data-name="Microsoft" data-country="United States"><title>Microsoft — 207 papers</title>
+<rect x="150.0000" y="2730.8153" width="1144.4145" height="1394.0360" fill="#62a597" stroke="white" stroke-width="5"/>
+<text x="722.2072315164598" y="3169.3333312242203" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="247" fill="#12344b">Microsoft</text>
+<text x="722.2072315164598" y="3477.3333312242203" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="209" fill="#12344b">207</text>
+</g>
+<g class="institution" data-name="Amazon" data-country="United States"><title>Amazon — 189 papers</title>
+<rect x="150.0000" y="4124.8514" width="1144.4145" height="1272.8155" fill="#67a89a" stroke="white" stroke-width="5"/>
+<text x="722.2072315164598" y="4467.259110598203" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Amazon</text>
+<text x="722.2072315164598" y="4817.259110598203" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">189</text>
+</g>
+<g class="institution" data-name="Meta" data-country="United States"><title>Meta — 186 papers</title>
+<rect x="150.0000" y="5397.6669" width="1144.4145" height="1252.6121" fill="#67a89b" stroke="white" stroke-width="5"/>
+<text x="722.2072315164598" y="5729.972916823564" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Meta</text>
+<text x="722.2072315164598" y="6079.972916823564" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">186</text>
+</g>
+<g class="institution" data-name="Harvard University" data-country="United States"><title>Harvard University — 171 papers</title>
+<rect x="150.0000" y="6650.2790" width="1144.4145" height="1151.5950" fill="#6bab9e" stroke="white" stroke-width="5"/>
+<text x="722.2072315164598" y="6778.076460350109" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Harvard</text>
+<text x="722.2072315164598" y="7086.076460350109" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Univ.</text>
+<text x="722.2072315164598" y="7436.076460350109" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">171</text>
+</g>
+<g class="institution" data-name="University of Illinois Urbana-Champaign" data-country="United States"><title>University of Illinois Urbana-Champaign — 169 papers</title>
+<rect x="150.0000" y="7801.8740" width="1144.4145" height="1138.1260" fill="#6cab9e" stroke="white" stroke-width="5"/>
+<text x="722.2072315164598" y="8178.936977994437" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="120" fill="#12344b">Univ. of Illinois</text>
+<text x="722.2072315164598" y="8310.936977994437" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="120" fill="#12344b">Urbana-Champaign</text>
+<text x="722.2072315164598" y="8460.936977994437" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="102" fill="#12344b">169</text>
+</g>
+<g class="institution" data-name="New York University" data-country="United States"><title>New York University — 166 papers</title>
+<rect x="1294.4145" y="2730.8153" width="1170.8667" height="1092.6665" fill="#6dac9f" stroke="white" stroke-width="5"/>
+<text x="1879.8477958371695" y="2877.648575972459" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="250" fill="#12344b">New York</text>
+<text x="1879.8477958371695" y="3152.648575972459" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="250" fill="#12344b">Univ.</text>
+<text x="1879.8477958371695" y="3464.648575972459" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="212" fill="#12344b">166</text>
+</g>
+<g class="institution" data-name="NVIDIA" data-country="United States"><title>NVIDIA — 141 papers</title>
+<rect x="2465.2811" y="2730.8153" width="994.5313" height="1092.6665" fill="#74b0a3" stroke="white" stroke-width="5"/>
+<text x="2962.546790842619" y="2983.148575972459" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">NVIDIA</text>
+<text x="2962.546790842619" y="3333.148575972459" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">141</text>
+</g>
+<g class="institution" data-name="University of California, San Diego" data-country="United States"><title>University of California, San Diego — 140 papers</title>
+<rect x="3459.8125" y="2730.8153" width="987.4779" height="1092.6665" fill="#75b0a4" stroke="white" stroke-width="5"/>
+<text x="3953.551408420897" y="2849.648575972459" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="268" fill="#12344b">UC San</text>
+<text x="3953.551408420897" y="3143.648575972459" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="268" fill="#12344b">Diego</text>
+<text x="3953.551408420897" y="3477.648575972459" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="227" fill="#12344b">140</text>
+</g>
+<g class="institution" data-name="University of Washington" data-country="United States"><title>University of Washington — 127 papers</title>
+<rect x="4447.2904" y="2730.8153" width="895.7835" height="1092.6665" fill="#79b2a6" stroke="white" stroke-width="5"/>
+<text x="4895.182130461468" y="3036.148575972459" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="151" fill="#12344b">Univ. of</text>
+<text x="4895.182130461468" y="3202.148575972459" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="151" fill="#12344b">Washington</text>
+<text x="4895.182130461468" y="3390.148575972459" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="128" fill="#12344b">127</text>
+</g>
+<g class="institution" data-name="Georgia Institute of Technology" data-country="United States"><title>Georgia Institute of Technology — 122 papers</title>
+<rect x="5343.0739" y="2730.8153" width="860.5165" height="1092.6665" fill="#7ab3a7" stroke="white" stroke-width="5"/>
+<text x="5773.332129667841" y="2928.148575972459" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="219" fill="#12344b">Georgia</text>
+<text x="5773.332129667841" y="3168.148575972459" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="219" fill="#12344b">Tech</text>
+<text x="5773.332129667841" y="3440.148575972459" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="186" fill="#12344b">122</text>
+</g>
+<g class="institution" data-name="Columbia University" data-country="United States"><title>Columbia University — 120 papers</title>
+<rect x="6203.5904" y="2730.8153" width="846.4096" height="1092.6665" fill="#7bb4a8" stroke="white" stroke-width="5"/>
+<text x="6626.795181105362" y="2993.648575972459" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="178" fill="#12344b">Columbia</text>
+<text x="6626.795181105362" y="3188.648575972459" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="178" fill="#12344b">Univ.</text>
+<text x="6626.795181105362" y="3409.648575972459" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="151" fill="#12344b">120</text>
+</g>
+<g class="institution" data-name="Purdue University" data-country="United States"><title>Purdue University — 120 papers</title>
+<rect x="1294.4145" y="3823.4818" width="992.6540" height="931.6877" fill="#7bb4a8" stroke="white" stroke-width="5"/>
+<text x="1790.741454509144" y="3848.825680140367" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="276" fill="#12344b">Purdue</text>
+<text x="1790.741454509144" y="4151.825680140367" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="276" fill="#12344b">Univ.</text>
+<text x="1790.741454509144" y="4495.825680140367" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="234" fill="#12344b">120</text>
+</g>
+<g class="institution" data-name="University of Texas at Austin" data-country="United States"><title>University of Texas at Austin — 115 papers</title>
+<rect x="1294.4145" y="4755.1695" width="992.6540" height="892.8674" fill="#7db4a9" stroke="white" stroke-width="5"/>
+<text x="1790.741454509144" y="4781.603196974267" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="196" fill="#12344b">Univ. of</text>
+<text x="1790.741454509144" y="4996.603196974267" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="196" fill="#12344b">Texas at</text>
+<text x="1790.741454509144" y="5211.603196974267" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="196" fill="#12344b">Austin</text>
+<text x="1790.741454509144" y="5455.603196974267" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="166" fill="#12344b">115</text>
+</g>
+<g class="institution" data-name="Princeton University" data-country="United States"><title>Princeton University — 109 papers</title>
+<rect x="1294.4145" y="5648.0369" width="992.6540" height="846.2830" fill="#7fb6aa" stroke="white" stroke-width="5"/>
+<text x="1790.741454509144" y="5739.678361956369" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="208" fill="#12344b">Princeton</text>
+<text x="1790.741454509144" y="5967.678361956369" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="208" fill="#12344b">Univ.</text>
+<text x="1790.741454509144" y="6226.678361956369" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="176" fill="#12344b">109</text>
+</g>
+<g class="institution" data-name="Johns Hopkins University" data-country="United States"><title>Johns Hopkins University — 106 papers</title>
+<rect x="1294.4145" y="6494.3198" width="992.6540" height="822.9908" fill="#80b6ab" stroke="white" stroke-width="5"/>
+<text x="1790.741454509144" y="6522.815239059726" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="179" fill="#12344b">Johns</text>
+<text x="1790.741454509144" y="6718.815239059726" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="179" fill="#12344b">Hopkins</text>
+<text x="1790.741454509144" y="6914.815239059726" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="179" fill="#12344b">Univ.</text>
+<text x="1790.741454509144" y="7136.815239059726" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="152" fill="#12344b">106</text>
+</g>
+<g class="institution" data-name="University of Michigan" data-country="United States"><title>University of Michigan — 105 papers</title>
+<rect x="1294.4145" y="7317.3106" width="992.6540" height="815.2267" fill="#80b6ab" stroke="white" stroke-width="5"/>
+<text x="1790.741454509144" y="7371.923988216974" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="221" fill="#12344b">Univ. of</text>
+<text x="1790.741454509144" y="7614.923988216974" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="221" fill="#12344b">Michigan</text>
+<text x="1790.741454509144" y="7890.923988216974" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="187" fill="#12344b">105</text>
+</g>
+<g class="institution" data-name="University of Southern California" data-country="United States"><title>University of Southern California — 104 papers</title>
+<rect x="1294.4145" y="8132.5373" width="992.6540" height="807.4627" fill="#80b7ac" stroke="white" stroke-width="5"/>
+<text x="1790.741454509144" y="8159.268673401168" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="176" fill="#12344b">Univ. of</text>
+<text x="1790.741454509144" y="8352.268673401168" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="176" fill="#12344b">Southern</text>
+<text x="1790.741454509144" y="8545.268673401168" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="176" fill="#12344b">California</text>
+<text x="1790.741454509144" y="8764.268673401168" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="149" fill="#12344b">104</text>
+</g>
+<g class="institution" data-name="Cornell University" data-country="United States"><title>Cornell University — 103 papers</title>
+<rect x="2287.0684" y="3823.4818" width="1001.1877" height="792.8823" fill="#81b7ac" stroke="white" stroke-width="5"/>
+<text x="2787.662272580784" y="3849.42300202576" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="232" fill="#12344b">Cornell</text>
+<text x="2787.662272580784" y="4104.42300202576" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="232" fill="#12344b">Univ.</text>
+<text x="2787.662272580784" y="4393.42300202576" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="197" fill="#12344b">103</text>
+</g>
+<g class="institution" data-name="University of California, Los Angeles" data-country="United States"><title>University of California, Los Angeles — 103 papers</title>
+<rect x="3288.2561" y="3823.4818" width="1001.1877" height="792.8823" fill="#81b7ac" stroke="white" stroke-width="5"/>
+<text x="3788.849925771615" y="3925.92300202576" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">UCLA</text>
+<text x="3788.849925771615" y="4275.92300202576" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">103</text>
+</g>
+<g class="institution" data-name="University of Wisconsin-Madison" data-country="United States"><title>University of Wisconsin-Madison — 100 papers</title>
+<rect x="4289.4438" y="3823.4818" width="972.0268" height="792.8823" fill="#82b7ac" stroke="white" stroke-width="5"/>
+<text x="4775.457176246075" y="4059.92300202576" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="100" fill="#12344b">Univ. of</text>
+<text x="4775.457176246075" y="4169.92300202576" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="100" fill="#12344b">Wisconsin-Madison</text>
+<text x="4775.457176246075" y="4294.92300202576" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="85" fill="#12344b">100</text>
+</g>
+<g class="institution" data-name="University of Pennsylvania" data-country="United States"><title>University of Pennsylvania — 98 papers</title>
+<rect x="5261.4706" y="3823.4818" width="952.5863" height="792.8823" fill="#83b8ad" stroke="white" stroke-width="5"/>
+<text x="5737.763755526582" y="3990.42300202576" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="144" fill="#12344b">Univ. of</text>
+<text x="5737.763755526582" y="4148.42300202576" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="144" fill="#12344b">Pennsylvania</text>
+<text x="5737.763755526582" y="4327.42300202576" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="122" fill="#12344b">98</text>
+</g>
+<g class="institution" data-name="University of Maryland, College Park" data-country="United States"><title>University of Maryland, College Park — 86 papers</title>
+<rect x="6214.0569" y="3823.4818" width="835.9431" height="792.8823" fill="#87bbb0" stroke="white" stroke-width="5"/>
+<text x="6632.028455464023" y="3849.42300202576" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="138" fill="#12344b">Univ. of</text>
+<text x="6632.028455464023" y="4000.42300202576" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="138" fill="#12344b">Maryland,</text>
+<text x="6632.028455464023" y="4151.42300202576" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="138" fill="#12344b">College</text>
+<text x="6632.028455464023" y="4302.42300202576" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="138" fill="#12344b">Park</text>
+<text x="6632.028455464023" y="4473.42300202576" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="117" fill="#12344b">86</text>
+</g>
+<g class="institution" data-name="Yale University" data-country="United States"><title>Yale University — 85 papers</title>
+<rect x="2287.0684" y="4616.3642" width="766.4897" height="854.6722" fill="#88bbb0" stroke="white" stroke-width="5"/>
+<text x="2670.3133127941805" y="4642.700262532765" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="251" fill="#12344b">Yale</text>
+<text x="2670.3133127941805" y="4918.700262532765" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="251" fill="#12344b">Univ.</text>
+<text x="2670.3133127941805" y="5231.700262532765" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="213" fill="#12344b">85</text>
+</g>
+<g class="institution" data-name="University of North Carolina at Chapel Hill" data-country="United States"><title>University of North Carolina at Chapel Hill — 82 papers</title>
+<rect x="2287.0684" y="5471.0364" width="766.4897" height="824.5073" fill="#89bbb1" stroke="white" stroke-width="5"/>
+<text x="2670.3133127941805" y="5500.790012412801" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="142" fill="#12344b">Univ. of</text>
+<text x="2670.3133127941805" y="5656.790012412801" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="142" fill="#12344b">North</text>
+<text x="2670.3133127941805" y="5812.790012412801" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="142" fill="#12344b">Carolina at</text>
+<text x="2670.3133127941805" y="5968.790012412801" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="142" fill="#12344b">Chapel Hill</text>
+<text x="2670.3133127941805" y="6145.790012412801" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="120" fill="#12344b">82</text>
+</g>
+<g class="institution" data-name="University of Chicago" data-country="United States"><title>University of Chicago — 76 papers</title>
+<rect x="2287.0684" y="6295.5437" width="766.4897" height="764.1775" fill="#8bbdb3" stroke="white" stroke-width="5"/>
+<text x="2670.3133127941805" y="6381.132410502896" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="186" fill="#12344b">Univ. of</text>
+<text x="2670.3133127941805" y="6585.132410502896" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="186" fill="#12344b">Chicago</text>
+<text x="2670.3133127941805" y="6816.132410502896" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="158" fill="#12344b">76</text>
+</g>
+<g class="institution" data-name="IBM" data-country="United States"><title>IBM — 66 papers</title>
+<rect x="2287.0684" y="7059.7212" width="766.4897" height="663.6278" fill="#90bfb5" stroke="white" stroke-width="5"/>
+<text x="2670.3133127941805" y="7097.535072077537" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">IBM</text>
+<text x="2670.3133127941805" y="7447.535072077537" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">66</text>
+</g>
+<g class="institution" data-name="Northwestern University" data-country="United States"><title>Northwestern University — 61 papers</title>
+<rect x="2287.0684" y="7723.3490" width="766.4897" height="613.3530" fill="#92c1b7" stroke="white" stroke-width="5"/>
+<text x="2670.3133127941805" y="7848.525480668942" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="114" fill="#12344b">Northwestern</text>
+<text x="2670.3133127941805" y="7973.525480668942" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="114" fill="#12344b">Univ.</text>
+<text x="2670.3133127941805" y="8115.525480668942" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="96" fill="#12344b">61</text>
+</g>
+<g class="institution" data-name="Duke University" data-country="United States"><title>Duke University — 60 papers</title>
+<rect x="2287.0684" y="8336.7020" width="766.4897" height="603.2980" fill="#92c1b7" stroke="white" stroke-width="5"/>
+<text x="2670.3133127941805" y="8360.850988067052" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="174" fill="#12344b">Duke</text>
+<text x="2670.3133127941805" y="8551.850988067052" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="174" fill="#12344b">Univ.</text>
+<text x="2670.3133127941805" y="8768.850988067052" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="147" fill="#12344b">60</text>
+</g>
+<g class="institution" data-name="Apple" data-country="United States"><title>Apple — 59 papers</title>
+<rect x="3053.5582" y="4616.3642" width="689.4446" height="659.5377" fill="#93c1b8" stroke="white" stroke-width="5"/>
+<text x="3398.280500368232" y="4699.132997373662" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="236" fill="#12344b">Apple</text>
+<text x="3398.280500368232" y="4993.132997373662" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="200" fill="#12344b">59</text>
+</g>
+<g class="institution" data-name="University of Virginia" data-country="United States"><title>University of Virginia — 53 papers</title>
+<rect x="3743.0028" y="4616.3642" width="619.3316" height="659.5377" fill="#96c3ba" stroke="white" stroke-width="5"/>
+<text x="4052.6686347022446" y="4690.132997373662" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="160" fill="#12344b">Univ. of</text>
+<text x="4052.6686347022446" y="4866.132997373662" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="160" fill="#12344b">Virginia</text>
+<text x="4052.6686347022446" y="5066.132997373662" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="136" fill="#12344b">53</text>
+</g>
+<g class="institution" data-name="Rutgers University" data-country="United States"><title>Rutgers University — 48 papers</title>
+<rect x="4362.3344" y="4616.3642" width="560.9041" height="659.5377" fill="#98c4bb" stroke="white" stroke-width="5"/>
+<text x="4642.786505842739" y="4725.132997373662" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="139" fill="#12344b">Rutgers</text>
+<text x="4642.786505842739" y="4877.132997373662" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="139" fill="#12344b">Univ.</text>
+<text x="4642.786505842739" y="5049.132997373662" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="118" fill="#12344b">48</text>
+</g>
+<g class="institution" data-name="Arizona State University" data-country="United States"><title>Arizona State University — 46 papers</title>
+<rect x="4923.2386" y="4616.3642" width="537.5331" height="659.5377" fill="#99c5bc" stroke="white" stroke-width="5"/>
+<text x="5192.005118587356" y="4653.132997373662" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="137" fill="#12344b">Arizona</text>
+<text x="5192.005118587356" y="4803.132997373662" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="137" fill="#12344b">State</text>
+<text x="5192.005118587356" y="4953.132997373662" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="137" fill="#12344b">Univ.</text>
+<text x="5192.005118587356" y="5123.132997373662" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="116" fill="#12344b">46</text>
+</g>
+<g class="institution" data-name="University of Central Florida" data-country="United States"><title>University of Central Florida — 46 papers</title>
+<rect x="5460.7717" y="4616.3642" width="537.5331" height="659.5377" fill="#99c5bc" stroke="white" stroke-width="5"/>
+<text x="5729.538228933153" y="4651.132997373662" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="138" fill="#12344b">Univ. of</text>
+<text x="5729.538228933153" y="4802.132997373662" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="138" fill="#12344b">Central</text>
+<text x="5729.538228933153" y="4953.132997373662" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="138" fill="#12344b">Florida</text>
+<text x="5729.538228933153" y="5124.132997373662" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="117" fill="#12344b">46</text>
+</g>
+<g class="institution" data-name="Adobe" data-country="United States"><title>Adobe — 45 papers</title>
+<rect x="5998.3048" y="4616.3642" width="525.8476" height="659.5377" fill="#9ac5bc" stroke="white" stroke-width="5"/>
+<text x="6261.228588079539" y="4781.132997373662" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="158" fill="#12344b">Adobe</text>
+<text x="6261.228588079539" y="4977.132997373662" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="134" fill="#12344b">45</text>
+</g>
+<g class="institution" data-name="University of California, Santa Barbara" data-country="United States"><title>University of California, Santa Barbara — 45 papers</title>
+<rect x="6524.1524" y="4616.3642" width="525.8476" height="659.5377" fill="#9ac5bc" stroke="white" stroke-width="5"/>
+<text x="6787.076196026514" y="4667.132997373662" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="130" fill="#12344b">UC</text>
+<text x="6787.076196026514" y="4810.132997373662" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="130" fill="#12344b">Santa</text>
+<text x="6787.076196026514" y="4953.132997373662" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="130" fill="#12344b">Barbara</text>
+<text x="6787.076196026514" y="5115.132997373662" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="110" fill="#12344b">45</text>
+</g>
+<g class="institution" data-name="Texas A&amp;M University" data-country="United States"><title>Texas A&amp;M University — 42 papers</title>
+<rect x="3053.5582" y="5275.9018" width="591.0527" height="547.6588" fill="#9bc6bd" stroke="white" stroke-width="5"/>
+<text x="3349.0845352691927" y="5299.731232874571" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="117" fill="#12344b">Texas</text>
+<text x="3349.0845352691927" y="5427.731232874571" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="117" fill="#12344b">A&amp;M</text>
+<text x="3349.0845352691927" y="5555.731232874571" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="117" fill="#12344b">Univ.</text>
+<text x="3349.0845352691927" y="5700.731232874571" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="99" fill="#12344b">42</text>
+</g>
+<g class="institution" data-name="Pennsylvania State University" data-country="United States"><title>Pennsylvania State University — 41 papers</title>
+<rect x="3053.5582" y="5823.5606" width="591.0527" height="534.6193" fill="#9cc6be" stroke="white" stroke-width="5"/>
+<text x="3349.0845352691927" y="5952.870286088822" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="87" fill="#12344b">Pennsylvania</text>
+<text x="3349.0845352691927" y="6047.870286088822" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="87" fill="#12344b">State Univ.</text>
+<text x="3349.0845352691927" y="6155.870286088822" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="73" fill="#12344b">41</text>
+</g>
+<g class="institution" data-name="University of California, Irvine" data-country="United States"><title>University of California, Irvine — 41 papers</title>
+<rect x="3053.5582" y="6358.1799" width="591.0527" height="534.6193" fill="#9cc6be" stroke="white" stroke-width="5"/>
+<text x="3349.0845352691927" y="6379.989591673985" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="154" fill="#12344b">UC</text>
+<text x="3349.0845352691927" y="6548.989591673985" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="154" fill="#12344b">Irvine</text>
+<text x="3349.0845352691927" y="6740.989591673985" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="130" fill="#12344b">41</text>
+</g>
+<g class="institution" data-name="Michigan State University" data-country="United States"><title>Michigan State University — 40 papers</title>
+<rect x="3053.5582" y="6892.7992" width="591.0527" height="521.5798" fill="#9dc7be" stroke="white" stroke-width="5"/>
+<text x="3349.0845352691927" y="6915.589149630062" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="111" fill="#12344b">Michigan</text>
+<text x="3349.0845352691927" y="7037.589149630062" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="111" fill="#12344b">State</text>
+<text x="3349.0845352691927" y="7159.589149630062" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="111" fill="#12344b">Univ.</text>
+<text x="3349.0845352691927" y="7297.589149630062" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="94" fill="#12344b">40</text>
+</g>
+<g class="institution" data-name="Boston University" data-country="United States"><title>Boston University — 39 papers</title>
+<rect x="3053.5582" y="7414.3791" width="591.0527" height="508.5403" fill="#9dc7be" stroke="white" stroke-width="5"/>
+<text x="3349.0845352691927" y="7436.149212327963" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="146" fill="#12344b">Boston</text>
+<text x="3349.0845352691927" y="7596.149212327963" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="146" fill="#12344b">Univ.</text>
+<text x="3349.0845352691927" y="7777.149212327963" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="124" fill="#12344b">39</text>
+</g>
+<g class="institution" data-name="Ohio State University" data-country="United States"><title>Ohio State University — 39 papers</title>
+<rect x="3053.5582" y="7922.9194" width="591.0527" height="508.5403" fill="#9dc7be" stroke="white" stroke-width="5"/>
+<text x="3349.0845352691927" y="7998.6895273967775" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="112" fill="#12344b">Ohio State</text>
+<text x="3349.0845352691927" y="8121.6895273967775" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="112" fill="#12344b">Univ.</text>
+<text x="3349.0845352691927" y="8260.689527396778" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="95" fill="#12344b">39</text>
+</g>
+<g class="institution" data-name="University of Massachusetts Amherst" data-country="United States"><title>University of Massachusetts Amherst — 39 papers</title>
+<rect x="3053.5582" y="8431.4597" width="591.0527" height="508.5403" fill="#9dc7be" stroke="white" stroke-width="5"/>
+<text x="3349.0845352691927" y="8519.729842465593" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="78" fill="#12344b">Univ. of</text>
+<text x="3349.0845352691927" y="8604.729842465593" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="78" fill="#12344b">Massachusetts</text>
+<text x="3349.0845352691927" y="8689.729842465593" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="78" fill="#12344b">Amherst</text>
+<text x="3349.0845352691927" y="8785.729842465593" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="66" fill="#12344b">39</text>
+</g>
+<g class="institution" data-name="California Institute of Technology" data-country="United States"><title>California Institute of Technology — 38 papers</title>
+<rect x="3644.6109" y="5275.9018" width="539.1866" height="543.1646" fill="#9ec7bf" stroke="white" stroke-width="5"/>
+<text x="3914.2041954030074" y="5400.484154939407" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="140" fill="#12344b">Caltech</text>
+<text x="3914.2041954030074" y="5575.484154939407" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="119" fill="#12344b">38</text>
+</g>
+<g class="institution" data-name="Virginia Tech" data-country="United States"><title>Virginia Tech — 38 papers</title>
+<rect x="4183.7975" y="5275.9018" width="539.1866" height="543.1646" fill="#9ec7bf" stroke="white" stroke-width="5"/>
+<text x="4453.390804338237" y="5327.984154939407" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="138" fill="#12344b">Virginia</text>
+<text x="4453.390804338237" y="5478.984154939407" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="138" fill="#12344b">Tech</text>
+<text x="4453.390804338237" y="5649.984154939407" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="117" fill="#12344b">38</text>
+</g>
+<g class="institution" data-name="Qualcomm" data-country="United States"><title>Qualcomm — 36 papers</title>
+<rect x="4722.9841" y="5275.9018" width="510.8084" height="543.1646" fill="#9fc8c0" stroke="white" stroke-width="5"/>
+<text x="4978.388291985698" y="5451.484154939407" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="92" fill="#12344b">Qualcomm</text>
+<text x="4978.388291985698" y="5565.484154939407" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="78" fill="#12344b">36</text>
+</g>
+<g class="institution" data-name="University of Illinois Chicago" data-country="United States"><title>University of Illinois Chicago — 33 papers</title>
+<rect x="5233.7925" y="5275.9018" width="468.2410" height="543.1646" fill="#a1c9c1" stroke="white" stroke-width="5"/>
+<text x="5467.912976413734" y="5311.484154939407" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="110" fill="#12344b">Univ. of</text>
+<text x="5467.912976413734" y="5432.484154939407" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="110" fill="#12344b">Illinois</text>
+<text x="5467.912976413734" y="5553.484154939407" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="110" fill="#12344b">Chicago</text>
+<text x="5467.912976413734" y="5690.484154939407" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="93" fill="#12344b">33</text>
+</g>
+<g class="institution" data-name="University of Notre Dame" data-country="United States"><title>University of Notre Dame — 33 papers</title>
+<rect x="5702.0335" y="5275.9018" width="468.2410" height="543.1646" fill="#a1c9c1" stroke="white" stroke-width="5"/>
+<text x="5936.153978910118" y="5299.484154939407" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="116" fill="#12344b">Univ. of</text>
+<text x="5936.153978910118" y="5426.484154939407" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="116" fill="#12344b">Notre</text>
+<text x="5936.153978910118" y="5553.484154939407" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="116" fill="#12344b">Dame</text>
+<text x="5936.153978910118" y="5697.484154939407" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="98" fill="#12344b">33</text>
+</g>
+<g class="institution" data-name="Stony Brook University" data-country="United States"><title>Stony Brook University — 32 papers</title>
+<rect x="6170.2745" y="5275.9018" width="454.0519" height="543.1646" fill="#a1cac1" stroke="white" stroke-width="5"/>
+<text x="6397.300420762617" y="5299.484154939407" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="116" fill="#12344b">Stony</text>
+<text x="6397.300420762617" y="5426.484154939407" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="116" fill="#12344b">Brook</text>
+<text x="6397.300420762617" y="5553.484154939407" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="116" fill="#12344b">Univ.</text>
+<text x="6397.300420762617" y="5697.484154939407" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="98" fill="#12344b">32</text>
+</g>
+<g class="institution" data-name="Anthropic" data-country="United States"><title>Anthropic — 30 papers</title>
+<rect x="6624.3264" y="5275.9018" width="425.6736" height="543.1646" fill="#a3cac2" stroke="white" stroke-width="5"/>
+<text x="6837.163180683463" y="5460.984154939407" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="83" fill="#12344b">Anthropic</text>
+<text x="6837.163180683463" y="5563.984154939407" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="70" fill="#12344b">30</text>
+</g>
+<g class="institution" data-name="Allen Institute for Artificial Intelligence" data-country="United States"><title>Allen Institute for Artificial Intelligence — 29 papers</title>
+<rect x="3644.6109" y="5819.0665" width="479.0758" height="466.5313" fill="#a3cbc3" stroke="white" stroke-width="5"/>
+<text x="3884.148776054513" y="5841.332127309027" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="99" fill="#12344b">Allen</text>
+<text x="3884.148776054513" y="5949.332127309027" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="99" fill="#12344b">Inst. for</text>
+<text x="3884.148776054513" y="6057.332127309027" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="99" fill="#12344b">AI</text>
+<text x="3884.148776054513" y="6179.332127309027" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="84" fill="#12344b">29</text>
+</g>
+<g class="institution" data-name="Brown University" data-country="United States"><title>Brown University — 29 papers</title>
+<rect x="3644.6109" y="6285.5978" width="479.0758" height="466.5313" fill="#a3cbc3" stroke="white" stroke-width="5"/>
+<text x="3884.148776054513" y="6305.363427075256" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="134" fill="#12344b">Brown</text>
+<text x="3884.148776054513" y="6452.363427075256" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="134" fill="#12344b">Univ.</text>
+<text x="3884.148776054513" y="6619.363427075256" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="113" fill="#12344b">29</text>
+</g>
+<g class="institution" data-name="Emory University" data-country="United States"><title>Emory University — 29 papers</title>
+<rect x="3644.6109" y="6752.1291" width="479.0758" height="466.5313" fill="#a3cbc3" stroke="white" stroke-width="5"/>
+<text x="3884.148776054513" y="6771.894726841486" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="134" fill="#12344b">Emory</text>
+<text x="3884.148776054513" y="6918.894726841486" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="134" fill="#12344b">Univ.</text>
+<text x="3884.148776054513" y="7085.894726841486" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="113" fill="#12344b">29</text>
+</g>
+<g class="institution" data-name="University of Minnesota" data-country="United States"><title>University of Minnesota — 29 papers</title>
+<rect x="3644.6109" y="7218.6604" width="479.0758" height="466.5313" fill="#a3cbc3" stroke="white" stroke-width="5"/>
+<text x="3884.148776054513" y="7308.426026607715" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="90" fill="#12344b">Univ. of</text>
+<text x="3884.148776054513" y="7407.426026607715" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="90" fill="#12344b">Minnesota</text>
+<text x="3884.148776054513" y="7519.426026607715" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="76" fill="#12344b">29</text>
+</g>
+<g class="institution" data-name="University of California, Santa Cruz" data-country="United States"><title>University of California, Santa Cruz — 28 papers</title>
+<rect x="3644.6109" y="7685.1917" width="479.0758" height="450.4440" fill="#a4cbc3" stroke="white" stroke-width="5"/>
+<text x="3884.148776054513" y="7750.413683274527" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="100" fill="#12344b">UC Santa</text>
+<text x="3884.148776054513" y="7860.413683274527" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="100" fill="#12344b">Cruz</text>
+<text x="3884.148776054513" y="7985.413683274527" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="85" fill="#12344b">28</text>
+</g>
+<g class="institution" data-name="University of Florida" data-country="United States"><title>University of Florida — 25 papers</title>
+<rect x="3644.6109" y="8135.6357" width="479.0758" height="402.1822" fill="#a6ccc4" stroke="white" stroke-width="5"/>
+<text x="3884.148776054513" y="8152.226767543668" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="116" fill="#12344b">Univ. of</text>
+<text x="3884.148776054513" y="8279.226767543667" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="116" fill="#12344b">Florida</text>
+<text x="3884.148776054513" y="8423.226767543667" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="98" fill="#12344b">25</text>
+</g>
+<g class="institution" data-name="Washington University in St. Louis" data-country="United States"><title>Washington University in St. Louis — 25 papers</title>
+<rect x="3644.6109" y="8537.8178" width="479.0758" height="402.1822" fill="#a6ccc4" stroke="white" stroke-width="5"/>
+<text x="3884.148776054513" y="8574.908922514556" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="77" fill="#12344b">Washington</text>
+<text x="3884.148776054513" y="8658.908922514556" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="77" fill="#12344b">Univ. in St.</text>
+<text x="3884.148776054513" y="8742.908922514556" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="77" fill="#12344b">Louis</text>
+<text x="3884.148776054513" y="8837.908922514556" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="65" fill="#12344b">25</text>
+</g>
+<g class="institution" data-name="Dartmouth College" data-country="United States"><title>Dartmouth College — 24 papers</title>
+<rect x="4123.6867" y="5819.0665" width="436.2206" height="424.0256" fill="#a7cdc5" stroke="white" stroke-width="5"/>
+<text x="4341.796972142058" y="5906.079261026936" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="79" fill="#12344b">Dartmouth</text>
+<text x="4341.796972142058" y="5992.079261026936" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="79" fill="#12344b">College</text>
+<text x="4341.796972142058" y="6089.079261026936" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="67" fill="#12344b">24</text>
+</g>
+<g class="institution" data-name="University of California, Davis" data-country="United States"><title>University of California, Davis — 24 papers</title>
+<rect x="4559.9073" y="5819.0665" width="436.2206" height="424.0256" fill="#a7cdc5" stroke="white" stroke-width="5"/>
+<text x="4778.017594078908" y="5836.579261026936" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="122" fill="#12344b">UC</text>
+<text x="4778.017594078908" y="5970.579261026936" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="122" fill="#12344b">Davis</text>
+<text x="4778.017594078908" y="6122.579261026936" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="103" fill="#12344b">24</text>
+</g>
+<g class="institution" data-name="University of Texas at Dallas" data-country="United States"><title>University of Texas at Dallas — 24 papers</title>
+<rect x="4996.1279" y="5819.0665" width="436.2206" height="424.0256" fill="#a7cdc5" stroke="white" stroke-width="5"/>
+<text x="5214.238216015758" y="5836.079261026936" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="91" fill="#12344b">Univ. of</text>
+<text x="5214.238216015758" y="5936.079261026936" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="91" fill="#12344b">Texas at</text>
+<text x="5214.238216015758" y="6036.079261026936" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="91" fill="#12344b">Dallas</text>
+<text x="5214.238216015758" y="6149.079261026936" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="77" fill="#12344b">24</text>
+</g>
+<g class="institution" data-name="Rice University" data-country="United States"><title>Rice University — 23 papers</title>
+<rect x="5432.3485" y="5819.0665" width="418.0448" height="424.0256" fill="#a8cdc5" stroke="white" stroke-width="5"/>
+<text x="5641.370908328923" y="5836.579261026936" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="122" fill="#12344b">Rice</text>
+<text x="5641.370908328923" y="5970.579261026936" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="122" fill="#12344b">Univ.</text>
+<text x="5641.370908328923" y="6122.579261026936" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="103" fill="#12344b">23</text>
+</g>
+<g class="institution" data-name="University of California, Riverside" data-country="United States"><title>University of California, Riverside — 23 papers</title>
+<rect x="5850.3933" y="5819.0665" width="418.0448" height="424.0256" fill="#a8cdc5" stroke="white" stroke-width="5"/>
+<text x="6059.415671018404" y="5896.079261026936" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="85" fill="#12344b">UC</text>
+<text x="6059.415671018404" y="5989.079261026936" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="85" fill="#12344b">Riverside</text>
+<text x="6059.415671018404" y="6094.079261026936" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="72" fill="#12344b">23</text>
+</g>
+<g class="institution" data-name="Toyota Technological Institute at Chicago" data-country="United States"><title>Toyota Technological Institute at Chicago — 22 papers</title>
+<rect x="6268.4381" y="5819.0665" width="399.8689" height="424.0256" fill="#a9cec6" stroke="white" stroke-width="5"/>
+<text x="6468.372504084202" y="5837.579261026936" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="72" fill="#12344b">Toyota</text>
+<text x="6468.372504084202" y="5916.579261026936" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="72" fill="#12344b">Technol.</text>
+<text x="6468.372504084202" y="5995.579261026936" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="72" fill="#12344b">Inst. at</text>
+<text x="6468.372504084202" y="6074.579261026936" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="72" fill="#12344b">Chicago</text>
+<text x="6468.372504084202" y="6163.579261026936" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="61" fill="#12344b">22</text>
+</g>
+<g class="institution" data-name="University of Texas at Arlington" data-country="United States"><title>University of Texas at Arlington — 21 papers</title>
+<rect x="6668.3070" y="5819.0665" width="381.6930" height="424.0256" fill="#a9cec6" stroke="white" stroke-width="5"/>
+<text x="6859.15347790263" y="5863.079261026936" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="79" fill="#12344b">Univ. of</text>
+<text x="6859.15347790263" y="5949.079261026936" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="79" fill="#12344b">Texas at</text>
+<text x="6859.15347790263" y="6035.079261026936" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="79" fill="#12344b">Arlington</text>
+<text x="6859.15347790263" y="6132.079261026936" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="67" fill="#12344b">21</text>
+</g>
+<g class="institution" data-name="North Carolina State University" data-country="United States"><title>North Carolina State University — 19 papers</title>
+<rect x="4123.6867" y="6243.0920" width="357.2160" height="409.9300" fill="#abcfc8" stroke="white" stroke-width="5"/>
+<text x="4302.29465304536" y="6259.557049236237" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="70" fill="#12344b">North</text>
+<text x="4302.29465304536" y="6336.557049236237" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="70" fill="#12344b">Carolina</text>
+<text x="4302.29465304536" y="6413.557049236237" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="70" fill="#12344b">State</text>
+<text x="4302.29465304536" y="6490.557049236237" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="70" fill="#12344b">Univ.</text>
+<text x="4302.29465304536" y="6577.557049236237" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="59" fill="#12344b">19</text>
+</g>
+<g class="institution" data-name="Flatiron Institute" data-country="United States"><title>Flatiron Institute — 18 papers</title>
+<rect x="4123.6867" y="6653.0221" width="357.2160" height="388.3547" fill="#accfc8" stroke="white" stroke-width="5"/>
+<text x="4302.29465304536" y="6706.199426631299" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="89" fill="#12344b">Flatiron</text>
+<text x="4302.29465304536" y="6803.199426631299" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="89" fill="#12344b">Inst.</text>
+<text x="4302.29465304536" y="6913.199426631299" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="75" fill="#12344b">18</text>
+</g>
+<g class="institution" data-name="Salesforce" data-country="United States"><title>Salesforce — 18 papers</title>
+<rect x="4123.6867" y="7041.3768" width="357.2160" height="388.3547" fill="#accfc8" stroke="white" stroke-width="5"/>
+<text x="4302.29465304536" y="7168.054172204872" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="65" fill="#12344b">Salesforce</text>
+<text x="4302.29465304536" y="7248.054172204872" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="55" fill="#12344b">18</text>
+</g>
+<g class="institution" data-name="University of Rochester" data-country="United States"><title>University of Rochester — 18 papers</title>
+<rect x="4123.6867" y="7429.7315" width="357.2160" height="388.3547" fill="#accfc8" stroke="white" stroke-width="5"/>
+<text x="4302.29465304536" y="7517.908917778445" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="67" fill="#12344b">Univ. of</text>
+<text x="4302.29465304536" y="7590.908917778445" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="67" fill="#12344b">Rochester</text>
+<text x="4302.29465304536" y="7673.908917778445" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="56" fill="#12344b">18</text>
+</g>
+<g class="institution" data-name="Vanderbilt University" data-country="United States"><title>Vanderbilt University — 18 papers</title>
+<rect x="4123.6867" y="7818.0863" width="357.2160" height="388.3547" fill="#accfc8" stroke="white" stroke-width="5"/>
+<text x="4302.29465304536" y="7906.263663352019" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="67" fill="#12344b">Vanderbilt</text>
+<text x="4302.29465304536" y="7979.263663352019" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="67" fill="#12344b">Univ.</text>
+<text x="4302.29465304536" y="8062.263663352019" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="56" fill="#12344b">18</text>
+</g>
+<g class="institution" data-name="University of Arizona" data-country="United States"><title>University of Arizona — 17 papers</title>
+<rect x="4123.6867" y="8206.4410" width="357.2160" height="366.7795" fill="#add0c9" stroke="white" stroke-width="5"/>
+<text x="4302.29465304536" y="8248.830777104104" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="89" fill="#12344b">Univ. of</text>
+<text x="4302.29465304536" y="8345.830777104104" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="89" fill="#12344b">Arizona</text>
+<text x="4302.29465304536" y="8455.830777104104" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="75" fill="#12344b">17</text>
+</g>
+<g class="institution" data-name="University of Georgia" data-country="United States"><title>University of Georgia — 17 papers</title>
+<rect x="4123.6867" y="8573.2205" width="357.2160" height="366.7795" fill="#add0c9" stroke="white" stroke-width="5"/>
+<text x="4302.29465304536" y="8618.610259034702" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="87" fill="#12344b">Univ. of</text>
+<text x="4302.29465304536" y="8713.610259034702" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="87" fill="#12344b">Georgia</text>
+<text x="4302.29465304536" y="8821.610259034702" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="73" fill="#12344b">17</text>
+</g>
+<g class="institution" data-name="University of Utah" data-country="United States"><title>University of Utah — 16 papers</title>
+<rect x="4480.9026" y="6243.0920" width="351.3296" height="350.9880" fill="#aed0c9" stroke="white" stroke-width="5"/>
+<text x="4656.567421333012" y="6269.086055072082" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="94" fill="#12344b">Univ.</text>
+<text x="4656.567421333012" y="6372.086055072082" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="94" fill="#12344b">of Utah</text>
+<text x="4656.567421333012" y="6489.086055072082" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="79" fill="#12344b">16</text>
+</g>
+<g class="institution" data-name="Capital One" data-country="United States"><title>Capital One — 15 papers</title>
+<rect x="4832.2322" y="6243.0920" width="329.3715" height="350.9880" fill="#aed1ca" stroke="white" stroke-width="5"/>
+<text x="4996.917925638868" y="6275.086055072082" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="90" fill="#12344b">Capital</text>
+<text x="4996.917925638868" y="6374.086055072082" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="90" fill="#12344b">One</text>
+<text x="4996.917925638868" y="6486.086055072082" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="76" fill="#12344b">15</text>
+</g>
+<g class="institution" data-name="Cisco" data-country="United States"><title>Cisco — 15 papers</title>
+<rect x="5161.6037" y="6243.0920" width="329.3715" height="350.9880" fill="#aed1ca" stroke="white" stroke-width="5"/>
+<text x="5326.289381418729" y="6302.586055072082" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="111" fill="#12344b">Cisco</text>
+<text x="5326.289381418729" y="6440.586055072082" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="94" fill="#12344b">15</text>
+</g>
+<g class="institution" data-name="University at Buffalo" data-country="United States"><title>University at Buffalo — 15 papers</title>
+<rect x="5490.9751" y="6243.0920" width="329.3715" height="350.9880" fill="#aed1ca" stroke="white" stroke-width="5"/>
+<text x="5655.66083719859" y="6285.086055072082" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="84" fill="#12344b">Univ. at</text>
+<text x="5655.66083719859" y="6377.086055072082" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="84" fill="#12344b">Buffalo</text>
+<text x="5655.66083719859" y="6481.086055072082" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="71" fill="#12344b">15</text>
+</g>
+<g class="institution" data-name="MATS" data-country="United States"><title>MATS — 14 papers</title>
+<rect x="5820.3466" y="6243.0920" width="307.4134" height="350.9880" fill="#afd2ca" stroke="white" stroke-width="5"/>
+<text x="5974.053244452456" y="6315.586055072082" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="99" fill="#12344b">MATS</text>
+<text x="5974.053244452456" y="6437.586055072082" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="84" fill="#12344b">14</text>
+</g>
+<g class="institution" data-name="New Jersey Institute of Technology" data-country="United States"><title>New Jersey Institute of Technology — 14 papers</title>
+<rect x="6127.7599" y="6243.0920" width="307.4134" height="350.9880" fill="#afd2ca" stroke="white" stroke-width="5"/>
+<text x="6281.466603180326" y="6261.586055072082" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="59" fill="#12344b">New</text>
+<text x="6281.466603180326" y="6325.586055072082" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="59" fill="#12344b">Jersey</text>
+<text x="6281.466603180326" y="6389.586055072082" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="59" fill="#12344b">Inst. of</text>
+<text x="6281.466603180326" y="6453.586055072082" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="59" fill="#12344b">Tech.</text>
+<text x="6281.466603180326" y="6525.586055072082" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="50" fill="#12344b">14</text>
+</g>
+<g class="institution" data-name="Oak Ridge National Laboratory" data-country="United States"><title>Oak Ridge National Laboratory — 14 papers</title>
+<rect x="6435.1733" y="6243.0920" width="307.4134" height="350.9880" fill="#afd2ca" stroke="white" stroke-width="5"/>
+<text x="6588.8799619081965" y="6261.586055072082" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="59" fill="#12344b">Oak</text>
+<text x="6588.8799619081965" y="6325.586055072082" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="59" fill="#12344b">Ridge</text>
+<text x="6588.8799619081965" y="6389.586055072082" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="59" fill="#12344b">National</text>
+<text x="6588.8799619081965" y="6453.586055072082" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="59" fill="#12344b">Lab</text>
+<text x="6588.8799619081965" y="6525.586055072082" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="50" fill="#12344b">14</text>
+</g>
+<g class="institution" data-name="Oracle" data-country="United States"><title>Oracle — 14 papers</title>
+<rect x="6742.5866" y="6243.0920" width="307.4134" height="350.9880" fill="#afd2ca" stroke="white" stroke-width="5"/>
+<text x="6896.293320636067" y="6324.586055072082" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="90" fill="#12344b">Oracle</text>
+<text x="6896.293320636067" y="6436.586055072082" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="76" fill="#12344b">14</text>
+</g>
+<g class="institution" data-name="Rensselaer Polytechnic Institute" data-country="United States"><title>Rensselaer Polytechnic Institute — 14 papers</title>
+<rect x="4480.9026" y="6594.0801" width="335.0997" height="321.9890" fill="#afd2ca" stroke="white" stroke-width="5"/>
+<text x="4648.452472422494" y="6640.074570823914" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="54" fill="#12344b">Rensselaer</text>
+<text x="4648.452472422494" y="6699.074570823914" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="54" fill="#12344b">Polytechnic</text>
+<text x="4648.452472422494" y="6758.074570823914" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="54" fill="#12344b">Inst.</text>
+<text x="4648.452472422494" y="6825.074570823914" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="45" fill="#12344b">14</text>
+</g>
+<g class="institution" data-name="Rochester Institute of Technology" data-country="United States"><title>Rochester Institute of Technology — 14 papers</title>
+<rect x="4480.9026" y="6916.0691" width="335.0997" height="321.9890" fill="#afd2ca" stroke="white" stroke-width="5"/>
+<text x="4648.452472422494" y="6942.563581439337" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="63" fill="#12344b">Rochester</text>
+<text x="4648.452472422494" y="7011.563581439337" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="63" fill="#12344b">Inst. of</text>
+<text x="4648.452472422494" y="7080.563581439337" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="63" fill="#12344b">Tech.</text>
+<text x="4648.452472422494" y="7158.563581439337" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="53" fill="#12344b">14</text>
+</g>
+<g class="institution" data-name="Florida State University" data-country="United States"><title>Florida State University — 13 papers</title>
+<rect x="4480.9026" y="7238.0581" width="335.0997" height="298.9898" fill="#b0d2cb" stroke="white" stroke-width="5"/>
+<text x="4648.452472422494" y="7251.052984532781" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="64" fill="#12344b">Florida</text>
+<text x="4648.452472422494" y="7321.052984532781" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="64" fill="#12344b">State</text>
+<text x="4648.452472422494" y="7391.052984532781" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="64" fill="#12344b">Univ.</text>
+<text x="4648.452472422494" y="7470.052984532781" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="54" fill="#12344b">13</text>
+</g>
+<g class="institution" data-name="OpenAI" data-country="United States"><title>OpenAI — 13 papers</title>
+<rect x="4480.9026" y="7537.0479" width="335.0997" height="298.9898" fill="#b0d2cb" stroke="white" stroke-width="5"/>
+<text x="4648.452472422494" y="7597.042780104245" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="86" fill="#12344b">OpenAI</text>
+<text x="4648.452472422494" y="7703.042780104245" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="73" fill="#12344b">13</text>
+</g>
+<g class="institution" data-name="AMD" data-country="United States"><title>AMD — 12 papers</title>
+<rect x="4480.9026" y="7836.0377" width="335.0997" height="275.9906" fill="#b1d3cc" stroke="white" stroke-width="5"/>
+<text x="4648.452472422494" y="7847.53296815373" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="121" fill="#12344b">AMD</text>
+<text x="4648.452472422494" y="7998.53296815373" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="102" fill="#12344b">12</text>
+</g>
+<g class="institution" data-name="Argonne National Laboratory" data-country="United States"><title>Argonne National Laboratory — 12 papers</title>
+<rect x="4480.9026" y="8112.0283" width="335.0997" height="275.9906" fill="#b1d3cc" stroke="white" stroke-width="5"/>
+<text x="4648.452472422494" y="8125.023548681236" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="59" fill="#12344b">Argonne</text>
+<text x="4648.452472422494" y="8189.023548681236" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="59" fill="#12344b">National</text>
+<text x="4648.452472422494" y="8253.023548681236" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="59" fill="#12344b">Lab</text>
+<text x="4648.452472422494" y="8325.023548681236" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="50" fill="#12344b">12</text>
+</g>
+<g class="institution" data-name="Clemson University" data-country="United States"><title>Clemson University — 12 papers</title>
+<rect x="4480.9026" y="8388.0188" width="335.0997" height="275.9906" fill="#b1d3cc" stroke="white" stroke-width="5"/>
+<text x="4648.452472422494" y="8411.514129208741" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="72" fill="#12344b">Clemson</text>
+<text x="4648.452472422494" y="8490.514129208741" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="72" fill="#12344b">Univ.</text>
+<text x="4648.452472422494" y="8579.514129208741" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="61" fill="#12344b">12</text>
+</g>
+<g class="institution" data-name="George Mason University" data-country="United States"><title>George Mason University — 12 papers</title>
+<rect x="4480.9026" y="8664.0094" width="335.0997" height="275.9906" fill="#b1d3cc" stroke="white" stroke-width="5"/>
+<text x="4648.452472422494" y="8677.004709736248" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="59" fill="#12344b">George</text>
+<text x="4648.452472422494" y="8741.004709736248" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="59" fill="#12344b">Mason</text>
+<text x="4648.452472422494" y="8805.004709736248" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="59" fill="#12344b">Univ.</text>
+<text x="4648.452472422494" y="8877.004709736248" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="50" fill="#12344b">12</text>
+</g>
+<g class="institution" data-name="Scale AI" data-country="United States"><title>Scale AI — 12 papers</title>
+<rect x="4816.0023" y="6594.0801" width="330.9626" height="279.4405" fill="#b1d3cc" stroke="white" stroke-width="5"/>
+<text x="4981.483611044353" y="6605.800296908252" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="80" fill="#12344b">Scale</text>
+<text x="4981.483611044353" y="6693.800296908252" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="80" fill="#12344b">AI</text>
+<text x="4981.483611044353" y="6793.800296908252" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="68" fill="#12344b">12</text>
+</g>
+<g class="institution" data-name="University of Houston" data-country="United States"><title>University of Houston — 12 papers</title>
+<rect x="5146.9649" y="6594.0801" width="330.9626" height="279.4405" fill="#b1d3cc" stroke="white" stroke-width="5"/>
+<text x="5312.446233277256" y="6616.300296908252" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="74" fill="#12344b">Univ. of</text>
+<text x="5312.446233277256" y="6697.300296908252" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="74" fill="#12344b">Houston</text>
+<text x="5312.446233277256" y="6789.300296908252" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="62" fill="#12344b">12</text>
+</g>
+<g class="institution" data-name="University of Pittsburgh" data-country="United States"><title>University of Pittsburgh — 12 papers</title>
+<rect x="5477.9275" y="6594.0801" width="330.9626" height="279.4405" fill="#b1d3cc" stroke="white" stroke-width="5"/>
+<text x="5643.40885551016" y="6636.800296908252" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="61" fill="#12344b">Univ. of</text>
+<text x="5643.40885551016" y="6703.800296908252" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="61" fill="#12344b">Pittsburgh</text>
+<text x="5643.40885551016" y="6779.800296908252" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="51" fill="#12344b">12</text>
+</g>
+<g class="institution" data-name="William &amp; Mary" data-country="United States"><title>William &amp; Mary — 12 papers</title>
+<rect x="5808.8902" y="6594.0801" width="330.9626" height="279.4405" fill="#b1d3cc" stroke="white" stroke-width="5"/>
+<text x="5974.371477743063" y="6605.800296908252" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="80" fill="#12344b">William</text>
+<text x="5974.371477743063" y="6693.800296908252" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="80" fill="#12344b">&amp; Mary</text>
+<text x="5974.371477743063" y="6793.800296908252" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="68" fill="#12344b">12</text>
+</g>
+<g class="institution" data-name="AIG" data-country="United States"><title>AIG — 11 papers</title>
+<rect x="6139.8528" y="6594.0801" width="303.3824" height="279.4405" fill="#b3d3cd" stroke="white" stroke-width="5"/>
+<text x="6291.543990716262" y="6605.300296908252" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="123" fill="#12344b">AIG</text>
+<text x="6291.543990716262" y="6758.300296908252" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="104" fill="#12344b">11</text>
+</g>
+<g class="institution" data-name="Intel" data-country="United States"><title>Intel — 11 papers</title>
+<rect x="6443.2352" y="6594.0801" width="303.3824" height="279.4405" fill="#b3d3cd" stroke="white" stroke-width="5"/>
+<text x="6594.926394429757" y="6605.300296908252" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="123" fill="#12344b">Intel</text>
+<text x="6594.926394429757" y="6758.300296908252" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="104" fill="#12344b">11</text>
+</g>
+<g class="institution" data-name="Lambda" data-country="United States"><title>Lambda — 11 papers</title>
+<rect x="6746.6176" y="6594.0801" width="303.3824" height="279.4405" fill="#b3d3cd" stroke="white" stroke-width="5"/>
+<text x="6898.308798143253" y="6658.800296908252" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="72" fill="#12344b">Lambda</text>
+<text x="6898.308798143253" y="6747.800296908252" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="61" fill="#12344b">11</text>
+</g>
+<g class="institution" data-name="Oregon State University" data-country="United States"><title>Oregon State University — 11 papers</title>
+<rect x="4816.0023" y="6873.5205" width="279.7159" height="303.0837" fill="#b3d3cd" stroke="white" stroke-width="5"/>
+<text x="4955.860252770478" y="6886.562356224946" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="65" fill="#12344b">Oregon</text>
+<text x="4955.860252770478" y="6957.562356224946" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="65" fill="#12344b">State</text>
+<text x="4955.860252770478" y="7028.562356224946" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="65" fill="#12344b">Univ.</text>
+<text x="4955.860252770478" y="7108.562356224946" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="55" fill="#12344b">11</text>
+</g>
+<g class="institution" data-name="Together AI" data-country="United States"><title>Together AI — 11 papers</title>
+<rect x="4816.0023" y="7176.6042" width="279.7159" height="303.0837" fill="#b3d3cd" stroke="white" stroke-width="5"/>
+<text x="4955.860252770478" y="7232.146012074235" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="60" fill="#12344b">Together</text>
+<text x="4955.860252770478" y="7298.146012074235" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="60" fill="#12344b">AI</text>
+<text x="4955.860252770478" y="7373.146012074235" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="51" fill="#12344b">11</text>
+</g>
+<g class="institution" data-name="Tulane University" data-country="United States"><title>Tulane University — 11 papers</title>
+<rect x="4816.0023" y="7479.6878" width="279.7159" height="303.0837" fill="#b3d3cd" stroke="white" stroke-width="5"/>
+<text x="4955.860252770478" y="7506.229667923524" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="79" fill="#12344b">Tulane</text>
+<text x="4955.860252770478" y="7592.229667923524" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="79" fill="#12344b">Univ.</text>
+<text x="4955.860252770478" y="7689.229667923524" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="67" fill="#12344b">11</text>
+</g>
+<g class="institution" data-name="University of California, Merced" data-country="United States"><title>University of California, Merced — 11 papers</title>
+<rect x="4816.0023" y="7782.7715" width="279.7159" height="303.0837" fill="#b3d3cd" stroke="white" stroke-width="5"/>
+<text x="4955.860252770478" y="7818.313323772813" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="73" fill="#12344b">UC</text>
+<text x="4955.860252770478" y="7898.313323772813" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="73" fill="#12344b">Merced</text>
+<text x="4955.860252770478" y="7988.313323772813" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="62" fill="#12344b">11</text>
+</g>
+<g class="institution" data-name="University of Connecticut" data-country="United States"><title>University of Connecticut — 11 papers</title>
+<rect x="4816.0023" y="8085.8552" width="279.7159" height="303.0837" fill="#b3d3cd" stroke="white" stroke-width="5"/>
+<text x="4955.860252770478" y="8167.896979622103" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="44" fill="#12344b">Univ. of</text>
+<text x="4955.860252770478" y="8215.896979622103" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="44" fill="#12344b">Connecticut</text>
+<text x="4955.860252770478" y="8269.896979622103" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="37" fill="#12344b">11</text>
+</g>
+<g class="institution" data-name="Indiana University" data-country="United States"><title>Indiana University — 10 papers</title>
+<rect x="4816.0023" y="8388.9388" width="279.7159" height="275.5306" fill="#b4d4cd" stroke="white" stroke-width="5"/>
+<text x="4955.860252770478" y="8410.70410566006" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="73" fill="#12344b">Indiana</text>
+<text x="4955.860252770478" y="8490.70410566006" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="73" fill="#12344b">Univ.</text>
+<text x="4955.860252770478" y="8580.70410566006" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="62" fill="#12344b">10</text>
+</g>
+<g class="institution" data-name="JPMorgan Chase" data-country="United States"><title>JPMorgan Chase — 10 papers</title>
+<rect x="4816.0023" y="8664.4694" width="279.7159" height="275.5306" fill="#b4d4cd" stroke="white" stroke-width="5"/>
+<text x="4955.860252770478" y="8718.234701886686" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="53" fill="#12344b">JPMorgan</text>
+<text x="4955.860252770478" y="8776.234701886686" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="53" fill="#12344b">Chase</text>
+<text x="4955.860252770478" y="8841.234701886686" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="45" fill="#12344b">10</text>
+</g>
+<g class="institution" data-name="Stevens Institute of Technology" data-country="United States"><title>Stevens Institute of Technology — 10 papers</title>
+<rect x="5095.7182" y="6873.5205" width="300.6587" height="256.3381" fill="#b4d4cd" stroke="white" stroke-width="5"/>
+<text x="5246.047574412051" y="6884.68957950305" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="55" fill="#12344b">Stevens</text>
+<text x="5246.047574412051" y="6944.68957950305" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="55" fill="#12344b">Inst. of</text>
+<text x="5246.047574412051" y="7004.68957950305" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="55" fill="#12344b">Tech.</text>
+<text x="5246.047574412051" y="7072.68957950305" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="46" fill="#12344b">10</text>
+</g>
+<g class="institution" data-name="University of Delaware" data-country="United States"><title>University of Delaware — 10 papers</title>
+<rect x="5396.3769" y="6873.5205" width="300.6587" height="256.3381" fill="#b4d4cd" stroke="white" stroke-width="5"/>
+<text x="5546.706312010043" y="6903.18957950305" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="62" fill="#12344b">Univ. of</text>
+<text x="5546.706312010043" y="6971.18957950305" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="62" fill="#12344b">Delaware</text>
+<text x="5546.706312010043" y="7048.18957950305" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="52" fill="#12344b">10</text>
+</g>
+<g class="institution" data-name="Case Western Reserve University" data-country="United States"><title>Case Western Reserve University — 9 papers</title>
+<rect x="5697.0357" y="6873.5205" width="270.5929" height="256.3381" fill="#b5d5ce" stroke="white" stroke-width="5"/>
+<text x="5832.332112728134" y="6884.18957950305" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="44" fill="#12344b">Case</text>
+<text x="5832.332112728134" y="6932.18957950305" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="44" fill="#12344b">Western</text>
+<text x="5832.332112728134" y="6980.18957950305" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="44" fill="#12344b">Reserve</text>
+<text x="5832.332112728134" y="7028.18957950305" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="44" fill="#12344b">Univ.</text>
+<text x="5832.332112728134" y="7082.18957950305" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="37" fill="#12344b">9</text>
+</g>
+<g class="institution" data-name="Cold Spring Harbor Laboratory" data-country="United States"><title>Cold Spring Harbor Laboratory — 9 papers</title>
+<rect x="5967.6285" y="6873.5205" width="270.5929" height="256.3381" fill="#b5d5ce" stroke="white" stroke-width="5"/>
+<text x="6102.924976566327" y="6904.18957950305" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="46" fill="#12344b">Cold</text>
+<text x="6102.924976566327" y="6954.18957950305" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="46" fill="#12344b">Spring</text>
+<text x="6102.924976566327" y="7004.18957950305" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="46" fill="#12344b">Harbor Lab</text>
+<text x="6102.924976566327" y="7060.18957950305" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="39" fill="#12344b">9</text>
+</g>
+<g class="institution" data-name="Genentech" data-country="United States"><title>Genentech — 9 papers</title>
+<rect x="6238.2214" y="6873.5205" width="270.5929" height="256.3381" fill="#b5d5ce" stroke="white" stroke-width="5"/>
+<text x="6373.51784040452" y="6952.18957950305" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="48" fill="#12344b">Genentech</text>
+<text x="6373.51784040452" y="7011.18957950305" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="40" fill="#12344b">9</text>
+</g>
+<g class="institution" data-name="George Washington University" data-country="United States"><title>George Washington University — 9 papers</title>
+<rect x="6508.8143" y="6873.5205" width="270.5929" height="256.3381" fill="#b5d5ce" stroke="white" stroke-width="5"/>
+<text x="6644.110704242713" y="6910.18957950305" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="43" fill="#12344b">George</text>
+<text x="6644.110704242713" y="6957.18957950305" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="43" fill="#12344b">Washington</text>
+<text x="6644.110704242713" y="7004.18957950305" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="43" fill="#12344b">Univ.</text>
+<text x="6644.110704242713" y="7057.18957950305" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="36" fill="#12344b">9</text>
+</g>
+<g class="institution" data-name="Lawrence Berkeley National Laboratory" data-country="United States"><title>Lawrence Berkeley National Laboratory — 9 papers</title>
+<rect x="6779.4071" y="6873.5205" width="270.5929" height="256.3381" fill="#b5d5ce" stroke="white" stroke-width="5"/>
+<text x="6914.703568080906" y="6884.18957950305" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="44" fill="#12344b">Lawrence</text>
+<text x="6914.703568080906" y="6932.18957950305" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="44" fill="#12344b">Berkeley</text>
+<text x="6914.703568080906" y="6980.18957950305" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="44" fill="#12344b">National</text>
+<text x="6914.703568080906" y="7028.18957950305" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="44" fill="#12344b">Lab</text>
+<text x="6914.703568080906" y="7082.18957950305" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="37" fill="#12344b">9</text>
+</g>
+<g class="institution" data-name="Los Alamos National Laboratory" data-country="United States"><title>Los Alamos National Laboratory — 9 papers</title>
+<rect x="5095.7182" y="7129.8586" width="255.4617" height="271.5212" fill="#b5d5ce" stroke="white" stroke-width="5"/>
+<text x="5223.449041847496" y="7143.119233402864" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="46" fill="#12344b">Los</text>
+<text x="5223.449041847496" y="7193.119233402864" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="46" fill="#12344b">Alamos</text>
+<text x="5223.449041847496" y="7243.119233402864" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="46" fill="#12344b">National</text>
+<text x="5223.449041847496" y="7293.119233402864" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="46" fill="#12344b">Lab</text>
+<text x="5223.449041847496" y="7349.119233402864" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="39" fill="#12344b">9</text>
+</g>
+<g class="institution" data-name="Morgan Stanley" data-country="United States"><title>Morgan Stanley — 9 papers</title>
+<rect x="5095.7182" y="7401.3798" width="255.4617" height="271.5212" fill="#b5d5ce" stroke="white" stroke-width="5"/>
+<text x="5223.449041847496" y="7434.140438796994" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="65" fill="#12344b">Morgan</text>
+<text x="5223.449041847496" y="7505.140438796994" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="65" fill="#12344b">Stanley</text>
+<text x="5223.449041847496" y="7585.140438796994" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="55" fill="#12344b">9</text>
+</g>
+<g class="institution" data-name="Snap" data-country="United States"><title>Snap — 9 papers</title>
+<rect x="5095.7182" y="7672.9010" width="255.4617" height="271.5212" fill="#b5d5ce" stroke="white" stroke-width="5"/>
+<text x="5223.449041847496" y="7708.661644191125" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="96" fill="#12344b">Snap</text>
+<text x="5223.449041847496" y="7827.661644191125" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="81" fill="#12344b">9</text>
+</g>
+<g class="institution" data-name="University of California, San Francisco" data-country="United States"><title>University of California, San Francisco — 9 papers</title>
+<rect x="5095.7182" y="7944.4222" width="255.4617" height="271.5212" fill="#b5d5ce" stroke="white" stroke-width="5"/>
+<text x="5223.449041847496" y="8003.182849585255" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="49" fill="#12344b">UC San</text>
+<text x="5223.449041847496" y="8056.182849585255" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="49" fill="#12344b">Francisco</text>
+<text x="5223.449041847496" y="8116.182849585255" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="41" fill="#12344b">9</text>
+</g>
+<g class="institution" data-name="Florida International University" data-country="United States"><title>Florida International University — 8 papers</title>
+<rect x="5095.7182" y="8215.9435" width="255.4617" height="241.3522" fill="#b6d5cf" stroke="white" stroke-width="5"/>
+<text x="5223.449041847496" y="8254.1195435686" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="52" fill="#12344b">Florida</text>
+<text x="5223.449041847496" y="8311.1195435686" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="52" fill="#12344b">Intl. Univ.</text>
+<text x="5223.449041847496" y="8375.1195435686" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="44" fill="#12344b">8</text>
+</g>
+<g class="institution" data-name="Iowa State University" data-country="United States"><title>Iowa State University — 8 papers</title>
+<rect x="5095.7182" y="8457.2956" width="255.4617" height="241.3522" fill="#b6d5cf" stroke="white" stroke-width="5"/>
+<text x="5223.449041847496" y="8466.97172614116" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="52" fill="#12344b">Iowa</text>
+<text x="5223.449041847496" y="8523.97172614116" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="52" fill="#12344b">State</text>
+<text x="5223.449041847496" y="8580.97172614116" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="52" fill="#12344b">Univ.</text>
+<text x="5223.449041847496" y="8644.97172614116" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="44" fill="#12344b">8</text>
+</g>
+<g class="institution" data-name="Netflix" data-country="United States"><title>Netflix — 8 papers</title>
+<rect x="5095.7182" y="8698.6478" width="255.4617" height="241.3522" fill="#b6d5cf" stroke="white" stroke-width="5"/>
+<text x="5223.449041847496" y="8740.32390871372" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="76" fill="#12344b">Netflix</text>
+<text x="5223.449041847496" y="8834.32390871372" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="64" fill="#12344b">8</text>
+</g>
+<g class="institution" data-name="University of Nebraska-Lincoln" data-country="United States"><title>University of Nebraska-Lincoln — 8 papers</title>
+<rect x="5351.1799" y="7129.8586" width="251.6771" height="244.9815" fill="#b6d5cf" stroke="white" stroke-width="5"/>
+<text x="5477.018405631424" y="7180.349400056534" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="34" fill="#12344b">Univ. of</text>
+<text x="5477.018405631424" y="7217.349400056534" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="34" fill="#12344b">Nebraska-Lin-</text>
+<text x="5477.018405631424" y="7254.349400056534" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="34" fill="#12344b">coln</text>
+<text x="5477.018405631424" y="7296.349400056534" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="28" fill="#12344b">8</text>
+</g>
+<g class="institution" data-name="University of North Carolina at Charlotte" data-country="United States"><title>University of North Carolina at Charlotte — 8 papers</title>
+<rect x="5602.8569" y="7129.8586" width="251.6771" height="244.9815" fill="#b6d5cf" stroke="white" stroke-width="5"/>
+<text x="5728.695460730396" y="7139.849400056534" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="42" fill="#12344b">Univ. of</text>
+<text x="5728.695460730396" y="7185.849400056534" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="42" fill="#12344b">North</text>
+<text x="5728.695460730396" y="7231.849400056534" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="42" fill="#12344b">Carolina at</text>
+<text x="5728.695460730396" y="7277.849400056534" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="42" fill="#12344b">Charlotte</text>
+<text x="5728.695460730396" y="7329.849400056534" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="35" fill="#12344b">8</text>
+</g>
+<g class="institution" data-name="University of North Texas" data-country="United States"><title>University of North Texas — 8 papers</title>
+<rect x="5854.5340" y="7129.8586" width="251.6771" height="244.9815" fill="#b6d5cf" stroke="white" stroke-width="5"/>
+<text x="5980.372515829368" y="7141.349400056534" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="52" fill="#12344b">Univ. of</text>
+<text x="5980.372515829368" y="7198.349400056534" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="52" fill="#12344b">North</text>
+<text x="5980.372515829368" y="7255.349400056534" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="52" fill="#12344b">Texas</text>
+<text x="5980.372515829368" y="7319.349400056534" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="44" fill="#12344b">8</text>
+</g>
+<g class="institution" data-name="University of Tennessee" data-country="United States"><title>University of Tennessee — 8 papers</title>
+<rect x="6106.2110" y="7129.8586" width="251.6771" height="244.9815" fill="#b6d5cf" stroke="white" stroke-width="5"/>
+<text x="6232.0495709283405" y="7181.349400056534" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="45" fill="#12344b">Univ. of</text>
+<text x="6232.0495709283405" y="7230.349400056534" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="45" fill="#12344b">Tennessee</text>
+<text x="6232.0495709283405" y="7285.349400056534" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="38" fill="#12344b">8</text>
+</g>
+<g class="institution" data-name="Worcester Polytechnic Institute" data-country="United States"><title>Worcester Polytechnic Institute — 8 papers</title>
+<rect x="6357.8881" y="7129.8586" width="251.6771" height="244.9815" fill="#b6d5cf" stroke="white" stroke-width="5"/>
+<text x="6483.726626027313" y="7164.849400056534" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="41" fill="#12344b">Worcester</text>
+<text x="6483.726626027313" y="7209.849400056534" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="41" fill="#12344b">Polytechnic</text>
+<text x="6483.726626027313" y="7254.849400056534" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="41" fill="#12344b">Inst.</text>
+<text x="6483.726626027313" y="7305.849400056534" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="34" fill="#12344b">8</text>
+</g>
+<g class="institution" data-name="Boston College" data-country="United States"><title>Boston College — 7 papers</title>
+<rect x="6609.5652" y="7129.8586" width="220.2174" height="244.9815" fill="#b7d6d0" stroke="white" stroke-width="5"/>
+<text x="6719.673865182599" y="7163.849400056534" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="56" fill="#12344b">Boston</text>
+<text x="6719.673865182599" y="7224.849400056534" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="56" fill="#12344b">College</text>
+<text x="6719.673865182599" y="7293.849400056534" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="47" fill="#12344b">7</text>
+</g>
+<g class="institution" data-name="Georgetown University" data-country="United States"><title>Georgetown University — 7 papers</title>
+<rect x="6829.7826" y="7129.8586" width="220.2174" height="244.9815" fill="#b7d6d0" stroke="white" stroke-width="5"/>
+<text x="6939.8912883942" y="7197.349400056534" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="35" fill="#12344b">Georgetown</text>
+<text x="6939.8912883942" y="7235.349400056534" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="35" fill="#12344b">Univ.</text>
+<text x="6939.8912883942" y="7278.349400056534" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="29" fill="#12344b">7</text>
+</g>
+<g class="institution" data-name="Lehigh University" data-country="United States"><title>Lehigh University — 7 papers</title>
+<rect x="5351.1799" y="7374.8402" width="241.2817" height="223.5943" fill="#b7d6d0" stroke="white" stroke-width="5"/>
+<text x="5471.820727319597" y="7385.137300163893" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="64" fill="#12344b">Lehigh</text>
+<text x="5471.820727319597" y="7455.137300163893" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="64" fill="#12344b">Univ.</text>
+<text x="5471.820727319597" y="7534.137300163893" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="54" fill="#12344b">7</text>
+</g>
+<g class="institution" data-name="Memorial Sloan Kettering Cancer Center" data-country="United States"><title>Memorial Sloan Kettering Cancer Center — 7 papers</title>
+<rect x="5351.1799" y="7598.4344" width="241.2817" height="223.5943" fill="#b7d6d0" stroke="white" stroke-width="5"/>
+<text x="5471.820727319597" y="7624.23156167714" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="32" fill="#12344b">Memorial</text>
+<text x="5471.820727319597" y="7659.23156167714" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="32" fill="#12344b">Sloan</text>
+<text x="5471.820727319597" y="7694.23156167714" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="32" fill="#12344b">Kettering</text>
+<text x="5471.820727319597" y="7729.23156167714" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="32" fill="#12344b">Cancer Center</text>
+<text x="5471.820727319597" y="7769.23156167714" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="27" fill="#12344b">7</text>
+</g>
+<g class="institution" data-name="Roblox" data-country="United States"><title>Roblox — 7 papers</title>
+<rect x="5351.1799" y="7822.0287" width="241.2817" height="223.5943" fill="#b7d6d0" stroke="white" stroke-width="5"/>
+<text x="5471.820727319597" y="7866.325823190387" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="65" fill="#12344b">Roblox</text>
+<text x="5471.820727319597" y="7946.325823190387" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="55" fill="#12344b">7</text>
+</g>
+<g class="institution" data-name="Temple University" data-country="United States"><title>Temple University — 7 papers</title>
+<rect x="5351.1799" y="8045.6230" width="241.2817" height="223.5943" fill="#b7d6d0" stroke="white" stroke-width="5"/>
+<text x="5471.820727319597" y="8057.4200847036345" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="63" fill="#12344b">Temple</text>
+<text x="5471.820727319597" y="8126.4200847036345" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="63" fill="#12344b">Univ.</text>
+<text x="5471.820727319597" y="8204.420084703634" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="53" fill="#12344b">7</text>
+</g>
+<g class="institution" data-name="Transluce" data-country="United States"><title>Transluce — 7 papers</title>
+<rect x="5351.1799" y="8269.2172" width="241.2817" height="223.5943" fill="#b7d6d0" stroke="white" stroke-width="5"/>
+<text x="5471.820727319597" y="8332.514346216882" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="47" fill="#12344b">Transluce</text>
+<text x="5471.820727319597" y="8390.514346216882" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="39" fill="#12344b">7</text>
+</g>
+<g class="institution" data-name="Tufts University" data-country="United States"><title>Tufts University — 7 papers</title>
+<rect x="5351.1799" y="8492.8115" width="241.2817" height="223.5943" fill="#b7d6d0" stroke="white" stroke-width="5"/>
+<text x="5471.820727319597" y="8503.10860773013" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="64" fill="#12344b">Tufts</text>
+<text x="5471.820727319597" y="8573.10860773013" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="64" fill="#12344b">Univ.</text>
+<text x="5471.820727319597" y="8652.10860773013" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="54" fill="#12344b">7</text>
+</g>
+<g class="institution" data-name="University of Colorado Boulder" data-country="United States"><title>University of Colorado Boulder — 7 papers</title>
+<rect x="5351.1799" y="8716.4057" width="241.2817" height="223.5943" fill="#b7d6d0" stroke="white" stroke-width="5"/>
+<text x="5471.820727319597" y="8726.702869243378" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="48" fill="#12344b">Univ. of</text>
+<text x="5471.820727319597" y="8778.702869243378" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="48" fill="#12344b">Colorado</text>
+<text x="5471.820727319597" y="8830.702869243378" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="48" fill="#12344b">Boulder</text>
+<text x="5471.820727319597" y="8889.702869243378" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="40" fill="#12344b">7</text>
+</g>
+<g class="institution" data-name="Washington State University" data-country="United States"><title>Washington State University — 7 papers</title>
+<rect x="5592.4616" y="7374.8402" width="231.8811" height="232.6589" fill="#b7d6d0" stroke="white" stroke-width="5"/>
+<text x="5708.402132967474" y="7434.669616275648" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="36" fill="#12344b">Washington</text>
+<text x="5708.402132967474" y="7473.669616275648" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="36" fill="#12344b">State Univ.</text>
+<text x="5708.402132967474" y="7517.669616275648" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="30" fill="#12344b">7</text>
+</g>
+<g class="institution" data-name="Wayne State University" data-country="United States"><title>Wayne State University — 7 papers</title>
+<rect x="5824.3427" y="7374.8402" width="231.8811" height="232.6589" fill="#b7d6d0" stroke="white" stroke-width="5"/>
+<text x="5940.283245787911" y="7384.169616275648" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="50" fill="#12344b">Wayne</text>
+<text x="5940.283245787911" y="7439.169616275648" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="50" fill="#12344b">State</text>
+<text x="5940.283245787911" y="7494.169616275648" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="50" fill="#12344b">Univ.</text>
+<text x="5940.283245787911" y="7556.169616275648" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="42" fill="#12344b">7</text>
+</g>
+<g class="institution" data-name="Broad Institute" data-country="United States"><title>Broad Institute — 6 papers</title>
+<rect x="6056.2238" y="7374.8402" width="198.7552" height="232.6589" fill="#b9d7d1" stroke="white" stroke-width="5"/>
+<text x="6155.601421978317" y="7391.169616275648" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="63" fill="#12344b">Broad</text>
+<text x="6155.601421978317" y="7460.169616275648" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="63" fill="#12344b">Inst.</text>
+<text x="6155.601421978317" y="7538.169616275648" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="53" fill="#12344b">6</text>
+</g>
+<g class="institution" data-name="Drexel University" data-country="United States"><title>Drexel University — 6 papers</title>
+<rect x="6254.9790" y="7374.8402" width="198.7552" height="232.6589" fill="#b9d7d1" stroke="white" stroke-width="5"/>
+<text x="6354.356661538692" y="7395.169616275648" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="60" fill="#12344b">Drexel</text>
+<text x="6354.356661538692" y="7461.169616275648" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="60" fill="#12344b">Univ.</text>
+<text x="6354.356661538692" y="7536.169616275648" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="51" fill="#12344b">6</text>
+</g>
+<g class="institution" data-name="Florida Atlantic University" data-country="United States"><title>Florida Atlantic University — 6 papers</title>
+<rect x="6453.7343" y="7374.8402" width="198.7552" height="232.6589" fill="#b9d7d1" stroke="white" stroke-width="5"/>
+<text x="6553.111901099066" y="7387.669616275648" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="49" fill="#12344b">Florida</text>
+<text x="6553.111901099066" y="7440.669616275648" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="49" fill="#12344b">Atlantic</text>
+<text x="6553.111901099066" y="7493.669616275648" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="49" fill="#12344b">Univ.</text>
+<text x="6553.111901099066" y="7553.669616275648" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="41" fill="#12344b">6</text>
+</g>
+<g class="institution" data-name="Georgia State University" data-country="United States"><title>Georgia State University — 6 papers</title>
+<rect x="6652.4895" y="7374.8402" width="198.7552" height="232.6589" fill="#b9d7d1" stroke="white" stroke-width="5"/>
+<text x="6751.86714065944" y="7389.669616275648" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="48" fill="#12344b">Georgia</text>
+<text x="6751.86714065944" y="7441.669616275648" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="48" fill="#12344b">State</text>
+<text x="6751.86714065944" y="7493.669616275648" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="48" fill="#12344b">Univ.</text>
+<text x="6751.86714065944" y="7552.669616275648" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="40" fill="#12344b">6</text>
+</g>
+<g class="institution" data-name="Hugging Face" data-country="United States"><title>Hugging Face — 6 papers</title>
+<rect x="6851.2448" y="7374.8402" width="198.7552" height="232.6589" fill="#b9d7d1" stroke="white" stroke-width="5"/>
+<text x="6950.622380219815" y="7420.169616275648" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="45" fill="#12344b">Hugging</text>
+<text x="6950.622380219815" y="7469.169616275648" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="45" fill="#12344b">Face</text>
+<text x="6950.622380219815" y="7524.169616275648" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="38" fill="#12344b">6</text>
+</g>
+<g class="institution" data-name="Illinois Institute of Technology" data-country="United States"><title>Illinois Institute of Technology — 6 papers</title>
+<rect x="5592.4616" y="7607.4991" width="208.2198" height="222.0835" fill="#b9d7d1" stroke="white" stroke-width="5"/>
+<text x="5696.571463946024" y="7617.040807882024" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="48" fill="#12344b">Illinois</text>
+<text x="5696.571463946024" y="7669.040807882024" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="48" fill="#12344b">Inst. of</text>
+<text x="5696.571463946024" y="7721.040807882024" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="48" fill="#12344b">Tech.</text>
+<text x="5696.571463946024" y="7780.040807882024" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="40" fill="#12344b">6</text>
+</g>
+<g class="institution" data-name="Perplexity" data-country="United States"><title>Perplexity — 6 papers</title>
+<rect x="5592.4616" y="7829.5826" width="208.2198" height="222.0835" fill="#b9d7d1" stroke="white" stroke-width="5"/>
+<text x="5696.571463946024" y="7898.624297358019" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="40" fill="#12344b">Perplexity</text>
+<text x="5696.571463946024" y="7948.624297358019" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="34" fill="#12344b">6</text>
+</g>
+<g class="institution" data-name="State University of New York at Binghamton" data-country="United States"><title>State University of New York at Binghamton — 6 papers</title>
+<rect x="5592.4616" y="8051.6660" width="208.2198" height="222.0835" fill="#b9d7d1" stroke="white" stroke-width="5"/>
+<text x="5696.571463946024" y="8074.207786834015" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="33" fill="#12344b">State Univ.</text>
+<text x="5696.571463946024" y="8110.207786834015" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="33" fill="#12344b">of New York</text>
+<text x="5696.571463946024" y="8146.207786834015" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="33" fill="#12344b">at</text>
+<text x="5696.571463946024" y="8182.207786834015" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="33" fill="#12344b">Binghamton</text>
+<text x="5696.571463946024" y="8223.207786834015" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="28" fill="#12344b">6</text>
+</g>
+<g class="institution" data-name="Texas Tech University" data-country="United States"><title>Texas Tech University — 6 papers</title>
+<rect x="5592.4616" y="8273.7495" width="208.2198" height="222.0835" fill="#b9d7d1" stroke="white" stroke-width="5"/>
+<text x="5696.571463946024" y="8283.291276310012" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="48" fill="#12344b">Texas</text>
+<text x="5696.571463946024" y="8335.291276310012" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="48" fill="#12344b">Tech</text>
+<text x="5696.571463946024" y="8387.291276310012" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="48" fill="#12344b">Univ.</text>
+<text x="5696.571463946024" y="8446.291276310012" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="40" fill="#12344b">6</text>
+</g>
+<g class="institution" data-name="The University of Alabama" data-country="United States"><title>The University of Alabama — 6 papers</title>
+<rect x="5592.4616" y="8495.8330" width="208.2198" height="222.0835" fill="#b9d7d1" stroke="white" stroke-width="5"/>
+<text x="5696.571463946024" y="8511.374765786008" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="45" fill="#12344b">The</text>
+<text x="5696.571463946024" y="8560.374765786008" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="45" fill="#12344b">Univ. of</text>
+<text x="5696.571463946024" y="8609.374765786008" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="45" fill="#12344b">Alabama</text>
+<text x="5696.571463946024" y="8664.374765786008" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="38" fill="#12344b">6</text>
+</g>
+<g class="institution" data-name="Toyota Research Institute" data-country="United States"><title>Toyota Research Institute — 6 papers</title>
+<rect x="5592.4616" y="8717.9165" width="208.2198" height="222.0835" fill="#b9d7d1" stroke="white" stroke-width="5"/>
+<text x="5696.571463946024" y="8739.458255262003" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="42" fill="#12344b">Toyota</text>
+<text x="5696.571463946024" y="8785.458255262003" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="42" fill="#12344b">Research</text>
+<text x="5696.571463946024" y="8831.458255262003" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="42" fill="#12344b">Inst.</text>
+<text x="5696.571463946024" y="8883.458255262003" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="35" fill="#12344b">6</text>
+</g>
+<g class="institution" data-name="United States Military Academy" data-country="United States"><title>United States Military Academy — 6 papers</title>
+<rect x="5800.6814" y="7607.4991" width="208.2198" height="222.0835" fill="#b9d7d1" stroke="white" stroke-width="5"/>
+<text x="5904.791238723559" y="7618.040807882024" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="38" fill="#12344b">United</text>
+<text x="5904.791238723559" y="7659.040807882024" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="38" fill="#12344b">States</text>
+<text x="5904.791238723559" y="7700.040807882024" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="38" fill="#12344b">Military</text>
+<text x="5904.791238723559" y="7741.040807882024" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="38" fill="#12344b">Academy</text>
+<text x="5904.791238723559" y="7787.040807882024" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="32" fill="#12344b">6</text>
+</g>
+<g class="institution" data-name="University of Arkansas" data-country="United States"><title>University of Arkansas — 6 papers</title>
+<rect x="6008.9011" y="7607.4991" width="208.2198" height="222.0835" fill="#b9d7d1" stroke="white" stroke-width="5"/>
+<text x="6113.011013501095" y="7652.040807882024" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="42" fill="#12344b">Univ. of</text>
+<text x="6113.011013501095" y="7698.040807882024" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="42" fill="#12344b">Arkansas</text>
+<text x="6113.011013501095" y="7750.040807882024" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="35" fill="#12344b">6</text>
+</g>
+<g class="institution" data-name="University of Iowa" data-country="United States"><title>University of Iowa — 6 papers</title>
+<rect x="6217.1209" y="7607.4991" width="208.2198" height="222.0835" fill="#b9d7d1" stroke="white" stroke-width="5"/>
+<text x="6321.23078827863" y="7631.540807882024" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="55" fill="#12344b">Univ.</text>
+<text x="6321.23078827863" y="7691.540807882024" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="55" fill="#12344b">of Iowa</text>
+<text x="6321.23078827863" y="7759.540807882024" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="46" fill="#12344b">6</text>
+</g>
+<g class="institution" data-name="University of Massachusetts Boston" data-country="United States"><title>University of Massachusetts Boston — 6 papers</title>
+<rect x="6425.3407" y="7607.4991" width="208.2198" height="222.0835" fill="#b9d7d1" stroke="white" stroke-width="5"/>
+<text x="6529.450563056165" y="7628.040807882024" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="34" fill="#12344b">Univ. of</text>
+<text x="6529.450563056165" y="7665.040807882024" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="34" fill="#12344b">Massachu-</text>
+<text x="6529.450563056165" y="7702.040807882024" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="34" fill="#12344b">setts</text>
+<text x="6529.450563056165" y="7739.040807882024" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="34" fill="#12344b">Boston</text>
+<text x="6529.450563056165" y="7781.040807882024" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="28" fill="#12344b">6</text>
+</g>
+<g class="institution" data-name="University of South Florida" data-country="United States"><title>University of South Florida — 6 papers</title>
+<rect x="6633.5605" y="7607.4991" width="208.2198" height="222.0835" fill="#b9d7d1" stroke="white" stroke-width="5"/>
+<text x="6737.670337833701" y="7617.040807882024" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="48" fill="#12344b">Univ. of</text>
+<text x="6737.670337833701" y="7669.040807882024" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="48" fill="#12344b">South</text>
+<text x="6737.670337833701" y="7721.040807882024" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="48" fill="#12344b">Florida</text>
+<text x="6737.670337833701" y="7780.040807882024" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="40" fill="#12344b">6</text>
+</g>
+<g class="institution" data-name="University of Texas Health Science Center at Houston" data-country="United States"><title>University of Texas Health Science Center at Houston — 6 papers</title>
+<rect x="6841.7802" y="7607.4991" width="208.2198" height="222.0835" fill="#b9d7d1" stroke="white" stroke-width="5"/>
+<text x="6945.890112611236" y="7618.040807882024" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="31" fill="#12344b">Univ. of</text>
+<text x="6945.890112611236" y="7652.040807882024" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="31" fill="#12344b">Texas Health</text>
+<text x="6945.890112611236" y="7686.040807882024" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="31" fill="#12344b">Science</text>
+<text x="6945.890112611236" y="7720.040807882024" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="31" fill="#12344b">Center at</text>
+<text x="6945.890112611236" y="7754.040807882024" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="31" fill="#12344b">Houston</text>
+<text x="6945.890112611236" y="7793.040807882024" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="26" fill="#12344b">6</text>
+</g>
+<g class="institution" data-name="University of Texas Southwestern Medical Center" data-country="United States"><title>University of Texas Southwestern Medical Center — 6 papers</title>
+<rect x="5800.6814" y="7829.5826" width="215.1604" height="214.9195" fill="#b9d7d1" stroke="white" stroke-width="5"/>
+<text x="5908.2615683031845" y="7839.542305592277" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="30" fill="#12344b">Univ. of</text>
+<text x="5908.2615683031845" y="7872.542305592277" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="30" fill="#12344b">Texas</text>
+<text x="5908.2615683031845" y="7905.542305592277" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="30" fill="#12344b">Southwester-</text>
+<text x="5908.2615683031845" y="7938.542305592277" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="30" fill="#12344b">n Medical</text>
+<text x="5908.2615683031845" y="7971.542305592277" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="30" fill="#12344b">Center</text>
+<text x="5908.2615683031845" y="8009.542305592277" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="25" fill="#12344b">6</text>
+</g>
+<g class="institution" data-name="DEVCOM Army Research Laboratory" data-country="United States"><title>DEVCOM Army Research Laboratory — 5 papers</title>
+<rect x="5800.6814" y="8044.5021" width="215.1604" height="179.0996" fill="#bad8d2" stroke="white" stroke-width="5"/>
+<text x="5908.2615683031845" y="8053.05185270808" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="30" fill="#12344b">DEVCOM</text>
+<text x="5908.2615683031845" y="8086.05185270808" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="30" fill="#12344b">Army</text>
+<text x="5908.2615683031845" y="8119.05185270808" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="30" fill="#12344b">Research</text>
+<text x="5908.2615683031845" y="8152.05185270808" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="30" fill="#12344b">Lab</text>
+<text x="5908.2615683031845" y="8190.05185270808" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="25" fill="#12344b">5</text>
+</g>
+<g class="institution" data-name="Goodfire" data-country="United States"><title>Goodfire — 5 papers</title>
+<rect x="5800.6814" y="8223.6016" width="215.1604" height="179.0996" fill="#bad8d2" stroke="white" stroke-width="5"/>
+<text x="5908.2615683031845" y="8264.651440995172" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="47" fill="#12344b">Goodfire</text>
+<text x="5908.2615683031845" y="8322.651440995172" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="39" fill="#12344b">5</text>
+</g>
+<g class="institution" data-name="Sandia National Laboratories" data-country="United States"><title>Sandia National Laboratories — 5 papers</title>
+<rect x="5800.6814" y="8402.7012" width="215.1604" height="179.0996" fill="#bad8d2" stroke="white" stroke-width="5"/>
+<text x="5908.2615683031845" y="8410.251029282266" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="39" fill="#12344b">Sandia</text>
+<text x="5908.2615683031845" y="8452.251029282266" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="39" fill="#12344b">National</text>
+<text x="5908.2615683031845" y="8494.251029282266" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="39" fill="#12344b">Labs</text>
+<text x="5908.2615683031845" y="8541.251029282266" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="33" fill="#12344b">5</text>
+</g>
+<g class="institution" data-name="Syracuse University" data-country="United States"><title>Syracuse University — 5 papers</title>
+<rect x="5800.6814" y="8581.8008" width="215.1604" height="179.0996" fill="#bad8d2" stroke="white" stroke-width="5"/>
+<text x="5908.2615683031845" y="8601.85061756936" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="44" fill="#12344b">Syracuse</text>
+<text x="5908.2615683031845" y="8649.85061756936" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="44" fill="#12344b">Univ.</text>
+<text x="5908.2615683031845" y="8703.85061756936" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="37" fill="#12344b">5</text>
+</g>
+<g class="institution" data-name="University of Oklahoma" data-country="United States"><title>University of Oklahoma — 5 papers</title>
+<rect x="5800.6814" y="8760.9004" width="215.1604" height="179.0996" fill="#bad8d2" stroke="white" stroke-width="5"/>
+<text x="5908.2615683031845" y="8786.450205856454" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="40" fill="#12344b">Univ. of</text>
+<text x="5908.2615683031845" y="8830.450205856454" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="40" fill="#12344b">Oklahoma</text>
+<text x="5908.2615683031845" y="8880.450205856454" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="34" fill="#12344b">5</text>
+</g>
+<g class="institution" data-name="VISA" data-country="United States"><title>VISA — 5 papers</title>
+<rect x="6015.8418" y="7829.5826" width="198.8766" height="193.7641" fill="#bad8d2" stroke="white" stroke-width="5"/>
+<text x="6115.2800751493105" y="7845.464611787402" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="78" fill="#12344b">VISA</text>
+<text x="6115.2800751493105" y="7941.464611787402" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="66" fill="#12344b">5</text>
+</g>
+<g class="institution" data-name="West Virginia University" data-country="United States"><title>West Virginia University — 5 papers</title>
+<rect x="6214.7184" y="7829.5826" width="198.8766" height="193.7641" fill="#bad8d2" stroke="white" stroke-width="5"/>
+<text x="6314.156654904777" y="7838.964611787402" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="41" fill="#12344b">West</text>
+<text x="6314.156654904777" y="7883.964611787402" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="41" fill="#12344b">Virginia</text>
+<text x="6314.156654904777" y="7928.964611787402" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="41" fill="#12344b">Univ.</text>
+<text x="6314.156654904777" y="7979.964611787402" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="34" fill="#12344b">5</text>
+</g>
+<g class="institution" data-name="Allen Institute" data-country="United States"><title>Allen Institute — 4 papers</title>
+<rect x="6413.5949" y="7829.5826" width="159.1013" height="193.7641" fill="#bcd9d3" stroke="white" stroke-width="5"/>
+<text x="6493.145576684696" y="7837.964611787402" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="56" fill="#12344b">Allen</text>
+<text x="6493.145576684696" y="7898.964611787402" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="56" fill="#12344b">Inst.</text>
+<text x="6493.145576684696" y="7967.964611787402" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="47" fill="#12344b">4</text>
+</g>
+<g class="institution" data-name="American University" data-country="United States"><title>American University — 4 papers</title>
+<rect x="6572.6962" y="7829.5826" width="159.1013" height="193.7641" fill="#bcd9d3" stroke="white" stroke-width="5"/>
+<text x="6652.246840489069" y="7872.964611787402" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="34" fill="#12344b">America-</text>
+<text x="6652.246840489069" y="7909.964611787402" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="34" fill="#12344b">n Univ.</text>
+<text x="6652.246840489069" y="7951.964611787402" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="28" fill="#12344b">4</text>
+</g>
+<g class="institution" data-name="Amherst College" data-country="United States"><title>Amherst College — 4 papers</title>
+<rect x="6731.7975" y="7829.5826" width="159.1013" height="193.7641" fill="#bcd9d3" stroke="white" stroke-width="5"/>
+<text x="6811.348104293442" y="7869.964611787402" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="36" fill="#12344b">Amherst</text>
+<text x="6811.348104293442" y="7908.964611787402" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="36" fill="#12344b">College</text>
+<text x="6811.348104293442" y="7952.964611787402" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="30" fill="#12344b">4</text>
+</g>
+<g class="institution" data-name="Auburn University" data-country="United States"><title>Auburn University — 4 papers</title>
+<rect x="6890.8987" y="7829.5826" width="159.1013" height="193.7641" fill="#bcd9d3" stroke="white" stroke-width="5"/>
+<text x="6970.449368097815" y="7861.464611787402" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="41" fill="#12344b">Auburn</text>
+<text x="6970.449368097815" y="7906.464611787402" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="41" fill="#12344b">Univ.</text>
+<text x="6970.449368097815" y="7957.464611787402" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="34" fill="#12344b">4</text>
+</g>
+<g class="institution" data-name="Bloomberg" data-country="United States"><title>Bloomberg — 4 papers</title>
+<rect x="6015.8418" y="8023.3467" width="168.1558" height="183.3307" fill="#bcd9d3" stroke="white" stroke-width="5"/>
+<text x="6099.919688908035" y="8061.512003859305" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="34" fill="#12344b">Bloomb-</text>
+<text x="6099.919688908035" y="8098.512003859305" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="34" fill="#12344b">erg</text>
+<text x="6099.919688908035" y="8140.512003859305" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="28" fill="#12344b">4</text>
+</g>
+<g class="institution" data-name="Booz Allen Hamilton" data-country="United States"><title>Booz Allen Hamilton — 4 papers</title>
+<rect x="6015.8418" y="8206.6773" width="168.1558" height="183.3307" fill="#bcd9d3" stroke="white" stroke-width="5"/>
+<text x="6099.919688908035" y="8222.34266966835" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="36" fill="#12344b">Booz</text>
+<text x="6099.919688908035" y="8261.34266966835" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="36" fill="#12344b">Allen</text>
+<text x="6099.919688908035" y="8300.34266966835" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="36" fill="#12344b">Hamilton</text>
+<text x="6099.919688908035" y="8344.34266966835" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="30" fill="#12344b">4</text>
+</g>
+<g class="institution" data-name="Brigham Young University" data-country="United States"><title>Brigham Young University — 4 papers</title>
+<rect x="6015.8418" y="8390.0080" width="168.1558" height="183.3307" fill="#bcd9d3" stroke="white" stroke-width="5"/>
+<text x="6099.919688908035" y="8401.673335477393" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="38" fill="#12344b">Brigham</text>
+<text x="6099.919688908035" y="8442.673335477393" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="38" fill="#12344b">Young</text>
+<text x="6099.919688908035" y="8483.673335477393" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="38" fill="#12344b">Univ.</text>
+<text x="6099.919688908035" y="8529.673335477393" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="32" fill="#12344b">4</text>
+</g>
+<g class="institution" data-name="EleutherAI" data-country="United States"><title>EleutherAI — 4 papers</title>
+<rect x="6015.8418" y="8573.3387" width="168.1558" height="183.3307" fill="#bcd9d3" stroke="white" stroke-width="5"/>
+<text x="6099.919688908035" y="8611.504001286437" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="34" fill="#12344b">Eleuther-</text>
+<text x="6099.919688908035" y="8648.504001286437" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="34" fill="#12344b">AI</text>
+<text x="6099.919688908035" y="8690.504001286437" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="28" fill="#12344b">4</text>
+</g>
+<g class="institution" data-name="IEEE" data-country="United States"><title>IEEE — 4 papers</title>
+<rect x="6015.8418" y="8756.6693" width="168.1558" height="183.3307" fill="#bcd9d3" stroke="white" stroke-width="5"/>
+<text x="6099.919688908035" y="8777.834667095482" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="68" fill="#12344b">IEEE</text>
+<text x="6099.919688908035" y="8861.834667095482" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="57" fill="#12344b">4</text>
+</g>
+<g class="institution" data-name="National Institutes of Health" data-country="United States"><title>National Institutes of Health — 4 papers</title>
+<rect x="6183.9976" y="8023.3467" width="173.2005" height="177.9909" fill="#bcd9d3" stroke="white" stroke-width="5"/>
+<text x="6270.597833290042" y="8032.342139794125" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="38" fill="#12344b">National</text>
+<text x="6270.597833290042" y="8073.342139794125" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="38" fill="#12344b">Inst.s of</text>
+<text x="6270.597833290042" y="8114.342139794125" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="38" fill="#12344b">Health</text>
+<text x="6270.597833290042" y="8160.342139794125" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="32" fill="#12344b">4</text>
+</g>
+<g class="institution" data-name="Redwood Research" data-country="United States"><title>Redwood Research — 4 papers</title>
+<rect x="6357.1981" y="8023.3467" width="173.2005" height="177.9909" fill="#bcd9d3" stroke="white" stroke-width="5"/>
+<text x="6443.798314781144" y="8057.342139794125" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="35" fill="#12344b">Redwood</text>
+<text x="6443.798314781144" y="8095.342139794125" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="35" fill="#12344b">Research</text>
+<text x="6443.798314781144" y="8138.342139794125" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="29" fill="#12344b">4</text>
+</g>
+<g class="institution" data-name="Southern Methodist University" data-country="United States"><title>Southern Methodist University — 4 papers</title>
+<rect x="6530.3986" y="8023.3467" width="173.2005" height="177.9909" fill="#bcd9d3" stroke="white" stroke-width="5"/>
+<text x="6616.998796272245" y="8040.342139794125" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="34" fill="#12344b">Southern</text>
+<text x="6616.998796272245" y="8077.342139794125" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="34" fill="#12344b">Methodi-</text>
+<text x="6616.998796272245" y="8114.342139794125" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="34" fill="#12344b">st Univ.</text>
+<text x="6616.998796272245" y="8156.342139794125" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="28" fill="#12344b">4</text>
+</g>
+<g class="institution" data-name="State University of New York at Albany" data-country="United States"><title>State University of New York at Albany — 4 papers</title>
+<rect x="6703.5990" y="8023.3467" width="173.2005" height="177.9909" fill="#bcd9d3" stroke="white" stroke-width="5"/>
+<text x="6790.199277763347" y="8031.342139794125" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="30" fill="#12344b">State Univ.</text>
+<text x="6790.199277763347" y="8064.342139794125" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="30" fill="#12344b">of New</text>
+<text x="6790.199277763347" y="8097.342139794125" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="30" fill="#12344b">York at</text>
+<text x="6790.199277763347" y="8130.342139794125" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="30" fill="#12344b">Albany</text>
+<text x="6790.199277763347" y="8168.342139794125" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="25" fill="#12344b">4</text>
+</g>
+<g class="institution" data-name="Thinking Machines Lab" data-country="United States"><title>Thinking Machines Lab — 4 papers</title>
+<rect x="6876.7995" y="8023.3467" width="173.2005" height="177.9909" fill="#bcd9d3" stroke="white" stroke-width="5"/>
+<text x="6963.399759254448" y="8038.342139794125" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="35" fill="#12344b">Thinking</text>
+<text x="6963.399759254448" y="8076.342139794125" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="35" fill="#12344b">Machines</text>
+<text x="6963.399759254448" y="8114.342139794125" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="35" fill="#12344b">Lab</text>
+<text x="6963.399759254448" y="8157.342139794125" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="29" fill="#12344b">4</text>
+</g>
+<g class="institution" data-name="Uber" data-country="United States"><title>Uber — 4 papers</title>
+<rect x="6183.9976" y="8201.3376" width="166.9402" height="184.6656" fill="#bcd9d3" stroke="white" stroke-width="5"/>
+<text x="6267.467704106468" y="8224.170407554284" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="67" fill="#12344b">Uber</text>
+<text x="6267.467704106468" y="8307.170407554284" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="56" fill="#12344b">4</text>
+</g>
+<g class="institution" data-name="University of Colorado" data-country="United States"><title>University of Colorado — 4 papers</title>
+<rect x="6183.9976" y="8386.0032" width="166.9402" height="184.6656" fill="#bcd9d3" stroke="white" stroke-width="5"/>
+<text x="6267.467704106468" y="8423.336005395917" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="35" fill="#12344b">Univ. of</text>
+<text x="6267.467704106468" y="8461.336005395917" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="35" fill="#12344b">Colorado</text>
+<text x="6267.467704106468" y="8504.336005395917" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="29" fill="#12344b">4</text>
+</g>
+<g class="institution" data-name="University of Kentucky" data-country="United States"><title>University of Kentucky — 4 papers</title>
+<rect x="6183.9976" y="8570.6688" width="166.9402" height="184.6656" fill="#bcd9d3" stroke="white" stroke-width="5"/>
+<text x="6267.467704106468" y="8591.00160323755" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="34" fill="#12344b">Univ. of</text>
+<text x="6267.467704106468" y="8628.00160323755" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="34" fill="#12344b">Kentuck-</text>
+<text x="6267.467704106468" y="8665.00160323755" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="34" fill="#12344b">y</text>
+<text x="6267.467704106468" y="8707.00160323755" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="28" fill="#12344b">4</text>
+</g>
+<g class="institution" data-name="University of Missouri" data-country="United States"><title>University of Missouri — 4 papers</title>
+<rect x="6183.9976" y="8755.3344" width="166.9402" height="184.6656" fill="#bcd9d3" stroke="white" stroke-width="5"/>
+<text x="6267.467704106468" y="8789.667201079183" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="37" fill="#12344b">Univ. of</text>
+<text x="6267.467704106468" y="8829.667201079183" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="37" fill="#12344b">Missouri</text>
+<text x="6267.467704106468" y="8874.667201079183" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="31" fill="#12344b">4</text>
+</g>
+<g class="institution" data-name="University of Oregon" data-country="United States"><title>University of Oregon — 4 papers</title>
+<rect x="6350.9378" y="8201.3376" width="174.7655" height="176.3970" fill="#bcd9d3" stroke="white" stroke-width="5"/>
+<text x="6438.320588709889" y="8221.536103124992" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="43" fill="#12344b">Univ. of</text>
+<text x="6438.320588709889" y="8268.536103124992" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="43" fill="#12344b">Oregon</text>
+<text x="6438.320588709889" y="8321.536103124992" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="36" fill="#12344b">4</text>
+</g>
+<g class="institution" data-name="Datadog" data-country="United States"><title>Datadog — 3 papers</title>
+<rect x="6525.7034" y="8201.3376" width="131.0742" height="176.3970" fill="#bedad4" stroke="white" stroke-width="5"/>
+<text x="6591.240441532418" y="8236.036103124992" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="34" fill="#12344b">Datad-</text>
+<text x="6591.240441532418" y="8273.036103124992" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="34" fill="#12344b">og</text>
+<text x="6591.240441532418" y="8315.036103124992" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="28" fill="#12344b">3</text>
+</g>
+<g class="institution" data-name="Earth Species Project" data-country="United States"><title>Earth Species Project — 3 papers</title>
+<rect x="6656.7775" y="8201.3376" width="131.0742" height="176.3970" fill="#bedad4" stroke="white" stroke-width="5"/>
+<text x="6722.314601094585" y="8223.036103124992" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="31" fill="#12344b">Earth</text>
+<text x="6722.314601094585" y="8257.036103124992" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="31" fill="#12344b">Species</text>
+<text x="6722.314601094585" y="8291.036103124992" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="31" fill="#12344b">Project</text>
+<text x="6722.314601094585" y="8330.036103124992" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="26" fill="#12344b">3</text>
+</g>
+<g class="institution" data-name="eBay Inc." data-country="United States"><title>eBay Inc. — 3 papers</title>
+<rect x="6787.8517" y="8201.3376" width="131.0742" height="176.3970" fill="#bedad4" stroke="white" stroke-width="5"/>
+<text x="6853.388760656751" y="8210.036103124992" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="50" fill="#12344b">eBay</text>
+<text x="6853.388760656751" y="8265.036103124992" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="50" fill="#12344b">Inc.</text>
+<text x="6853.388760656751" y="8327.036103124992" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="42" fill="#12344b">3</text>
+</g>
+<g class="institution" data-name="Hewlett Packard Enterprise" data-country="United States"><title>Hewlett Packard Enterprise — 3 papers</title>
+<rect x="6918.9258" y="8201.3376" width="131.0742" height="176.3970" fill="#bedad4" stroke="white" stroke-width="5"/>
+<text x="6984.462920218918" y="8208.536103124992" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="30" fill="#12344b">Hewlett</text>
+<text x="6984.462920218918" y="8241.536103124992" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="30" fill="#12344b">Packard</text>
+<text x="6984.462920218918" y="8274.536103124992" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="30" fill="#12344b">Enterpr-</text>
+<text x="6984.462920218918" y="8307.536103124992" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="30" fill="#12344b">ise</text>
+<text x="6984.462920218918" y="8345.536103124992" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="25" fill="#12344b">3</text>
+</g>
+<g class="institution" data-name="Kent State University" data-country="United States"><title>Kent State University — 3 papers</title>
+<rect x="6350.9378" y="8377.7346" width="164.4852" height="140.5664" fill="#bedad4" stroke="white" stroke-width="5"/>
+<text x="6433.180425589805" y="8400.017772914454" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="30" fill="#12344b">Kent State</text>
+<text x="6433.180425589805" y="8433.017772914454" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="30" fill="#12344b">Univ.</text>
+<text x="6433.180425589805" y="8471.017772914454" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="25" fill="#12344b">3</text>
+</g>
+<g class="institution" data-name="Louisiana State University" data-country="United States"><title>Louisiana State University — 3 papers</title>
+<rect x="6350.9378" y="8518.3009" width="164.4852" height="140.5664" fill="#bedad4" stroke="white" stroke-width="5"/>
+<text x="6433.180425589805" y="8524.084123510325" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="30" fill="#12344b">Louisiana</text>
+<text x="6433.180425589805" y="8557.084123510325" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="30" fill="#12344b">State</text>
+<text x="6433.180425589805" y="8590.084123510325" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="30" fill="#12344b">Univ.</text>
+<text x="6433.180425589805" y="8628.084123510325" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="25" fill="#12344b">3</text>
+</g>
+<g class="institution" data-name="Marquette University" data-country="United States"><title>Marquette University — 3 papers</title>
+<rect x="6350.9378" y="8658.8673" width="164.4852" height="140.5664" fill="#bedad4" stroke="white" stroke-width="5"/>
+<text x="6433.180425589805" y="8675.650474106196" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="34" fill="#12344b">Marquet-</text>
+<text x="6433.180425589805" y="8712.650474106196" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="34" fill="#12344b">te Univ.</text>
+<text x="6433.180425589805" y="8754.650474106196" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="28" fill="#12344b">3</text>
+</g>
+<g class="institution" data-name="Mitsubishi Electric Research Laboratories (MERL)" data-country="United States"><title>Mitsubishi Electric Research Laboratories (MERL) — 3 papers</title>
+<rect x="6350.9378" y="8799.4336" width="164.4852" height="140.5664" fill="#bedad4" stroke="white" stroke-width="5"/>
+<text x="6433.180425589805" y="8805.216824702067" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="24" fill="#12344b">Mitsubishi</text>
+<text x="6433.180425589805" y="8831.216824702067" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="24" fill="#12344b">Electric</text>
+<text x="6433.180425589805" y="8857.216824702067" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="24" fill="#12344b">Research</text>
+<text x="6433.180425589805" y="8883.216824702067" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="24" fill="#12344b">Labs (MERL)</text>
+<text x="6433.180425589805" y="8914.216824702067" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="20" fill="#12344b">3</text>
+</g>
+<g class="institution" data-name="New York Institute of Technology" data-country="United States"><title>New York Institute of Technology — 3 papers</title>
+<rect x="6515.4230" y="8377.7346" width="133.6442" height="173.0047" fill="#bedad4" stroke="white" stroke-width="5"/>
+<text x="6582.245156072268" y="8387.736967213978" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="29" fill="#12344b">New</text>
+<text x="6582.245156072268" y="8418.736967213978" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="29" fill="#12344b">York</text>
+<text x="6582.245156072268" y="8449.736967213978" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="29" fill="#12344b">Inst. of</text>
+<text x="6582.245156072268" y="8480.736967213978" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="29" fill="#12344b">Tech.</text>
+<text x="6582.245156072268" y="8516.736967213978" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="24" fill="#12344b">3</text>
+</g>
+<g class="institution" data-name="Pacific Northwest National Laboratory" data-country="United States"><title>Pacific Northwest National Laboratory — 3 papers</title>
+<rect x="6649.0673" y="8377.7346" width="133.6442" height="173.0047" fill="#bedad4" stroke="white" stroke-width="5"/>
+<text x="6715.889397194478" y="8397.236967213978" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="25" fill="#12344b">Pacific</text>
+<text x="6715.889397194478" y="8424.236967213978" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="25" fill="#12344b">Northwest</text>
+<text x="6715.889397194478" y="8451.236967213978" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="25" fill="#12344b">National</text>
+<text x="6715.889397194478" y="8478.236967213978" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="25" fill="#12344b">Lab</text>
+<text x="6715.889397194478" y="8510.236967213978" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="21" fill="#12344b">3</text>
+</g>
+<g class="institution" data-name="Palo Alto Networks" data-country="United States"><title>Palo Alto Networks — 3 papers</title>
+<rect x="6782.7115" y="8377.7346" width="133.6442" height="173.0047" fill="#bedad4" stroke="white" stroke-width="5"/>
+<text x="6849.533638316688" y="8387.736967213978" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="29" fill="#12344b">Palo</text>
+<text x="6849.533638316688" y="8418.736967213978" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="29" fill="#12344b">Alto</text>
+<text x="6849.533638316688" y="8449.736967213978" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="29" fill="#12344b">Networ-</text>
+<text x="6849.533638316688" y="8480.736967213978" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="29" fill="#12344b">ks</text>
+<text x="6849.533638316688" y="8516.736967213978" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="24" fill="#12344b">3</text>
+</g>
+<g class="institution" data-name="Patronus AI" data-country="United States"><title>Patronus AI — 3 papers</title>
+<rect x="6916.3558" y="8377.7346" width="133.6442" height="173.0047" fill="#bedad4" stroke="white" stroke-width="5"/>
+<text x="6983.177879438897" y="8410.736967213978" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="34" fill="#12344b">Patron-</text>
+<text x="6983.177879438897" y="8447.736967213978" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="34" fill="#12344b">us AI</text>
+<text x="6983.177879438897" y="8489.736967213978" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="28" fill="#12344b">3</text>
+</g>
+<g class="institution" data-name="PayPal Inc." data-country="United States"><title>PayPal Inc. — 3 papers</title>
+<rect x="6515.4230" y="8550.7393" width="178.1923" height="129.7536" fill="#bedad4" stroke="white" stroke-width="5"/>
+<text x="6604.5191962593035" y="8556.116114009532" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="38" fill="#12344b">PayPal</text>
+<text x="6604.5191962593035" y="8597.116114009532" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="38" fill="#12344b">Inc.</text>
+<text x="6604.5191962593035" y="8643.116114009532" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="32" fill="#12344b">3</text>
+</g>
+<g class="institution" data-name="Santa Clara University" data-country="United States"><title>Santa Clara University — 3 papers</title>
+<rect x="6515.4230" y="8680.4929" width="178.1923" height="129.7536" fill="#bedad4" stroke="white" stroke-width="5"/>
+<text x="6604.5191962593035" y="8695.86966840572" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="31" fill="#12344b">Santa</text>
+<text x="6604.5191962593035" y="8729.86966840572" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="31" fill="#12344b">Clara Univ.</text>
+<text x="6604.5191962593035" y="8768.86966840572" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="26" fill="#12344b">3</text>
+</g>
+<g class="institution" data-name="Santa Fe Institute" data-country="United States"><title>Santa Fe Institute — 3 papers</title>
+<rect x="6515.4230" y="8810.2464" width="178.1923" height="129.7536" fill="#bedad4" stroke="white" stroke-width="5"/>
+<text x="6604.5191962593035" y="8815.623222801907" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="38" fill="#12344b">Santa Fe</text>
+<text x="6604.5191962593035" y="8856.623222801907" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="38" fill="#12344b">Inst.</text>
+<text x="6604.5191962593035" y="8902.623222801907" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="32" fill="#12344b">3</text>
+</g>
+<g class="institution" data-name="Snorkel AI" data-country="United States"><title>Snorkel AI — 3 papers</title>
+<rect x="6693.6154" y="8550.7393" width="178.1923" height="129.7536" fill="#bedad4" stroke="white" stroke-width="5"/>
+<text x="6782.7115177555825" y="8556.116114009532" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="38" fill="#12344b">Snorkel</text>
+<text x="6782.7115177555825" y="8597.116114009532" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="38" fill="#12344b">AI</text>
+<text x="6782.7115177555825" y="8643.116114009532" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="32" fill="#12344b">3</text>
+</g>
+<g class="institution" data-name="The AI Institute" data-country="United States"><title>The AI Institute — 3 papers</title>
+<rect x="6871.8077" y="8550.7393" width="178.1923" height="129.7536" fill="#bedad4" stroke="white" stroke-width="5"/>
+<text x="6960.903839251861" y="8556.116114009532" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="38" fill="#12344b">The AI</text>
+<text x="6960.903839251861" y="8597.116114009532" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="38" fill="#12344b">Inst.</text>
+<text x="6960.903839251861" y="8643.116114009532" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="32" fill="#12344b">3</text>
+</g>
+<g class="institution" data-name="The University of Texas MD Anderson Cancer Center" data-country="United States"><title>The University of Texas MD Anderson Cancer Center — 3 papers</title>
+<rect x="6693.6154" y="8680.4929" width="178.1923" height="129.7536" fill="#bedad4" stroke="white" stroke-width="5"/>
+<text x="6782.7115177555825" y="8685.86966840572" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="22" fill="#12344b">The Univ. of</text>
+<text x="6782.7115177555825" y="8709.86966840572" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="22" fill="#12344b">Texas MD</text>
+<text x="6782.7115177555825" y="8733.86966840572" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="22" fill="#12344b">Anderson</text>
+<text x="6782.7115177555825" y="8757.86966840572" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="22" fill="#12344b">Cancer Center</text>
+<text x="6782.7115177555825" y="8786.86966840572" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="18" fill="#12344b">3</text>
+</g>
+<g class="institution" data-name="University of Alabama at Birmingham" data-country="United States"><title>University of Alabama at Birmingham — 3 papers</title>
+<rect x="6693.6154" y="8810.2464" width="178.1923" height="129.7536" fill="#bedad4" stroke="white" stroke-width="5"/>
+<text x="6782.7115177555825" y="8818.123222801907" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="27" fill="#12344b">Univ. of</text>
+<text x="6782.7115177555825" y="8847.123222801907" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="27" fill="#12344b">Alabama at</text>
+<text x="6782.7115177555825" y="8876.123222801907" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="27" fill="#12344b">Birmingham</text>
+<text x="6782.7115177555825" y="8910.123222801907" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="22" fill="#12344b">3</text>
+</g>
+<g class="institution" data-name="University of Texas at San Antonio" data-country="United States"><title>University of Texas at San Antonio — 3 papers</title>
+<rect x="6871.8077" y="8680.4929" width="178.1923" height="129.7536" fill="#bedad4" stroke="white" stroke-width="5"/>
+<text x="6960.903839251861" y="8688.369668405718" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="27" fill="#12344b">Univ. of</text>
+<text x="6960.903839251861" y="8717.369668405718" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="27" fill="#12344b">Texas at</text>
+<text x="6960.903839251861" y="8746.369668405718" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="27" fill="#12344b">San Antonio</text>
+<text x="6960.903839251861" y="8780.369668405718" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="22" fill="#12344b">3</text>
+</g>
+<g class="institution" data-name="University of Wyoming" data-country="United States"><title>University of Wyoming — 3 papers</title>
+<rect x="6871.8077" y="8810.2464" width="178.1923" height="129.7536" fill="#bedad4" stroke="white" stroke-width="5"/>
+<text x="6960.90383925186" y="8818.623222801907" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="36" fill="#12344b">Univ. of</text>
+<text x="6960.90383925186" y="8857.623222801907" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="36" fill="#12344b">Wyoming</text>
+<text x="6960.90383925186" y="8901.623222801907" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="30" fill="#12344b">3</text>
+</g>
+<rect x="150.0000" y="9150.0000" width="6900.0000" height="7.0000" fill="#dbe3ed"/>
+<text x="3600.0" y="9270" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="235" fill="#102c44">github.com/ZipengWu365</text>
+</svg>
