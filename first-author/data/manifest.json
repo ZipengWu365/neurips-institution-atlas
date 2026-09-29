@@ -1,0 +1,98 @@
+[
+  {
+    "id": "world-regions",
+    "title": "Worldwide by region",
+    "count": 200,
+    "total": 6480,
+    "filename": "NeurIPS_2026_First_Author_world-regions_EN",
+    "minimum_font_pixels": 34
+  },
+  {
+    "id": "world-countries",
+    "title": "Worldwide by country",
+    "count": 200,
+    "total": 6480,
+    "filename": "NeurIPS_2026_First_Author_world-countries_EN",
+    "minimum_font_pixels": 31
+  },
+  {
+    "id": "china",
+    "title": "China",
+    "count": 200,
+    "total": 2508,
+    "filename": "NeurIPS_2026_First_Author_china_EN",
+    "minimum_font_pixels": 18
+  },
+  {
+    "id": "united-kingdom",
+    "title": "United Kingdom",
+    "count": 45,
+    "total": 379,
+    "filename": "NeurIPS_2026_First_Author_united-kingdom_EN",
+    "minimum_font_pixels": 38
+  },
+  {
+    "id": "united-states",
+    "title": "United States",
+    "count": 200,
+    "total": 2626,
+    "filename": "NeurIPS_2026_First_Author_united-states_EN",
+    "minimum_font_pixels": 20
+  },
+  {
+    "id": "germany",
+    "title": "Germany",
+    "count": 84,
+    "total": 356,
+    "filename": "NeurIPS_2026_First_Author_germany_EN",
+    "minimum_font_pixels": 34
+  },
+  {
+    "id": "france",
+    "title": "France",
+    "count": 35,
+    "total": 169,
+    "filename": "NeurIPS_2026_First_Author_france_EN",
+    "minimum_font_pixels": 75
+  },
+  {
+    "id": "italy",
+    "title": "Italy",
+    "count": 32,
+    "total": 77,
+    "filename": "NeurIPS_2026_First_Author_italy_EN",
+    "minimum_font_pixels": 101
+  },
+  {
+    "id": "australia",
+    "title": "Australia",
+    "count": 23,
+    "total": 164,
+    "filename": "NeurIPS_2026_First_Author_australia_EN",
+    "minimum_font_pixels": 94
+  },
+  {
+    "id": "south-korea",
+    "title": "South Korea",
+    "count": 51,
+    "total": 519,
+    "filename": "NeurIPS_2026_First_Author_south-korea_EN",
+    "minimum_font_pixels": 35
+  },
+  {
+    "id": "india",
+    "title": "India",
+    "count": 19,
+    "total": 69,
+    "filename": "NeurIPS_2026_First_Author_india_EN",
+    "minimum_font_pixels": 128
+  },
+  {
+    "id": "japan",
+    "title": "Japan",
+    "count": 37,
+    "total": 166,
+    "filename": "NeurIPS_2026_First_Author_japan_EN",
+    "minimum_font_pixels": 62
+  }
+]

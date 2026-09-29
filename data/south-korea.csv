@@ -1,73 +1,73 @@
-﻿Displayed position,Institution,Country,Associated papers,Original source labels
-1,Korea Advanced Institute of Science and Technology,South Korea,237,Korea Advanced Institute of Science and Technology; Korea Advanced Institute of Science and Technololgy
-2,Seoul National University,South Korea,137,Seoul National University
-3,Yonsei University,South Korea,66,Yonsei University
-4,Korea University,South Korea,64,Korea University
-5,Samsung,South Korea,47,Samsung
-6,Sungkyunkwan University,South Korea,37,Sungkyunkwan University; Sungkunkwan University
-7,Pohang University of Science and Technology,South Korea,36,Pohang University of Science and Technology
-8,Hanyang University,South Korea,24,Hanyang University
-9,Chung-Ang University,South Korea,23,Chung-Ang University
-10,NAVER,South Korea,13,NAVER
-11,Gwangju Institute of Science and Technology,South Korea,12,Gwangju Institute of Science and Technology
-12,Kyung Hee University,South Korea,12,Kyung Hee University
-13,LG,South Korea,12,LG
-14,Ulsan National Institute of Science and Technology,South Korea,12,Ulsan National Institute of Science and Technology
-15,Daegu Gyeongbuk Institute of Science and Technology,South Korea,10,Daegu Gyeongbuk Institute of Science and Technology
-16,Electronics and Telecommunications Research Institute,South Korea,10,Electronics and Telecommunications Research Institute; Electronics and Telecommucations Research Institute
-17,Ajou University,South Korea,8,Ajou University
-18,Inha University,South Korea,8,Inha University
-19,Korea Institute for Advanced Study,South Korea,8,Korea Institute for Advanced Study
-20,KRAFTON,South Korea,8,KRAFTON
-21,Kookmin University,South Korea,7,Kookmin University
-22,Pusan National University,South Korea,7,Pusan National University; Pusan Natioinal University
-23,Sejong University,South Korea,7,Sejong University
-24,Sogang University,South Korea,7,Sogang University
-25,Ewha Womans University,South Korea,6,Ewha Womans University; Ewha Women's University
-26,Korea Telecom Research,South Korea,6,Korea Telecom Research; KT Corporation; KT Research
-27,Seoul National University of Science and Technology,South Korea,6,Seoul National University of Science and Technology
-28,Hankuk University of Foreign Studies,South Korea,5,Hankuk University of Foreign Studies
-29,Konkuk University,South Korea,5,Konkuk University
-30,AIM Intelligence,South Korea,4,AIM Intelligence
-31,Korea AI Safety Institute,South Korea,4,Korea AI Safety Institute
-32,Sookmyung Women's University,South Korea,4,Sookmyung Women's University
-33,Chonnam National University,South Korea,3,Chonnam National University
-34,Chungnam National University,South Korea,3,Chungnam National University
-35,DEEPNOID Inc.,South Korea,3,DEEPNOID Inc.
-36,Kyungpook National University,South Korea,3,Kyungpook National University
-37,Soongsil University,South Korea,3,Soongsil University
-38,Dankook University,South Korea,2,Dankook University
-39,Dongguk University,South Korea,2,Dongguk University
-40,Institute for Basic Science,South Korea,2,Institute for Basic Science
-41,Korea Electronics Technology Institute,South Korea,2,Korea Electronics Technology Institute
-42,Korea Research Institute of Chemical Technology,South Korea,2,Korea Research Institute of Chemical Technology
-43,Kumoh Nat'l Institute of Technolgy,South Korea,2,Kumoh Nat'l Institute of Technolgy; Kumoh National Institute of Technology; Kumoh National University of Technology
-44,SimPlatform Co. Ltd. Affiliate Research Institute,South Korea,2,SimPlatform Co. Ltd.; SimPlatform Co. Ltd. Affiliate Research Institute
-45,Ulsan University,South Korea,2,Ulsan University; University of Ulsan
-46,University of Seoul,South Korea,2,University of Seoul
-47,Chungbuk National University,South Korea,1,Chungbuk National University
-48,Dong-A University,South Korea,1,Dong-A University
-49,EbTech Co. Ltd.,South Korea,1,EbTech Co. Ltd.
-50,Gachon University,South Korea,1,Gachon University
-51,Gyeongsang National University,South Korea,1,Gyeongsang National University
-52,HodooAI Lab,South Korea,1,HodooAI Lab; hodooailab
-53,Hyundai Motor Company,South Korea,1,Hyundai Motor Company
-54,Incheon National University,South Korea,1,Incheon National University
-55,Kakaohealthcare Inc.,South Korea,1,Kakaohealthcare Inc.
-56,Kangwon National University,South Korea,1,Kangwon National University
-57,Korea Cyber University,South Korea,1,Korea Cyber University
-58,Korea Institute of Industrial Technology,South Korea,1,Korea Institute of Industrial Technology
-59,Korea Military Academy,South Korea,1,Korea Military Academy
-60,Kwangwoon University,South Korea,1,Kwangwoon University
-61,Lunit Inc.,South Korea,1,Lunit Inc.
-62,Myongji University,South Korea,1,Myongji University
-63,National Institute for Mathematical Sciences,South Korea,1,National Institute for Mathematical Sciences
-64,Pukyong National University,South Korea,1,Pukyong National University
-65,RLWRLD Inc.,South Korea,1,RLWRLD Inc.
-66,Semyung University,South Korea,1,Semyung University
-67,Snuailab,South Korea,1,Snuailab
-68,Soonchunhyang University,South Korea,1,Soonchunhyang University
-69,Sungshin Women's University,South Korea,1,Sungshin Women's University
-70,Suwon University,South Korea,1,Suwon University; The University of Suwon
-71,Tech University of Korea,South Korea,1,Tech University of Korea
-72,VUNO Inc,South Korea,1,VUNO Inc
+﻿Displayed position,Institution,Country,Papers,Original source labels,Share of displayed total (%),Displayed total
+1,Korea Advanced Institute of Science and Technology,South Korea,237,Korea Advanced Institute of Science and Technology; Korea Advanced Institute of Science and Technololgy,26.015368,911
+2,Seoul National University,South Korea,137,Seoul National University,15.038419,911
+3,Yonsei University,South Korea,66,Yonsei University,7.244786,911
+4,Korea University,South Korea,64,Korea University,7.025247,911
+5,Samsung,South Korea,47,Samsung,5.159166,911
+6,Sungkyunkwan University,South Korea,37,Sungkyunkwan University; Sungkunkwan University,4.061471,911
+7,Pohang University of Science and Technology,South Korea,36,Pohang University of Science and Technology,3.951701,911
+8,Hanyang University,South Korea,24,Hanyang University,2.634468,911
+9,Chung-Ang University,South Korea,23,Chung-Ang University,2.524698,911
+10,NAVER,South Korea,13,NAVER,1.427003,911
+11,Gwangju Institute of Science and Technology,South Korea,12,Gwangju Institute of Science and Technology,1.317234,911
+12,Kyung Hee University,South Korea,12,Kyung Hee University,1.317234,911
+13,LG,South Korea,12,LG,1.317234,911
+14,Ulsan National Institute of Science and Technology,South Korea,12,Ulsan National Institute of Science and Technology,1.317234,911
+15,Daegu Gyeongbuk Institute of Science and Technology,South Korea,10,Daegu Gyeongbuk Institute of Science and Technology,1.097695,911
+16,Electronics and Telecommunications Research Institute,South Korea,10,Electronics and Telecommunications Research Institute; Electronics and Telecommucations Research Institute,1.097695,911
+17,Ajou University,South Korea,8,Ajou University,0.878156,911
+18,Inha University,South Korea,8,Inha University,0.878156,911
+19,Korea Institute for Advanced Study,South Korea,8,Korea Institute for Advanced Study,0.878156,911
+20,KRAFTON,South Korea,8,KRAFTON,0.878156,911
+21,Kookmin University,South Korea,7,Kookmin University,0.768386,911
+22,Pusan National University,South Korea,7,Pusan National University; Pusan Natioinal University,0.768386,911
+23,Sejong University,South Korea,7,Sejong University,0.768386,911
+24,Sogang University,South Korea,7,Sogang University,0.768386,911
+25,Ewha Womans University,South Korea,6,Ewha Womans University; Ewha Women's University,0.658617,911
+26,Korea Telecom Research,South Korea,6,Korea Telecom Research; KT Corporation; KT Research,0.658617,911
+27,Seoul National University of Science and Technology,South Korea,6,Seoul National University of Science and Technology,0.658617,911
+28,Hankuk University of Foreign Studies,South Korea,5,Hankuk University of Foreign Studies,0.548847,911
+29,Konkuk University,South Korea,5,Konkuk University,0.548847,911
+30,AIM Intelligence,South Korea,4,AIM Intelligence,0.439078,911
+31,Korea AI Safety Institute,South Korea,4,Korea AI Safety Institute,0.439078,911
+32,Sookmyung Women's University,South Korea,4,Sookmyung Women's University,0.439078,911
+33,Chonnam National University,South Korea,3,Chonnam National University,0.329308,911
+34,Chungnam National University,South Korea,3,Chungnam National University,0.329308,911
+35,DEEPNOID Inc.,South Korea,3,DEEPNOID Inc.,0.329308,911
+36,Kyungpook National University,South Korea,3,Kyungpook National University,0.329308,911
+37,Soongsil University,South Korea,3,Soongsil University,0.329308,911
+38,Dankook University,South Korea,2,Dankook University,0.219539,911
+39,Dongguk University,South Korea,2,Dongguk University,0.219539,911
+40,Institute for Basic Science,South Korea,2,Institute for Basic Science,0.219539,911
+41,Korea Electronics Technology Institute,South Korea,2,Korea Electronics Technology Institute,0.219539,911
+42,Korea Research Institute of Chemical Technology,South Korea,2,Korea Research Institute of Chemical Technology,0.219539,911
+43,Kumoh Nat'l Institute of Technolgy,South Korea,2,Kumoh Nat'l Institute of Technolgy; Kumoh National Institute of Technology; Kumoh National University of Technology,0.219539,911
+44,SimPlatform Co. Ltd. Affiliate Research Institute,South Korea,2,SimPlatform Co. Ltd.; SimPlatform Co. Ltd. Affiliate Research Institute,0.219539,911
+45,Ulsan University,South Korea,2,Ulsan University; University of Ulsan,0.219539,911
+46,University of Seoul,South Korea,2,University of Seoul,0.219539,911
+47,Chungbuk National University,South Korea,1,Chungbuk National University,0.109769,911
+48,Dong-A University,South Korea,1,Dong-A University,0.109769,911
+49,EbTech Co. Ltd.,South Korea,1,EbTech Co. Ltd.,0.109769,911
+50,Gachon University,South Korea,1,Gachon University,0.109769,911
+51,Gyeongsang National University,South Korea,1,Gyeongsang National University,0.109769,911
+52,HodooAI Lab,South Korea,1,HodooAI Lab; hodooailab,0.109769,911
+53,Hyundai Motor Company,South Korea,1,Hyundai Motor Company,0.109769,911
+54,Incheon National University,South Korea,1,Incheon National University,0.109769,911
+55,Kakaohealthcare Inc.,South Korea,1,Kakaohealthcare Inc.,0.109769,911
+56,Kangwon National University,South Korea,1,Kangwon National University,0.109769,911
+57,Korea Cyber University,South Korea,1,Korea Cyber University,0.109769,911
+58,Korea Institute of Industrial Technology,South Korea,1,Korea Institute of Industrial Technology,0.109769,911
+59,Korea Military Academy,South Korea,1,Korea Military Academy,0.109769,911
+60,Kwangwoon University,South Korea,1,Kwangwoon University,0.109769,911
+61,Lunit Inc.,South Korea,1,Lunit Inc.,0.109769,911
+62,Myongji University,South Korea,1,Myongji University,0.109769,911
+63,National Institute for Mathematical Sciences,South Korea,1,National Institute for Mathematical Sciences,0.109769,911
+64,Pukyong National University,South Korea,1,Pukyong National University,0.109769,911
+65,RLWRLD Inc.,South Korea,1,RLWRLD Inc.,0.109769,911
+66,Semyung University,South Korea,1,Semyung University,0.109769,911
+67,Snuailab,South Korea,1,Snuailab,0.109769,911
+68,Soonchunhyang University,South Korea,1,Soonchunhyang University,0.109769,911
+69,Sungshin Women's University,South Korea,1,Sungshin Women's University,0.109769,911
+70,Suwon University,South Korea,1,Suwon University; The University of Suwon,0.109769,911
+71,Tech University of Korea,South Korea,1,Tech University of Korea,0.109769,911
+72,VUNO Inc,South Korea,1,VUNO Inc,0.109769,911

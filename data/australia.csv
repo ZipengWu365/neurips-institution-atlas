@@ -1,33 +1,33 @@
-﻿Displayed position,Institution,Country,Associated papers,Original source labels
-1,University of Sydney,Australia,65,University of Sydney
-2,Monash University,Australia,50,Monash University
-3,University of New South Wales,Australia,50,University of New South Wales
-4,University of Technology Sydney,Australia,45,University of Technology Sydney
-5,University of Melbourne,Australia,43,University of Melbourne
-6,Australian National University,Australia,41,Australian National University
-7,University of Adelaide,Australia,38,University of Adelaide
-8,CSIRO,Australia,28,CSIRO
-9,University of Queensland,Australia,23,University of Queensland
-10,Griffith University,Australia,19,Griffith University
-11,RMIT University,Australia,16,RMIT University
-12,Deakin University,Australia,14,Deakin University
-13,Macquarie University,Australia,10,Macquarie University; University of Macquaire
-14,University of Wollongong,Australia,8,University of Wollongong
-15,Western Sydney University,Australia,8,Western Sydney University
-16,Canva,Australia,7,Canva
-17,Australian Institute for Machine Learning,Australia,5,Australian Institute for Machine Learning
-18,University of Western Australia,Australia,4,University of Western Australia
-19,La Trobe University,Australia,3,La Trobe University
-20,Pluralis Research,Australia,3,Pluralis Research
-21,Queensland University of Technology,Australia,3,Queensland University of Technology
-22,Edith Cowan University,Australia,2,Edith Cowan University
-23,Swinburne University of Technology,Australia,2,Swinburne University of Technology
-24,University of Southern Queensland,Australia,2,University of Southern Queensland
-25,Cortical Labs Pty Ltd,Australia,1,Cortical Labs Pty Ltd
-26,Defence Science and Technology Group (DSTG),Australia,1,Defence Science and Technology Group (DSTG)
-27,Garvan Institute of Medical Research,Australia,1,Garvan Institute of Medical Research
-28,James Cook University,Australia,1,James Cook University
-29,Profenso Pty Ltd,Australia,1,Profenso Pty Ltd
-30,QIMR Berghofer Medical Research Institute,Australia,1,QIMR Berghofer Medical Research Institute
-31,University of Tasmania,Australia,1,University of Tasmania
-32,University of the Sunshine Coast,Australia,1,University of the Sunshine Coast
+﻿Displayed position,Institution,Country,Papers,Original source labels,Share of displayed total (%),Displayed total
+1,University of Sydney,Australia,65,University of Sydney,13.078471,497
+2,Monash University,Australia,50,Monash University,10.060362,497
+3,University of New South Wales,Australia,50,University of New South Wales,10.060362,497
+4,University of Technology Sydney,Australia,45,University of Technology Sydney,9.054326,497
+5,University of Melbourne,Australia,43,University of Melbourne,8.651911,497
+6,Australian National University,Australia,41,Australian National University,8.249497,497
+7,University of Adelaide,Australia,38,University of Adelaide,7.645875,497
+8,CSIRO,Australia,28,CSIRO,5.633803,497
+9,University of Queensland,Australia,23,University of Queensland,4.627767,497
+10,Griffith University,Australia,19,Griffith University,3.822938,497
+11,RMIT University,Australia,16,RMIT University,3.219316,497
+12,Deakin University,Australia,14,Deakin University,2.816901,497
+13,Macquarie University,Australia,10,Macquarie University; University of Macquaire,2.012072,497
+14,University of Wollongong,Australia,8,University of Wollongong,1.609658,497
+15,Western Sydney University,Australia,8,Western Sydney University,1.609658,497
+16,Canva,Australia,7,Canva,1.408451,497
+17,Australian Institute for Machine Learning,Australia,5,Australian Institute for Machine Learning,1.006036,497
+18,University of Western Australia,Australia,4,University of Western Australia,0.804829,497
+19,La Trobe University,Australia,3,La Trobe University,0.603622,497
+20,Pluralis Research,Australia,3,Pluralis Research,0.603622,497
+21,Queensland University of Technology,Australia,3,Queensland University of Technology,0.603622,497
+22,Edith Cowan University,Australia,2,Edith Cowan University,0.402414,497
+23,Swinburne University of Technology,Australia,2,Swinburne University of Technology,0.402414,497
+24,University of Southern Queensland,Australia,2,University of Southern Queensland,0.402414,497
+25,Cortical Labs Pty Ltd,Australia,1,Cortical Labs Pty Ltd,0.201207,497
+26,Defence Science and Technology Group (DSTG),Australia,1,Defence Science and Technology Group (DSTG),0.201207,497
+27,Garvan Institute of Medical Research,Australia,1,Garvan Institute of Medical Research,0.201207,497
+28,James Cook University,Australia,1,James Cook University,0.201207,497
+29,Profenso Pty Ltd,Australia,1,Profenso Pty Ltd,0.201207,497
+30,QIMR Berghofer Medical Research Institute,Australia,1,QIMR Berghofer Medical Research Institute,0.201207,497
+31,University of Tasmania,Australia,1,University of Tasmania,0.201207,497
+32,University of the Sunshine Coast,Australia,1,University of the Sunshine Coast,0.201207,497

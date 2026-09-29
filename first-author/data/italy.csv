@@ -1,33 +1,33 @@
-﻿Displayed position,Institution,Country,First-listed-author papers,Original source labels
-1,Politecnico di Milano,Italy,12,Politecnico di Milano
-2,Sapienza University of Rome,Italy,8,Sapienza University of Rome
-3,University of Trento,Italy,7,University of Trento
-4,Bocconi University,Italy,5,Bocconi University
-5,Politecnico di Torino,Italy,5,Politecnico di Torino
-6,Fondazione Bruno Kessler,Italy,3,Fondazione Bruno Kessler
-7,University of Florence,Italy,3,University of Florence
-8,University of Milan,Italy,3,University of Milan
-9,University of Pisa,Italy,3,University of Pisa
-10,University of Verona,Italy,3,University of Verona
-11,University of Bologna,Italy,2,University of Bologna
-12,University of Catania,Italy,2,University of Catania
-13,University of Padua,Italy,2,University of Padua
-14,Gran Sasso Science Institute,Italy,1,Gran Sasso Science Institute
-15,Polytechnic Institute of Bari,Italy,1,Polytechnic Institute of Bari
-16,Sapienza University,Italy,1,Sapienza University
-17,Universitas Mercatorum,Italy,1,Universitas Mercatorum
-18,University of Bari Aldo Moro,Italy,1,University of Bari Aldo Moro
-19,University of Cagliari,Italy,1,University of Cagliari
-20,University of Camerino,Italy,1,University of Camerino
-21,University of Genoa,Italy,1,University of Genoa
-22,University of Milan-Bicocca,Italy,1,University of Milan-Bicocca
-23,University of Modena and Reggio Emilia,Italy,1,University of Modena and Reggio Emilia
-24,University of Modena e Reggio Emilia,Italy,1,University of Modena e Reggio Emilia
-25,"University of Roma ""Tor Vergata""",Italy,1,"University of Roma ""Tor Vergata"""
-26,University of Rome Tor Vergata,Italy,1,University of Rome Tor Vergata
-27,University of Salerno,Italy,1,University of Salerno
-28,Università Campus Bio-Medico di Roma,Italy,1,Università Campus Bio-Medico di Roma
-29,Università degli Studi di Genova,Italy,1,Università degli Studi di Genova
-30,Università degli Studi di Milano,Italy,1,Università degli Studi di Milano
-31,Università degli Studi di Modena e Reggio Emilia,Italy,1,Università degli Studi di Modena e Reggio Emilia
-32,Università di Modena e Reggio Emilia,Italy,1,Università di Modena e Reggio Emilia
+﻿Displayed position,Institution,Country,First-listed-author papers,Original source labels,Share of displayed total (%),Displayed total
+1,Politecnico di Milano,Italy,12,Politecnico di Milano,15.584416,77
+2,Sapienza University of Rome,Italy,8,Sapienza University of Rome,10.389610,77
+3,University of Trento,Italy,7,University of Trento,9.090909,77
+4,Bocconi University,Italy,5,Bocconi University,6.493506,77
+5,Politecnico di Torino,Italy,5,Politecnico di Torino,6.493506,77
+6,Fondazione Bruno Kessler,Italy,3,Fondazione Bruno Kessler,3.896104,77
+7,University of Florence,Italy,3,University of Florence,3.896104,77
+8,University of Milan,Italy,3,University of Milan,3.896104,77
+9,University of Pisa,Italy,3,University of Pisa,3.896104,77
+10,University of Verona,Italy,3,University of Verona,3.896104,77
+11,University of Bologna,Italy,2,University of Bologna,2.597403,77
+12,University of Catania,Italy,2,University of Catania,2.597403,77
+13,University of Padua,Italy,2,University of Padua,2.597403,77
+14,Gran Sasso Science Institute,Italy,1,Gran Sasso Science Institute,1.298701,77
+15,Polytechnic Institute of Bari,Italy,1,Polytechnic Institute of Bari,1.298701,77
+16,Sapienza University,Italy,1,Sapienza University,1.298701,77
+17,Universitas Mercatorum,Italy,1,Universitas Mercatorum,1.298701,77
+18,University of Bari Aldo Moro,Italy,1,University of Bari Aldo Moro,1.298701,77
+19,University of Cagliari,Italy,1,University of Cagliari,1.298701,77
+20,University of Camerino,Italy,1,University of Camerino,1.298701,77
+21,University of Genoa,Italy,1,University of Genoa,1.298701,77
+22,University of Milan-Bicocca,Italy,1,University of Milan-Bicocca,1.298701,77
+23,University of Modena and Reggio Emilia,Italy,1,University of Modena and Reggio Emilia,1.298701,77
+24,University of Modena e Reggio Emilia,Italy,1,University of Modena e Reggio Emilia,1.298701,77
+25,"University of Roma ""Tor Vergata""",Italy,1,"University of Roma ""Tor Vergata""",1.298701,77
+26,University of Rome Tor Vergata,Italy,1,University of Rome Tor Vergata,1.298701,77
+27,University of Salerno,Italy,1,University of Salerno,1.298701,77
+28,Università Campus Bio-Medico di Roma,Italy,1,Università Campus Bio-Medico di Roma,1.298701,77
+29,Università degli Studi di Genova,Italy,1,Università degli Studi di Genova,1.298701,77
+30,Università degli Studi di Milano,Italy,1,Università degli Studi di Milano,1.298701,77
+31,Università degli Studi di Modena e Reggio Emilia,Italy,1,Università degli Studi di Modena e Reggio Emilia,1.298701,77
+32,Università di Modena e Reggio Emilia,Italy,1,Università di Modena e Reggio Emilia,1.298701,77

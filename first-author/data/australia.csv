@@ -1,24 +1,24 @@
-﻿Displayed position,Institution,Country,First-listed-author papers,Original source labels
-1,University of Sydney,Australia,23,University of Sydney
-2,University of Melbourne,Australia,20,University of Melbourne
-3,University of New South Wales,Australia,20,University of New South Wales
-4,Monash University,Australia,14,Monash University
-5,Australian National University,Australia,12,Australian National University
-6,University of Queensland,Australia,12,University of Queensland
-7,University of Adelaide,Australia,11,University of Adelaide
-8,University of Technology Sydney,Australia,11,University of Technology Sydney
-9,RMIT University,Australia,8,RMIT University
-10,Deakin University,Australia,6,Deakin University
-11,Griffith University,Australia,5,Griffith University
-12,University of Wollongong,Australia,5,University of Wollongong
-13,CSIRO,Australia,4,CSIRO
-14,Australian Institute for Machine Learning,Australia,2,Australian Institute for Machine Learning
-15,Macquarie University,Australia,2,Macquarie University
-16,Pluralis Research,Australia,2,Pluralis Research
-17,Defence Science and Technology Group (DSTG),Australia,1,Defence Science and Technology Group (DSTG)
-18,James Cook University,Australia,1,James Cook University
-19,La Trobe University,Australia,1,La Trobe University
-20,Swinburne University of Technology,Australia,1,Swinburne University of Technology
-21,University of Macquaire,Australia,1,University of Macquaire
-22,University of Western Australia,Australia,1,University of Western Australia
-23,Western Sydney University,Australia,1,Western Sydney University
+﻿Displayed position,Institution,Country,First-listed-author papers,Original source labels,Share of displayed total (%),Displayed total
+1,University of Sydney,Australia,23,University of Sydney,14.024390,164
+2,University of Melbourne,Australia,20,University of Melbourne,12.195122,164
+3,University of New South Wales,Australia,20,University of New South Wales,12.195122,164
+4,Monash University,Australia,14,Monash University,8.536585,164
+5,Australian National University,Australia,12,Australian National University,7.317073,164
+6,University of Queensland,Australia,12,University of Queensland,7.317073,164
+7,University of Adelaide,Australia,11,University of Adelaide,6.707317,164
+8,University of Technology Sydney,Australia,11,University of Technology Sydney,6.707317,164
+9,RMIT University,Australia,8,RMIT University,4.878049,164
+10,Deakin University,Australia,6,Deakin University,3.658537,164
+11,Griffith University,Australia,5,Griffith University,3.048780,164
+12,University of Wollongong,Australia,5,University of Wollongong,3.048780,164
+13,CSIRO,Australia,4,CSIRO,2.439024,164
+14,Australian Institute for Machine Learning,Australia,2,Australian Institute for Machine Learning,1.219512,164
+15,Macquarie University,Australia,2,Macquarie University,1.219512,164
+16,Pluralis Research,Australia,2,Pluralis Research,1.219512,164
+17,Defence Science and Technology Group (DSTG),Australia,1,Defence Science and Technology Group (DSTG),0.609756,164
+18,James Cook University,Australia,1,James Cook University,0.609756,164
+19,La Trobe University,Australia,1,La Trobe University,0.609756,164
+20,Swinburne University of Technology,Australia,1,Swinburne University of Technology,0.609756,164
+21,University of Macquaire,Australia,1,University of Macquaire,0.609756,164
+22,University of Western Australia,Australia,1,University of Western Australia,0.609756,164
+23,Western Sydney University,Australia,1,Western Sydney University,0.609756,164

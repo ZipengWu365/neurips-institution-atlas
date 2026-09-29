@@ -1,54 +1,54 @@
-﻿Displayed position,Institution,Country,Associated papers,Original source labels
-1,Inria,France,81,Inria
-2,CNRS,France,53,CNRS
-3,École Polytechnique,France,46,École Polytechnique
-4,École Normale Supérieure de Paris,France,34,École Normale Supérieure de Paris
-5,Sorbonne University,France,32,Sorbonne University; University Paris VI
-6,Télécom Paris,France,18,Télécom Paris
-7,Institut Polytechnique de Paris,France,15,Institut Polytechnique de Paris
-8,Université Paris-Saclay,France,15,Université Paris-Saclay
-9,CentraleSupélec,France,14,CentraleSupélec
-10,École des Ponts ParisTech,France,14,École des Ponts ParisTech
-11,Criteo,France,8,Criteo
-12,Université Paris Dauphine - PSL,France,8,Université Paris Dauphine - PSL; Paris-Dauphine University - PSL; Université Paris-Dauphine; Paris Dauphine - PSL University
-13,Université Grenoble Alpes,France,7,Université Grenoble Alpes; University of Grenoble
-14,CEA,France,6,CEA
-15,Mines ParisTech,France,6,Mines ParisTech
-16,Université Paris Cité,France,6,Université Paris Cité
-17,Valeo,France,6,Valeo
-18,Capital Fund Management,France,5,Capital Fund Management
-19,Télécom SudParis,France,5,Télécom SudParis
-20,University of Bordeaux,France,5,University of Bordeaux; Université de Bordeaux
-21,Université Claude Bernard (Lyon I),France,4,Université Claude Bernard (Lyon I)
-22,Université de Lille,France,4,Université de Lille
-23,IMT Atlantique,France,3,IMT Atlantique
-24,Universite Cote d'Azur,France,3,Universite Cote d'Azur
-25,University of Toulouse,France,3,University of Toulouse
-26,Université de Toulouse,France,3,Université de Toulouse
-27,Université Bretagne Sud,France,2,Université Bretagne Sud; Université de Bretagne Sud
-28,Université Clermont Auvergne,France,2,Université Clermont Auvergne; University Clermont Auvergne
-29,Université de Paris,France,2,Université de Paris
-30,Université Gustave Eiffel,France,2,Gustave-Eiffel University; Université Gustave Eiffel
-31,Université Paul Sabatier,France,2,Université Paul Sabatier
-32,Aix Marseille University,France,1,Aix Marseille University
-33,H Company,France,1,H Company
-34,Institut Curie,France,1,Institut Curie
-35,Institut national de la santé et de la recherche médicale,France,1,Institut national de la santé et de la recherche médicale
-36,Institut Supérieur de l'Aéronautique et de l'Espace,France,1,Institut Supérieur de l'Aéronautique et de l'Espace
-37,Institut Supérieure d'Electronique de Paris,France,1,Institut Supérieure d'Electronique de Paris
-38,Institute of Mathematics of Toulouse,France,1,Institute of Mathematics of Toulouse
-39,IRIT - Institut de Recherche en Informatique de Toulouse,France,1,IRIT - Institut de Recherche en Informatique de Toulouse
-40,Laboratoire de Probabilités Statistique et Modélisation,France,1,Laboratoire de Probabilités Statistique et Modélisation
-41,Laboratoire de recherche en informatique,France,1,Laboratoire de recherche en informatique
-42,Laboratory of Mathematics and Modelisation of Evry,France,1,Laboratory of Mathematics and Modelisation of Evry
-43,LIPN - Laboratoire d'Informatique de Paris Nord,France,1,LIPN - Laboratoire d'Informatique de Paris Nord
-44,OceanDataLab,France,1,OceanDataLab
-45,Onera - The french aerospace lab,France,1,Onera - The french aerospace lab
-46,Scienta Lab,France,1,Scienta Lab
-47,Université d'Artois,France,1,Université d'Artois
-48,Université de Haute Alsace,France,1,Université de Haute Alsace
-49,Université de Technologie de Troyes,France,1,Université de Technologie de Troyes
-50,Université Evry Paris-Saclay,France,1,Université Evry Paris-Saclay
-51,Université Paris 8,France,1,Université Paris 8
-52,Université Sorbonne-Nouvelle (Paris III),France,1,Université Sorbonne-Nouvelle (Paris III)
-53,Université Toulouse Capitole,France,1,Université Toulouse Capitole
+﻿Displayed position,Institution,Country,Papers,Original source labels,Share of displayed total (%),Displayed total
+1,Inria,France,81,Inria,18.577982,436
+2,CNRS,France,53,CNRS,12.155963,436
+3,École Polytechnique,France,46,École Polytechnique,10.550459,436
+4,École Normale Supérieure de Paris,France,34,École Normale Supérieure de Paris,7.798165,436
+5,Sorbonne University,France,32,Sorbonne University; University Paris VI,7.339450,436
+6,Télécom Paris,France,18,Télécom Paris,4.128440,436
+7,Institut Polytechnique de Paris,France,15,Institut Polytechnique de Paris,3.440367,436
+8,Université Paris-Saclay,France,15,Université Paris-Saclay,3.440367,436
+9,CentraleSupélec,France,14,CentraleSupélec,3.211009,436
+10,École des Ponts ParisTech,France,14,École des Ponts ParisTech,3.211009,436
+11,Criteo,France,8,Criteo,1.834862,436
+12,Université Paris Dauphine - PSL,France,8,Université Paris Dauphine - PSL; Paris-Dauphine University - PSL; Université Paris-Dauphine; Paris Dauphine - PSL University,1.834862,436
+13,Université Grenoble Alpes,France,7,Université Grenoble Alpes; University of Grenoble,1.605505,436
+14,CEA,France,6,CEA,1.376147,436
+15,Mines ParisTech,France,6,Mines ParisTech,1.376147,436
+16,Université Paris Cité,France,6,Université Paris Cité,1.376147,436
+17,Valeo,France,6,Valeo,1.376147,436
+18,Capital Fund Management,France,5,Capital Fund Management,1.146789,436
+19,Télécom SudParis,France,5,Télécom SudParis,1.146789,436
+20,University of Bordeaux,France,5,University of Bordeaux; Université de Bordeaux,1.146789,436
+21,Université Claude Bernard (Lyon I),France,4,Université Claude Bernard (Lyon I),0.917431,436
+22,Université de Lille,France,4,Université de Lille,0.917431,436
+23,IMT Atlantique,France,3,IMT Atlantique,0.688073,436
+24,Universite Cote d'Azur,France,3,Universite Cote d'Azur,0.688073,436
+25,University of Toulouse,France,3,University of Toulouse,0.688073,436
+26,Université de Toulouse,France,3,Université de Toulouse,0.688073,436
+27,Université Bretagne Sud,France,2,Université Bretagne Sud; Université de Bretagne Sud,0.458716,436
+28,Université Clermont Auvergne,France,2,Université Clermont Auvergne; University Clermont Auvergne,0.458716,436
+29,Université de Paris,France,2,Université de Paris,0.458716,436
+30,Université Gustave Eiffel,France,2,Gustave-Eiffel University; Université Gustave Eiffel,0.458716,436
+31,Université Paul Sabatier,France,2,Université Paul Sabatier,0.458716,436
+32,Aix Marseille University,France,1,Aix Marseille University,0.229358,436
+33,H Company,France,1,H Company,0.229358,436
+34,Institut Curie,France,1,Institut Curie,0.229358,436
+35,Institut national de la santé et de la recherche médicale,France,1,Institut national de la santé et de la recherche médicale,0.229358,436
+36,Institut Supérieur de l'Aéronautique et de l'Espace,France,1,Institut Supérieur de l'Aéronautique et de l'Espace,0.229358,436
+37,Institut Supérieure d'Electronique de Paris,France,1,Institut Supérieure d'Electronique de Paris,0.229358,436
+38,Institute of Mathematics of Toulouse,France,1,Institute of Mathematics of Toulouse,0.229358,436
+39,IRIT - Institut de Recherche en Informatique de Toulouse,France,1,IRIT - Institut de Recherche en Informatique de Toulouse,0.229358,436
+40,Laboratoire de Probabilités Statistique et Modélisation,France,1,Laboratoire de Probabilités Statistique et Modélisation,0.229358,436
+41,Laboratoire de recherche en informatique,France,1,Laboratoire de recherche en informatique,0.229358,436
+42,Laboratory of Mathematics and Modelisation of Evry,France,1,Laboratory of Mathematics and Modelisation of Evry,0.229358,436
+43,LIPN - Laboratoire d'Informatique de Paris Nord,France,1,LIPN - Laboratoire d'Informatique de Paris Nord,0.229358,436
+44,OceanDataLab,France,1,OceanDataLab,0.229358,436
+45,Onera - The french aerospace lab,France,1,Onera - The french aerospace lab,0.229358,436
+46,Scienta Lab,France,1,Scienta Lab,0.229358,436
+47,Université d'Artois,France,1,Université d'Artois,0.229358,436
+48,Université de Haute Alsace,France,1,Université de Haute Alsace,0.229358,436
+49,Université de Technologie de Troyes,France,1,Université de Technologie de Troyes,0.229358,436
+50,Université Evry Paris-Saclay,France,1,Université Evry Paris-Saclay,0.229358,436
+51,Université Paris 8,France,1,Université Paris 8,0.229358,436
+52,Université Sorbonne-Nouvelle (Paris III),France,1,Université Sorbonne-Nouvelle (Paris III),0.229358,436
+53,Université Toulouse Capitole,France,1,Université Toulouse Capitole,0.229358,436

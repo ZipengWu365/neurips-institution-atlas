@@ -1,0 +1,98 @@
+[
+  {
+    "id": "world-regions",
+    "title": "Worldwide by region",
+    "count": 200,
+    "total": 17058,
+    "filename": "NeurIPS_2026_world-regions_EN",
+    "minimum_font_pixels": 34
+  },
+  {
+    "id": "world-countries",
+    "title": "Worldwide by country",
+    "count": 200,
+    "total": 17058,
+    "filename": "NeurIPS_2026_world-countries_EN",
+    "minimum_font_pixels": 34
+  },
+  {
+    "id": "china",
+    "title": "China",
+    "count": 200,
+    "total": 7518,
+    "filename": "NeurIPS_2026_china_EN",
+    "minimum_font_pixels": 13
+  },
+  {
+    "id": "united-kingdom",
+    "title": "United Kingdom",
+    "count": 68,
+    "total": 1023,
+    "filename": "NeurIPS_2026_united-kingdom_EN",
+    "minimum_font_pixels": 32
+  },
+  {
+    "id": "united-states",
+    "title": "United States",
+    "count": 200,
+    "total": 7028,
+    "filename": "NeurIPS_2026_united-states_EN",
+    "minimum_font_pixels": 19
+  },
+  {
+    "id": "germany",
+    "title": "Germany",
+    "count": 118,
+    "total": 893,
+    "filename": "NeurIPS_2026_germany_EN",
+    "minimum_font_pixels": 28
+  },
+  {
+    "id": "france",
+    "title": "France",
+    "count": 53,
+    "total": 436,
+    "filename": "NeurIPS_2026_france_EN",
+    "minimum_font_pixels": 34
+  },
+  {
+    "id": "italy",
+    "title": "Italy",
+    "count": 42,
+    "total": 185,
+    "filename": "NeurIPS_2026_italy_EN",
+    "minimum_font_pixels": 70
+  },
+  {
+    "id": "australia",
+    "title": "Australia",
+    "count": 32,
+    "total": 497,
+    "filename": "NeurIPS_2026_australia_EN",
+    "minimum_font_pixels": 44
+  },
+  {
+    "id": "south-korea",
+    "title": "South Korea",
+    "count": 72,
+    "total": 911,
+    "filename": "NeurIPS_2026_south-korea_EN",
+    "minimum_font_pixels": 32
+  },
+  {
+    "id": "india",
+    "title": "India",
+    "count": 40,
+    "total": 157,
+    "filename": "NeurIPS_2026_india_EN",
+    "minimum_font_pixels": 63
+  },
+  {
+    "id": "japan",
+    "title": "Japan",
+    "count": 51,
+    "total": 411,
+    "filename": "NeurIPS_2026_japan_EN",
+    "minimum_font_pixels": 51
+  }
+]

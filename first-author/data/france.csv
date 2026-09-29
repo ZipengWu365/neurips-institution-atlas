@@ -1,36 +1,36 @@
-﻿Displayed position,Institution,Country,First-listed-author papers,Original source labels
-1,Inria,France,36,Inria
-2,École Polytechnique,France,20,École Polytechnique
-3,Sorbonne University,France,15,Sorbonne University
-4,École Normale Supérieure de Paris,France,14,École Normale Supérieure de Paris
-5,CNRS,France,10,CNRS
-6,Télécom Paris,France,9,Télécom Paris
-7,Institut Polytechnique de Paris,France,7,Institut Polytechnique de Paris
-8,Université Paris-Saclay,France,7,Université Paris-Saclay
-9,École des Ponts ParisTech,France,5,École des Ponts ParisTech
-10,CentraleSupélec,France,4,CentraleSupélec
-11,Université Paris Cité,France,4,Université Paris Cité
-12,CEA,France,3,CEA
-13,Criteo,France,3,Criteo
-14,University of Bordeaux,France,3,University of Bordeaux
-15,Université Grenoble Alpes,France,3,Université Grenoble Alpes
-16,Capital Fund Management,France,2,Capital Fund Management
-17,Télécom SudParis,France,2,Télécom SudParis
-18,University of Toulouse,France,2,University of Toulouse
-19,Université Clermont Auvergne,France,2,Université Clermont Auvergne
-20,Université Paris Dauphine - PSL,France,2,Université Paris Dauphine - PSL
-21,Valeo,France,2,Valeo
-22,Gustave-Eiffel University,France,1,Gustave-Eiffel University
-23,Institute of Mathematics of Toulouse,France,1,Institute of Mathematics of Toulouse
-24,IRIT - Institut de Recherche en Informatique de Toulouse,France,1,IRIT - Institut de Recherche en Informatique de Toulouse
-25,Laboratoire de Probabilités Statistique et Modélisation,France,1,Laboratoire de Probabilités Statistique et Modélisation
-26,Mines ParisTech,France,1,Mines ParisTech
-27,OceanDataLab,France,1,OceanDataLab
-28,Paris Dauphine - PSL University,France,1,Paris Dauphine - PSL University
-29,Scienta Lab,France,1,Scienta Lab
-30,Université Claude Bernard (Lyon I),France,1,Université Claude Bernard (Lyon I)
-31,Université d'Artois,France,1,Université d'Artois
-32,Université de Bordeaux,France,1,Université de Bordeaux
-33,Université de Bretagne Sud,France,1,Université de Bretagne Sud
-34,Université de Lille,France,1,Université de Lille
-35,Université Paul Sabatier,France,1,Université Paul Sabatier
+﻿Displayed position,Institution,Country,First-listed-author papers,Original source labels,Share of displayed total (%),Displayed total
+1,Inria,France,36,Inria,21.301775,169
+2,École Polytechnique,France,20,École Polytechnique,11.834320,169
+3,Sorbonne University,France,15,Sorbonne University,8.875740,169
+4,École Normale Supérieure de Paris,France,14,École Normale Supérieure de Paris,8.284024,169
+5,CNRS,France,10,CNRS,5.917160,169
+6,Télécom Paris,France,9,Télécom Paris,5.325444,169
+7,Institut Polytechnique de Paris,France,7,Institut Polytechnique de Paris,4.142012,169
+8,Université Paris-Saclay,France,7,Université Paris-Saclay,4.142012,169
+9,École des Ponts ParisTech,France,5,École des Ponts ParisTech,2.958580,169
+10,CentraleSupélec,France,4,CentraleSupélec,2.366864,169
+11,Université Paris Cité,France,4,Université Paris Cité,2.366864,169
+12,CEA,France,3,CEA,1.775148,169
+13,Criteo,France,3,Criteo,1.775148,169
+14,University of Bordeaux,France,3,University of Bordeaux,1.775148,169
+15,Université Grenoble Alpes,France,3,Université Grenoble Alpes,1.775148,169
+16,Capital Fund Management,France,2,Capital Fund Management,1.183432,169
+17,Télécom SudParis,France,2,Télécom SudParis,1.183432,169
+18,University of Toulouse,France,2,University of Toulouse,1.183432,169
+19,Université Clermont Auvergne,France,2,Université Clermont Auvergne,1.183432,169
+20,Université Paris Dauphine - PSL,France,2,Université Paris Dauphine - PSL,1.183432,169
+21,Valeo,France,2,Valeo,1.183432,169
+22,Gustave-Eiffel University,France,1,Gustave-Eiffel University,0.591716,169
+23,Institute of Mathematics of Toulouse,France,1,Institute of Mathematics of Toulouse,0.591716,169
+24,IRIT - Institut de Recherche en Informatique de Toulouse,France,1,IRIT - Institut de Recherche en Informatique de Toulouse,0.591716,169
+25,Laboratoire de Probabilités Statistique et Modélisation,France,1,Laboratoire de Probabilités Statistique et Modélisation,0.591716,169
+26,Mines ParisTech,France,1,Mines ParisTech,0.591716,169
+27,OceanDataLab,France,1,OceanDataLab,0.591716,169
+28,Paris Dauphine - PSL University,France,1,Paris Dauphine - PSL University,0.591716,169
+29,Scienta Lab,France,1,Scienta Lab,0.591716,169
+30,Université Claude Bernard (Lyon I),France,1,Université Claude Bernard (Lyon I),0.591716,169
+31,Université d'Artois,France,1,Université d'Artois,0.591716,169
+32,Université de Bordeaux,France,1,Université de Bordeaux,0.591716,169
+33,Université de Bretagne Sud,France,1,Université de Bretagne Sud,0.591716,169
+34,Université de Lille,France,1,Université de Lille,0.591716,169
+35,Université Paul Sabatier,France,1,Université Paul Sabatier,0.591716,169

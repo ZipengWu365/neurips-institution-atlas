@@ -2,213 +2,243 @@
 <text x="160" y="145" dominant-baseline="text-before-edge" text-anchor="start" font-family="Arial,sans-serif" font-weight="700" font-size="180" fill="#71489b">NEURIPS 2026</text>
 <text x="150" y="405" dominant-baseline="text-before-edge" text-anchor="start" font-family="Arial,sans-serif" font-weight="700" font-size="285" fill="#102c44">ITALY</text>
 <text x="160" y="790" dominant-baseline="text-before-edge" text-anchor="start" font-family="Arial,sans-serif" font-weight="700" font-size="89" fill="#4a647b">32 INSTITUTIONS  /  FIRST-LISTED AUTHOR</text>
-<g class="institution" data-name="Politecnico di Milano" data-country="Italy"><title>Politecnico di Milano — 12 first-listed-author papers</title>
+<text x="160" y="925" dominant-baseline="text-before-edge" text-anchor="start" font-family="Arial,sans-serif" font-weight="700" font-size="80" fill="#4a647b">PAPERS / SHARE OF DISPLAYED TOTAL (%)</text>
+<g class="institution" data-name="Politecnico di Milano" data-country="Italy"><title>Politecnico di Milano — 12 first-listed-author papers — 15.58% of displayed total (77)</title>
 <rect x="150.0000" y="1090.0000" width="3729.7297" height="2263.2468" fill="#8967ac" stroke="white" stroke-width="5"/>
-<text x="2014.8648648648648" y="1927.6233766233768" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="white">Politecnico di Milano</text>
-<text x="2014.8648648648648" y="2277.6233766233768" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="white">12</text>
+<text x="2014.8648648648648" y="1822.6233766233768" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="white">Politecnico di Milano</text>
+<text x="2014.8648648648648" y="2172.6233766233768" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="white">12</text>
+<text x="2014.8648648648648" y="2438.6233766233768" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="182" fill="white">15.58%</text>
 </g>
-<g class="institution" data-name="Sapienza University of Rome" data-country="Italy"><title>Sapienza University of Rome — 8 first-listed-author papers</title>
+<g class="institution" data-name="Sapienza University of Rome" data-country="Italy"><title>Sapienza University of Rome — 8 first-listed-author papers — 10.39% of displayed total (77)</title>
 <rect x="150.0000" y="3353.2468" width="3729.7297" height="1508.8312" fill="#997cb7" stroke="white" stroke-width="5"/>
-<text x="2014.8648648648648" y="3813.662337662338" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Sapienza Univ. of Rome</text>
-<text x="2014.8648648648648" y="4163.662337662337" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">8</text>
+<text x="2014.8648648648648" y="3708.662337662338" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Sapienza Univ. of Rome</text>
+<text x="2014.8648648648648" y="4058.662337662338" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">8</text>
+<text x="2014.8648648648648" y="4324.662337662337" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="182" fill="#12344b">10.39%</text>
 </g>
-<g class="institution" data-name="University of Trento" data-country="Italy"><title>University of Trento — 7 first-listed-author papers</title>
+<g class="institution" data-name="University of Trento" data-country="Italy"><title>University of Trento — 7 first-listed-author papers — 9.09% of displayed total (77)</title>
 <rect x="3879.7297" y="1090.0000" width="3170.2703" height="1553.2086" fill="#9e81ba" stroke="white" stroke-width="5"/>
-<text x="5464.864864864865" y="1572.6042780748662" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Univ. of Trento</text>
-<text x="5464.864864864865" y="1922.6042780748662" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">7</text>
+<text x="5464.864864864865" y="1467.6042780748662" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Univ. of Trento</text>
+<text x="5464.864864864865" y="1817.6042780748662" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">7</text>
+<text x="5464.864864864865" y="2083.604278074866" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="182" fill="#12344b">9.09%</text>
 </g>
-<g class="institution" data-name="Bocconi University" data-country="Italy"><title>Bocconi University — 5 first-listed-author papers</title>
+<g class="institution" data-name="Bocconi University" data-country="Italy"><title>Bocconi University — 5 first-listed-author papers — 6.49% of displayed total (77)</title>
 <rect x="3879.7297" y="2643.2086" width="1585.1351" height="2218.8694" fill="#a88fc2" stroke="white" stroke-width="5"/>
-<text x="4672.2972972972975" y="3304.6432391138273" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Bocconi</text>
-<text x="4672.2972972972975" y="3612.6432391138273" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Univ.</text>
-<text x="4672.2972972972975" y="3962.6432391138273" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">5</text>
+<text x="4672.2972972972975" y="3199.6432391138273" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Bocconi</text>
+<text x="4672.2972972972975" y="3507.6432391138273" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Univ.</text>
+<text x="4672.2972972972975" y="3857.6432391138273" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">5</text>
+<text x="4672.2972972972975" y="4123.643239113828" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="182" fill="#12344b">6.49%</text>
 </g>
-<g class="institution" data-name="Politecnico di Torino" data-country="Italy"><title>Politecnico di Torino — 5 first-listed-author papers</title>
+<g class="institution" data-name="Politecnico di Torino" data-country="Italy"><title>Politecnico di Torino — 5 first-listed-author papers — 6.49% of displayed total (77)</title>
 <rect x="5464.8649" y="2643.2086" width="1585.1351" height="2218.8694" fill="#a88fc2" stroke="white" stroke-width="5"/>
-<text x="6257.4324324324325" y="3304.6432391138273" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Politecnico</text>
-<text x="6257.4324324324325" y="3612.6432391138273" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">di Torino</text>
-<text x="6257.4324324324325" y="3962.6432391138273" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">5</text>
+<text x="6257.4324324324325" y="3199.6432391138273" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Politecnico</text>
+<text x="6257.4324324324325" y="3507.6432391138273" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">di Torino</text>
+<text x="6257.4324324324325" y="3857.6432391138273" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">5</text>
+<text x="6257.4324324324325" y="4123.643239113828" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="182" fill="#12344b">6.49%</text>
 </g>
-<g class="institution" data-name="Fondazione Bruno Kessler" data-country="Italy"><title>Fondazione Bruno Kessler — 3 first-listed-author papers</title>
+<g class="institution" data-name="Fondazione Bruno Kessler" data-country="Italy"><title>Fondazione Bruno Kessler — 3 first-listed-author papers — 3.90% of displayed total (77)</title>
 <rect x="150.0000" y="4862.0779" width="1092.5000" height="1931.6473" fill="#b49fca" stroke="white" stroke-width="5"/>
-<text x="696.25" y="5419.901572112099" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="190" fill="#12344b">Fondazione</text>
-<text x="696.25" y="5628.901572112099" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="190" fill="#12344b">Bruno</text>
-<text x="696.25" y="5837.901572112099" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="190" fill="#12344b">Kessler</text>
-<text x="696.25" y="6074.901572112099" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="161" fill="#12344b">3</text>
+<text x="696.25" y="5348.901572112099" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="190" fill="#12344b">Fondazione</text>
+<text x="696.25" y="5557.901572112099" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="190" fill="#12344b">Bruno</text>
+<text x="696.25" y="5766.901572112099" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="190" fill="#12344b">Kessler</text>
+<text x="696.25" y="6003.901572112099" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="161" fill="#12344b">3</text>
+<text x="696.25" y="6183.901572112099" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="123" fill="#12344b">3.90%</text>
 </g>
-<g class="institution" data-name="University of Florence" data-country="Italy"><title>University of Florence — 3 first-listed-author papers</title>
+<g class="institution" data-name="University of Florence" data-country="Italy"><title>University of Florence — 3 first-listed-author papers — 3.90% of displayed total (77)</title>
 <rect x="1242.5000" y="4862.0779" width="1092.5000" height="1931.6473" fill="#b49fca" stroke="white" stroke-width="5"/>
-<text x="1788.75" y="5422.401572112099" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="254" fill="#12344b">Univ. of</text>
-<text x="1788.75" y="5701.401572112099" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="254" fill="#12344b">Florence</text>
-<text x="1788.75" y="6018.401572112099" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="215" fill="#12344b">3</text>
+<text x="1788.75" y="5327.401572112099" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="254" fill="#12344b">Univ. of</text>
+<text x="1788.75" y="5606.401572112099" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="254" fill="#12344b">Florence</text>
+<text x="1788.75" y="5923.401572112099" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="215" fill="#12344b">3</text>
+<text x="1788.75" y="6163.401572112099" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="165" fill="#12344b">3.90%</text>
 </g>
-<g class="institution" data-name="University of Milan" data-country="Italy"><title>University of Milan — 3 first-listed-author papers</title>
+<g class="institution" data-name="University of Milan" data-country="Italy"><title>University of Milan — 3 first-listed-author papers — 3.90% of displayed total (77)</title>
 <rect x="2335.0000" y="4862.0779" width="1092.5000" height="1931.6473" fill="#b49fca" stroke="white" stroke-width="5"/>
-<text x="2881.25" y="5379.901572112099" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Univ. of</text>
-<text x="2881.25" y="5687.901572112099" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Milan</text>
-<text x="2881.25" y="6037.901572112099" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">3</text>
+<text x="2881.25" y="5274.901572112099" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Univ. of</text>
+<text x="2881.25" y="5582.901572112099" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Milan</text>
+<text x="2881.25" y="5932.901572112099" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">3</text>
+<text x="2881.25" y="6198.901572112099" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="182" fill="#12344b">3.90%</text>
 </g>
-<g class="institution" data-name="University of Pisa" data-country="Italy"><title>University of Pisa — 3 first-listed-author papers</title>
+<g class="institution" data-name="University of Pisa" data-country="Italy"><title>University of Pisa — 3 first-listed-author papers — 3.90% of displayed total (77)</title>
 <rect x="150.0000" y="6793.7252" width="1966.5000" height="1073.1374" fill="#b49fca" stroke="white" stroke-width="5"/>
-<text x="1133.25" y="7036.293916609706" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Univ. of Pisa</text>
-<text x="1133.25" y="7386.293916609706" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">3</text>
+<text x="1133.25" y="6931.293916609706" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Univ. of Pisa</text>
+<text x="1133.25" y="7281.293916609706" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">3</text>
+<text x="1133.25" y="7547.293916609706" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="182" fill="#12344b">3.90%</text>
 </g>
-<g class="institution" data-name="University of Verona" data-country="Italy"><title>University of Verona — 3 first-listed-author papers</title>
+<g class="institution" data-name="University of Verona" data-country="Italy"><title>University of Verona — 3 first-listed-author papers — 3.90% of displayed total (77)</title>
 <rect x="150.0000" y="7866.8626" width="1966.5000" height="1073.1374" fill="#b49fca" stroke="white" stroke-width="5"/>
-<text x="1133.25" y="7955.431305536569" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Univ. of</text>
-<text x="1133.25" y="8263.43130553657" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Verona</text>
-<text x="1133.25" y="8613.43130553657" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">3</text>
+<text x="1133.25" y="8028.431305536569" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="264" fill="#12344b">Univ. of Verona</text>
+<text x="1133.25" y="8357.43130553657" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="224" fill="#12344b">3</text>
+<text x="1133.25" y="8607.43130553657" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="171" fill="#12344b">3.90%</text>
 </g>
-<g class="institution" data-name="University of Bologna" data-country="Italy"><title>University of Bologna — 2 first-listed-author papers</title>
+<g class="institution" data-name="University of Bologna" data-country="Italy"><title>University of Bologna — 2 first-listed-author papers — 2.60% of displayed total (77)</title>
 <rect x="2116.5000" y="6793.7252" width="1311.0000" height="1073.1374" fill="#bca9d0" stroke="white" stroke-width="5"/>
-<text x="2772.0" y="6882.293916609706" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Univ. of</text>
-<text x="2772.0" y="7190.293916609706" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Bologna</text>
-<text x="2772.0" y="7540.293916609706" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">2</text>
+<text x="2772.0" y="6820.793916609706" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="259" fill="#12344b">Univ. of</text>
+<text x="2772.0" y="7104.793916609706" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="259" fill="#12344b">Bologna</text>
+<text x="2772.0" y="7426.793916609706" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="220" fill="#12344b">2</text>
+<text x="2772.0" y="7671.793916609706" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="168" fill="#12344b">2.60%</text>
 </g>
-<g class="institution" data-name="University of Catania" data-country="Italy"><title>University of Catania — 2 first-listed-author papers</title>
+<g class="institution" data-name="University of Catania" data-country="Italy"><title>University of Catania — 2 first-listed-author papers — 2.60% of displayed total (77)</title>
 <rect x="2116.5000" y="7866.8626" width="1311.0000" height="1073.1374" fill="#bca9d0" stroke="white" stroke-width="5"/>
-<text x="2772.0" y="7955.431305536569" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Univ. of</text>
-<text x="2772.0" y="8263.43130553657" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="280" fill="#12344b">Catania</text>
-<text x="2772.0" y="8613.43130553657" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="238" fill="#12344b">2</text>
+<text x="2772.0" y="7893.931305536569" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="259" fill="#12344b">Univ. of</text>
+<text x="2772.0" y="8177.931305536569" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="259" fill="#12344b">Catania</text>
+<text x="2772.0" y="8499.93130553657" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="220" fill="#12344b">2</text>
+<text x="2772.0" y="8744.93130553657" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="168" fill="#12344b">2.60%</text>
 </g>
-<g class="institution" data-name="University of Padua" data-country="Italy"><title>University of Padua — 2 first-listed-author papers</title>
+<g class="institution" data-name="University of Padua" data-country="Italy"><title>University of Padua — 2 first-listed-author papers — 2.60% of displayed total (77)</title>
 <rect x="3427.5000" y="4862.0779" width="1811.2500" height="776.7471" fill="#bca9d0" stroke="white" stroke-width="5"/>
-<text x="4333.125" y="4982.451453308597" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="256" fill="#12344b">Univ. of Padua</text>
-<text x="4333.125" y="5301.451453308597" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="217" fill="#12344b">2</text>
+<text x="4333.125" y="4888.451453308597" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="255" fill="#12344b">Univ. of Padua</text>
+<text x="4333.125" y="5206.451453308597" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="216" fill="#12344b">2</text>
+<text x="4333.125" y="5447.451453308597" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="165" fill="#12344b">2.60%</text>
 </g>
-<g class="institution" data-name="Gran Sasso Science Institute" data-country="Italy"><title>Gran Sasso Science Institute — 1 first-listed-author papers</title>
+<g class="institution" data-name="Gran Sasso Science Institute" data-country="Italy"><title>Gran Sasso Science Institute — 1 first-listed-author papers — 1.30% of displayed total (77)</title>
 <rect x="3427.5000" y="5638.8250" width="603.7500" height="1165.1206" fill="#c7b7d7" stroke="white" stroke-width="5"/>
-<text x="3729.375" y="5814.385281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="151" fill="#12344b">Gran</text>
-<text x="3729.375" y="5980.385281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="151" fill="#12344b">Sasso</text>
-<text x="3729.375" y="6146.385281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="151" fill="#12344b">Science</text>
-<text x="3729.375" y="6312.385281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="151" fill="#12344b">Inst.</text>
-<text x="3729.375" y="6500.385281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="128" fill="#12344b">1</text>
+<text x="3729.375" y="5757.885281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="151" fill="#12344b">Gran</text>
+<text x="3729.375" y="5923.885281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="151" fill="#12344b">Sasso</text>
+<text x="3729.375" y="6089.885281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="151" fill="#12344b">Science</text>
+<text x="3729.375" y="6255.885281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="151" fill="#12344b">Inst.</text>
+<text x="3729.375" y="6443.885281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="128" fill="#12344b">1</text>
+<text x="3729.375" y="6586.885281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="98" fill="#12344b">1.30%</text>
 </g>
-<g class="institution" data-name="Polytechnic Institute of Bari" data-country="Italy"><title>Polytechnic Institute of Bari — 1 first-listed-author papers</title>
+<g class="institution" data-name="Polytechnic Institute of Bari" data-country="Italy"><title>Polytechnic Institute of Bari — 1 first-listed-author papers — 1.30% of displayed total (77)</title>
 <rect x="4031.2500" y="5638.8250" width="603.7500" height="1165.1206" fill="#c7b7d7" stroke="white" stroke-width="5"/>
-<text x="4333.125" y="6060.385281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="101" fill="#12344b">Polytechnic</text>
-<text x="4333.125" y="6171.385281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="101" fill="#12344b">Inst. of Bari</text>
-<text x="4333.125" y="6297.385281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="85" fill="#12344b">1</text>
+<text x="4333.125" y="6022.885281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="101" fill="#12344b">Polytechnic</text>
+<text x="4333.125" y="6133.885281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="101" fill="#12344b">Inst. of Bari</text>
+<text x="4333.125" y="6259.885281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="85" fill="#12344b">1</text>
+<text x="4333.125" y="6354.885281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="65" fill="#12344b">1.30%</text>
 </g>
-<g class="institution" data-name="Sapienza University" data-country="Italy"><title>Sapienza University — 1 first-listed-author papers</title>
+<g class="institution" data-name="Sapienza University" data-country="Italy"><title>Sapienza University — 1 first-listed-author papers — 1.30% of displayed total (77)</title>
 <rect x="4635.0000" y="5638.8250" width="603.7500" height="1165.1206" fill="#c7b7d7" stroke="white" stroke-width="5"/>
-<text x="4936.875" y="6012.385281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="131" fill="#12344b">Sapienza</text>
-<text x="4936.875" y="6156.385281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="131" fill="#12344b">Univ.</text>
-<text x="4936.875" y="6319.385281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="111" fill="#12344b">1</text>
+<text x="4936.875" y="5963.385281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="131" fill="#12344b">Sapienza</text>
+<text x="4936.875" y="6107.385281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="131" fill="#12344b">Univ.</text>
+<text x="4936.875" y="6270.385281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="111" fill="#12344b">1</text>
+<text x="4936.875" y="6394.385281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="85" fill="#12344b">1.30%</text>
 </g>
-<g class="institution" data-name="Universitas Mercatorum" data-country="Italy"><title>Universitas Mercatorum — 1 first-listed-author papers</title>
+<g class="institution" data-name="Universitas Mercatorum" data-country="Italy"><title>Universitas Mercatorum — 1 first-listed-author papers — 1.30% of displayed total (77)</title>
 <rect x="5238.7500" y="4862.0779" width="905.6250" height="776.7471" fill="#c7b7d7" stroke="white" stroke-width="5"/>
-<text x="5691.5625" y="5007.951453308597" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="152" fill="#12344b">Universitas</text>
-<text x="5691.5625" y="5174.951453308597" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="152" fill="#12344b">Mercatorum</text>
-<text x="5691.5625" y="5363.951453308597" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="129" fill="#12344b">1</text>
+<text x="5691.5625" y="4951.451453308597" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="152" fill="#12344b">Universitas</text>
+<text x="5691.5625" y="5118.451453308597" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="152" fill="#12344b">Mercatorum</text>
+<text x="5691.5625" y="5307.451453308597" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="129" fill="#12344b">1</text>
+<text x="5691.5625" y="5451.451453308597" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="98" fill="#12344b">1.30%</text>
 </g>
-<g class="institution" data-name="University of Bari Aldo Moro" data-country="Italy"><title>University of Bari Aldo Moro — 1 first-listed-author papers</title>
+<g class="institution" data-name="University of Bari Aldo Moro" data-country="Italy"><title>University of Bari Aldo Moro — 1 first-listed-author papers — 1.30% of displayed total (77)</title>
 <rect x="6144.3750" y="4862.0779" width="905.6250" height="776.7471" fill="#c7b7d7" stroke="white" stroke-width="5"/>
-<text x="6597.1875" y="4888.951453308597" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="169" fill="#12344b">Univ. of</text>
-<text x="6597.1875" y="5073.951453308597" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="169" fill="#12344b">Bari Aldo</text>
-<text x="6597.1875" y="5258.951453308597" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="169" fill="#12344b">Moro</text>
-<text x="6597.1875" y="5468.951453308597" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="143" fill="#12344b">1</text>
+<text x="6597.1875" y="4959.951453308597" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="148" fill="#12344b">Univ. of Bari</text>
+<text x="6597.1875" y="5121.951453308597" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="148" fill="#12344b">Aldo Moro</text>
+<text x="6597.1875" y="5305.951453308597" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="125" fill="#12344b">1</text>
+<text x="6597.1875" y="5444.951453308597" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="96" fill="#12344b">1.30%</text>
 </g>
-<g class="institution" data-name="University of Cagliari" data-country="Italy"><title>University of Cagliari — 1 first-listed-author papers</title>
+<g class="institution" data-name="University of Cagliari" data-country="Italy"><title>University of Cagliari — 1 first-listed-author papers — 1.30% of displayed total (77)</title>
 <rect x="5238.7500" y="5638.8250" width="603.7500" height="1165.1206" fill="#c7b7d7" stroke="white" stroke-width="5"/>
-<text x="5540.625" y="5974.385281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="155" fill="#12344b">Univ. of</text>
-<text x="5540.625" y="6144.385281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="155" fill="#12344b">Cagliari</text>
-<text x="5540.625" y="6337.385281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="131" fill="#12344b">1</text>
+<text x="5540.625" y="5916.885281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="155" fill="#12344b">Univ. of</text>
+<text x="5540.625" y="6086.885281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="155" fill="#12344b">Cagliari</text>
+<text x="5540.625" y="6279.885281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="131" fill="#12344b">1</text>
+<text x="5540.625" y="6425.885281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="100" fill="#12344b">1.30%</text>
 </g>
-<g class="institution" data-name="University of Camerino" data-country="Italy"><title>University of Camerino — 1 first-listed-author papers</title>
+<g class="institution" data-name="University of Camerino" data-country="Italy"><title>University of Camerino — 1 first-listed-author papers — 1.30% of displayed total (77)</title>
 <rect x="5842.5000" y="5638.8250" width="603.7500" height="1165.1206" fill="#c7b7d7" stroke="white" stroke-width="5"/>
-<text x="6144.375" y="6025.385281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="123" fill="#12344b">Univ. of</text>
-<text x="6144.375" y="6160.385281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="123" fill="#12344b">Camerino</text>
-<text x="6144.375" y="6313.385281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="104" fill="#12344b">1</text>
+<text x="6144.375" y="5979.885281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="123" fill="#12344b">Univ. of</text>
+<text x="6144.375" y="6114.885281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="123" fill="#12344b">Camerino</text>
+<text x="6144.375" y="6267.885281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="104" fill="#12344b">1</text>
+<text x="6144.375" y="6383.885281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="79" fill="#12344b">1.30%</text>
 </g>
-<g class="institution" data-name="University of Genoa" data-country="Italy"><title>University of Genoa — 1 first-listed-author papers</title>
+<g class="institution" data-name="University of Genoa" data-country="Italy"><title>University of Genoa — 1 first-listed-author papers — 1.30% of displayed total (77)</title>
 <rect x="6446.2500" y="5638.8250" width="603.7500" height="1165.1206" fill="#c7b7d7" stroke="white" stroke-width="5"/>
-<text x="6748.125" y="5826.885281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="184" fill="#12344b">Univ.</text>
-<text x="6748.125" y="6028.885281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="184" fill="#12344b">of</text>
-<text x="6748.125" y="6230.885281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="184" fill="#12344b">Genoa</text>
-<text x="6748.125" y="6459.885281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="156" fill="#12344b">1</text>
+<text x="6748.125" y="5758.385281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="184" fill="#12344b">Univ.</text>
+<text x="6748.125" y="5960.385281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="184" fill="#12344b">of</text>
+<text x="6748.125" y="6162.385281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="184" fill="#12344b">Genoa</text>
+<text x="6748.125" y="6391.385281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="156" fill="#12344b">1</text>
+<text x="6748.125" y="6565.385281385281" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="119" fill="#12344b">1.30%</text>
 </g>
-<g class="institution" data-name="University of Milan-Bicocca" data-country="Italy"><title>University of Milan-Bicocca — 1 first-listed-author papers</title>
+<g class="institution" data-name="University of Milan-Bicocca" data-country="Italy"><title>University of Milan-Bicocca — 1 first-listed-author papers — 1.30% of displayed total (77)</title>
 <rect x="3427.5000" y="6803.9456" width="823.2955" height="854.4218" fill="#c7b7d7" stroke="white" stroke-width="5"/>
-<text x="3839.147727272727" y="7045.156462585034" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="117" fill="#12344b">Univ. of</text>
-<text x="3839.147727272727" y="7173.156462585034" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="117" fill="#12344b">Milan-Bicocca</text>
-<text x="3839.147727272727" y="7318.156462585034" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="99" fill="#12344b">1</text>
+<text x="3839.147727272727" y="7001.656462585034" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="117" fill="#12344b">Univ. of</text>
+<text x="3839.147727272727" y="7129.656462585034" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="117" fill="#12344b">Milan-Bicocca</text>
+<text x="3839.147727272727" y="7274.656462585034" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="99" fill="#12344b">1</text>
+<text x="3839.147727272727" y="7384.656462585034" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="76" fill="#12344b">1.30%</text>
 </g>
-<g class="institution" data-name="University of Modena and Reggio Emilia" data-country="Italy"><title>University of Modena and Reggio Emilia — 1 first-listed-author papers</title>
+<g class="institution" data-name="University of Modena and Reggio Emilia" data-country="Italy"><title>University of Modena and Reggio Emilia — 1 first-listed-author papers — 1.30% of displayed total (77)</title>
 <rect x="4250.7955" y="6803.9456" width="823.2955" height="854.4218" fill="#c7b7d7" stroke="white" stroke-width="5"/>
-<text x="4662.443181818181" y="6831.156462585034" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="149" fill="#12344b">Univ. of</text>
-<text x="4662.443181818181" y="6994.156462585034" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="149" fill="#12344b">Modena &amp;</text>
-<text x="4662.443181818181" y="7157.156462585034" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="149" fill="#12344b">Reggio</text>
-<text x="4662.443181818181" y="7320.156462585034" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="149" fill="#12344b">Emilia</text>
-<text x="4662.443181818181" y="7505.156462585034" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="126" fill="#12344b">1</text>
+<text x="4662.443181818181" y="6829.156462585034" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="131" fill="#12344b">Univ. of</text>
+<text x="4662.443181818181" y="6973.156462585034" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="131" fill="#12344b">Modena &amp;</text>
+<text x="4662.443181818181" y="7117.156462585034" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="131" fill="#12344b">Reggio</text>
+<text x="4662.443181818181" y="7261.156462585034" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="131" fill="#12344b">Emilia</text>
+<text x="4662.443181818181" y="7424.156462585034" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="111" fill="#12344b">1</text>
+<text x="4662.443181818181" y="7548.156462585034" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="85" fill="#12344b">1.30%</text>
 </g>
-<g class="institution" data-name="University of Modena e Reggio Emilia" data-country="Italy"><title>University of Modena e Reggio Emilia — 1 first-listed-author papers</title>
+<g class="institution" data-name="University of Modena e Reggio Emilia" data-country="Italy"><title>University of Modena e Reggio Emilia — 1 first-listed-author papers — 1.30% of displayed total (77)</title>
 <rect x="3427.5000" y="7658.3673" width="548.8636" height="1281.6327" fill="#c7b7d7" stroke="white" stroke-width="5"/>
-<text x="3701.931818181818" y="7859.183673469388" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="136" fill="#12344b">Univ. of</text>
-<text x="3701.931818181818" y="8008.183673469388" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="136" fill="#12344b">Modena</text>
-<text x="3701.931818181818" y="8157.183673469388" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="136" fill="#12344b">e</text>
-<text x="3701.931818181818" y="8306.183673469388" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="136" fill="#12344b">Reggio</text>
-<text x="3701.931818181818" y="8455.183673469388" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="136" fill="#12344b">Emilia</text>
-<text x="3701.931818181818" y="8624.183673469388" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="115" fill="#12344b">1</text>
+<text x="3701.931818181818" y="7808.683673469388" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="136" fill="#12344b">Univ. of</text>
+<text x="3701.931818181818" y="7957.683673469388" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="136" fill="#12344b">Modena</text>
+<text x="3701.931818181818" y="8106.683673469388" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="136" fill="#12344b">e</text>
+<text x="3701.931818181818" y="8255.683673469388" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="136" fill="#12344b">Reggio</text>
+<text x="3701.931818181818" y="8404.683673469388" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="136" fill="#12344b">Emilia</text>
+<text x="3701.931818181818" y="8573.683673469388" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="115" fill="#12344b">1</text>
+<text x="3701.931818181818" y="8701.683673469388" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="88" fill="#12344b">1.30%</text>
 </g>
-<g class="institution" data-name="University of Roma &quot;Tor Vergata&quot;" data-country="Italy"><title>University of Roma &quot;Tor Vergata&quot; — 1 first-listed-author papers</title>
+<g class="institution" data-name="University of Roma &quot;Tor Vergata&quot;" data-country="Italy"><title>University of Roma &quot;Tor Vergata&quot; — 1 first-listed-author papers — 1.30% of displayed total (77)</title>
 <rect x="3976.3636" y="7658.3673" width="1097.7273" height="640.8163" fill="#c7b7d7" stroke="white" stroke-width="5"/>
-<text x="4525.227272727273" y="7727.275510204082" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="158" fill="#12344b">Univ. of Roma</text>
-<text x="4525.227272727273" y="7900.275510204082" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="158" fill="#12344b">&quot;Tor Vergata&quot;</text>
-<text x="4525.227272727273" y="8096.275510204082" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="134" fill="#12344b">1</text>
+<text x="4525.227272727273" y="7686.775510204082" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="149" fill="#12344b">Univ. of Roma</text>
+<text x="4525.227272727273" y="7849.775510204082" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="149" fill="#12344b">&quot;Tor Vergata&quot;</text>
+<text x="4525.227272727273" y="8034.775510204082" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="126" fill="#12344b">1</text>
+<text x="4525.227272727273" y="8174.775510204082" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="96" fill="#12344b">1.30%</text>
 </g>
-<g class="institution" data-name="University of Rome Tor Vergata" data-country="Italy"><title>University of Rome Tor Vergata — 1 first-listed-author papers</title>
+<g class="institution" data-name="University of Rome Tor Vergata" data-country="Italy"><title>University of Rome Tor Vergata — 1 first-listed-author papers — 1.30% of displayed total (77)</title>
 <rect x="3976.3636" y="8299.1837" width="1097.7273" height="640.8163" fill="#c7b7d7" stroke="white" stroke-width="5"/>
-<text x="4525.227272727273" y="8368.091836734695" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="158" fill="#12344b">Univ. of Rome</text>
-<text x="4525.227272727273" y="8541.091836734695" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="158" fill="#12344b">Tor Vergata</text>
-<text x="4525.227272727273" y="8737.091836734695" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="134" fill="#12344b">1</text>
+<text x="4525.227272727273" y="8327.591836734695" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="149" fill="#12344b">Univ. of Rome</text>
+<text x="4525.227272727273" y="8490.591836734695" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="149" fill="#12344b">Tor Vergata</text>
+<text x="4525.227272727273" y="8675.591836734695" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="126" fill="#12344b">1</text>
+<text x="4525.227272727273" y="8815.591836734695" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="96" fill="#12344b">1.30%</text>
 </g>
-<g class="institution" data-name="University of Salerno" data-country="Italy"><title>University of Salerno — 1 first-listed-author papers</title>
+<g class="institution" data-name="University of Salerno" data-country="Italy"><title>University of Salerno — 1 first-listed-author papers — 1.30% of displayed total (77)</title>
 <rect x="5074.0909" y="6803.9456" width="658.6364" height="1068.0272" fill="#c7b7d7" stroke="white" stroke-width="5"/>
-<text x="5403.409090909091" y="7066.459183673469" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="170" fill="#12344b">Univ. of</text>
-<text x="5403.409090909091" y="7253.459183673469" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="170" fill="#12344b">Salerno</text>
-<text x="5403.409090909091" y="7465.459183673469" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="144" fill="#12344b">1</text>
+<text x="5403.409090909091" y="7002.959183673469" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="170" fill="#12344b">Univ. of</text>
+<text x="5403.409090909091" y="7189.959183673469" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="170" fill="#12344b">Salerno</text>
+<text x="5403.409090909091" y="7401.959183673469" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="144" fill="#12344b">1</text>
+<text x="5403.409090909091" y="7562.959183673469" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="110" fill="#12344b">1.30%</text>
 </g>
-<g class="institution" data-name="Università Campus Bio-Medico di Roma" data-country="Italy"><title>Università Campus Bio-Medico di Roma — 1 first-listed-author papers</title>
+<g class="institution" data-name="Università Campus Bio-Medico di Roma" data-country="Italy"><title>Università Campus Bio-Medico di Roma — 1 first-listed-author papers — 1.30% of displayed total (77)</title>
 <rect x="5732.7273" y="6803.9456" width="658.6364" height="1068.0272" fill="#c7b7d7" stroke="white" stroke-width="5"/>
-<text x="6062.045454545455" y="7028.959183673469" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="115" fill="#12344b">Università</text>
-<text x="6062.045454545455" y="7154.959183673469" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="115" fill="#12344b">Campus</text>
-<text x="6062.045454545455" y="7280.959183673469" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="115" fill="#12344b">Bio-Medico</text>
-<text x="6062.045454545455" y="7406.959183673469" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="115" fill="#12344b">di Roma</text>
-<text x="6062.045454545455" y="7549.959183673469" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="97" fill="#12344b">1</text>
+<text x="6062.045454545455" y="6986.459183673469" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="115" fill="#12344b">Università</text>
+<text x="6062.045454545455" y="7112.459183673469" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="115" fill="#12344b">Campus</text>
+<text x="6062.045454545455" y="7238.459183673469" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="115" fill="#12344b">Bio-Medico</text>
+<text x="6062.045454545455" y="7364.459183673469" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="115" fill="#12344b">di Roma</text>
+<text x="6062.045454545455" y="7507.459183673469" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="97" fill="#12344b">1</text>
+<text x="6062.045454545455" y="7615.459183673469" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="74" fill="#12344b">1.30%</text>
 </g>
-<g class="institution" data-name="Università degli Studi di Genova" data-country="Italy"><title>Università degli Studi di Genova — 1 first-listed-author papers</title>
+<g class="institution" data-name="Università degli Studi di Genova" data-country="Italy"><title>Università degli Studi di Genova — 1 first-listed-author papers — 1.30% of displayed total (77)</title>
 <rect x="6391.3636" y="6803.9456" width="658.6364" height="1068.0272" fill="#c7b7d7" stroke="white" stroke-width="5"/>
-<text x="6720.681818181819" y="6991.959183673469" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="129" fill="#12344b">Università</text>
-<text x="6720.681818181819" y="7132.959183673469" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="129" fill="#12344b">degli</text>
-<text x="6720.681818181819" y="7273.959183673469" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="129" fill="#12344b">Studi di</text>
-<text x="6720.681818181819" y="7414.959183673469" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="129" fill="#12344b">Genova</text>
-<text x="6720.681818181819" y="7574.959183673469" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="109" fill="#12344b">1</text>
+<text x="6720.681818181819" y="6944.459183673469" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="129" fill="#12344b">Università</text>
+<text x="6720.681818181819" y="7085.459183673469" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="129" fill="#12344b">degli</text>
+<text x="6720.681818181819" y="7226.459183673469" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="129" fill="#12344b">Studi di</text>
+<text x="6720.681818181819" y="7367.459183673469" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="129" fill="#12344b">Genova</text>
+<text x="6720.681818181819" y="7527.459183673469" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="109" fill="#12344b">1</text>
+<text x="6720.681818181819" y="7648.459183673469" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="83" fill="#12344b">1.30%</text>
 </g>
-<g class="institution" data-name="Università degli Studi di Milano" data-country="Italy"><title>Università degli Studi di Milano — 1 first-listed-author papers</title>
+<g class="institution" data-name="Università degli Studi di Milano" data-country="Italy"><title>Università degli Studi di Milano — 1 first-listed-author papers — 1.30% of displayed total (77)</title>
 <rect x="5074.0909" y="7871.9728" width="658.6364" height="1068.0272" fill="#c7b7d7" stroke="white" stroke-width="5"/>
-<text x="5403.409090909091" y="8200.986394557824" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="129" fill="#12344b">University</text>
-<text x="5403.409090909091" y="8341.986394557824" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="129" fill="#12344b">of Milan</text>
-<text x="5403.409090909091" y="8501.986394557824" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="109" fill="#12344b">1</text>
+<text x="5403.409090909091" y="8153.486394557824" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="129" fill="#12344b">University</text>
+<text x="5403.409090909091" y="8294.486394557824" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="129" fill="#12344b">of Milan</text>
+<text x="5403.409090909091" y="8454.486394557824" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="109" fill="#12344b">1</text>
+<text x="5403.409090909091" y="8575.486394557824" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="83" fill="#12344b">1.30%</text>
 </g>
-<g class="institution" data-name="Università degli Studi di Modena e Reggio Emilia" data-country="Italy"><title>Università degli Studi di Modena e Reggio Emilia — 1 first-listed-author papers</title>
+<g class="institution" data-name="Università degli Studi di Modena e Reggio Emilia" data-country="Italy"><title>Università degli Studi di Modena e Reggio Emilia — 1 first-listed-author papers — 1.30% of displayed total (77)</title>
 <rect x="5732.7273" y="7871.9728" width="658.6364" height="1068.0272" fill="#c7b7d7" stroke="white" stroke-width="5"/>
-<text x="6062.045454545455" y="7918.986394557824" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="129" fill="#12344b">Università</text>
-<text x="6062.045454545455" y="8059.986394557824" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="129" fill="#12344b">degli</text>
-<text x="6062.045454545455" y="8200.986394557824" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="129" fill="#12344b">Studi di</text>
-<text x="6062.045454545455" y="8341.986394557824" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="129" fill="#12344b">Modena e</text>
-<text x="6062.045454545455" y="8482.986394557824" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="129" fill="#12344b">Reggio</text>
-<text x="6062.045454545455" y="8623.986394557824" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="129" fill="#12344b">Emilia</text>
-<text x="6062.045454545455" y="8783.986394557824" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="109" fill="#12344b">1</text>
+<text x="6062.045454545455" y="7964.986394557824" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="122" fill="#12344b">Università</text>
+<text x="6062.045454545455" y="8098.986394557824" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="122" fill="#12344b">degli Studi</text>
+<text x="6062.045454545455" y="8232.986394557824" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="122" fill="#12344b">di Modena</text>
+<text x="6062.045454545455" y="8366.986394557824" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="122" fill="#12344b">e Reggio</text>
+<text x="6062.045454545455" y="8500.986394557824" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="122" fill="#12344b">Emilia</text>
+<text x="6062.045454545455" y="8652.986394557824" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="103" fill="#12344b">1</text>
+<text x="6062.045454545455" y="8767.986394557824" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="79" fill="#12344b">1.30%</text>
 </g>
-<g class="institution" data-name="Università di Modena e Reggio Emilia" data-country="Italy"><title>Università di Modena e Reggio Emilia — 1 first-listed-author papers</title>
+<g class="institution" data-name="Università di Modena e Reggio Emilia" data-country="Italy"><title>Università di Modena e Reggio Emilia — 1 first-listed-author papers — 1.30% of displayed total (77)</title>
 <rect x="6391.3636" y="7871.9728" width="658.6364" height="1068.0272" fill="#c7b7d7" stroke="white" stroke-width="5"/>
-<text x="6720.681818181819" y="7989.486394557824" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="129" fill="#12344b">Università</text>
-<text x="6720.681818181819" y="8130.486394557824" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="129" fill="#12344b">di</text>
-<text x="6720.681818181819" y="8271.486394557824" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="129" fill="#12344b">Modena e</text>
-<text x="6720.681818181819" y="8412.486394557824" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="129" fill="#12344b">Reggio</text>
-<text x="6720.681818181819" y="8553.486394557824" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="129" fill="#12344b">Emilia</text>
-<text x="6720.681818181819" y="8713.486394557824" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="109" fill="#12344b">1</text>
+<text x="6720.681818181819" y="7941.986394557824" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="129" fill="#12344b">Università</text>
+<text x="6720.681818181819" y="8082.986394557824" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="129" fill="#12344b">di</text>
+<text x="6720.681818181819" y="8223.986394557824" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="129" fill="#12344b">Modena e</text>
+<text x="6720.681818181819" y="8364.986394557824" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="129" fill="#12344b">Reggio</text>
+<text x="6720.681818181819" y="8505.986394557824" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="129" fill="#12344b">Emilia</text>
+<text x="6720.681818181819" y="8665.986394557824" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="109" fill="#12344b">1</text>
+<text x="6720.681818181819" y="8786.986394557824" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="83" fill="#12344b">1.30%</text>
 </g>
 <rect x="150.0000" y="9150.0000" width="6900.0000" height="7.0000" fill="#dbe3ed"/>
 <text x="3600.0" y="9270" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="235" fill="#102c44">github.com/ZipengWu365</text>

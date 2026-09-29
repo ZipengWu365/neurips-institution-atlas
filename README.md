@@ -54,6 +54,10 @@ The worldwide views show 200 institutions grouped [by region](assets/world-regio
 
 ## Counting and selection
 
+### Percentages
+
+Each rectangle shows the institution's paper count and its percentage of the total institution–paper counts displayed in that chart. For a global top-200 chart, the denominator is the sum across those 200 displayed institutions; for a country edition, it is the sum across the institutions displayed in that country edition (up to 200). Both worldwide groupings use the same denominator. These are shares of displayed institution–paper pairs, not shares of unique conference papers, all institutions, or acceptance rates. Search only filters visibility and never changes the denominator. Percentages are rounded to two decimal places, so displayed values can sum to slightly more or less than 100%. CSV exports include the denominator and percentages to six decimal places.
+
 The supplied workbook covers 9,006 poster records. An institution receives one count for each distinct paper ID associated with it. A collaborative paper can count once for each participating institution. Thus, institution counts and geographic sums are **not** unique conference paper counts, acceptance rates or first-author counts.
 
 The workbook originally contained 1,861 institution labels and 22,977 institution–paper pairs. This edition consolidates explicit aliases and punctuation/transliteration equivalents and separates two geographically mixed source labels, yielding 1,713 institution labels and 22,848 distinct institution–paper pairs. There are 124 resulting entries with multiple original labels. Merged counts are computed from the union of source paper IDs, rather than the sum of label counts. Original labels and resulting counts are preserved in [the alias audit](data/alias_audit.json), with paper-level geographic splits in [the split audit](data/geography_splits.json).
@@ -106,4 +110,4 @@ Suggested corrections should include the institution name, the affected paper ID
 
 ## Rebuild the posters
 
-Install Pillow and run `python scripts/generate_posters.py` from the project directory. The script regenerates the PNG/SVG series from the included cleaned data. The supplied renderer uses Arial fonts at the Windows font paths in its `font()` function; adjust those two paths on other operating systems. It does not require the private source workbook to reproduce the figures. Rebuilding the affiliation cleanup from a new workbook is a separate step.
+Install Pillow and run `python scripts/build_atlas.py --edition first-author` or `python scripts/build_atlas.py --edition all-author` from the project directory. The renderer updates PNG/SVG posters, CSV percentages, the contact sheet and the matching interactive page from the included cleaned data. A ZIP of PNG/SVG posters is written to that edition's ignored `posters/` directory. The renderer uses Arial fonts at the Windows font paths in its `font()` function; adjust those two paths on other operating systems. It does not require the private source workbook to reproduce the figures. Rebuilding the affiliation cleanup from a new workbook is a separate step. The older `generate_posters.py` is retained as a legacy renderer and should not be used to rebuild the current interactive pages.
