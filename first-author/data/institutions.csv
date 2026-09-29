@@ -1,0 +1,993 @@
+﻿Displayed position,Institution,Country,First-listed-author papers,Main conference (matched subset),Evaluations and Datasets,Position papers,Unconfirmed track
+1,Tsinghua University,China,190,106,8,0,76
+2,Korea Advanced Institute of Science and Technology,South Korea,164,116,7,0,41
+3,Shanghai Jiao Tong University,China,154,108,11,1,34
+4,Massachusetts Institute of Technology,United States,144,80,6,0,58
+5,Peking University,China,139,83,12,3,41
+6,Stanford University,United States,120,49,8,0,63
+7,Zhejiang University,China,99,72,6,0,21
+8,National University of Singapore,Singapore,97,51,8,0,38
+9,Hong Kong University of Science and Technology,China,93,61,4,0,28
+10,University of Science and Technology of China,China,93,55,6,1,31
+11,Carnegie Mellon University,United States,91,47,7,0,37
+12,Nanyang Technological University,Singapore,88,53,2,0,33
+13,University of Illinois Urbana-Champaign,United States,86,41,8,1,36
+14,Seoul National University,South Korea,84,54,2,0,28
+15,University of Oxford,United Kingdom,84,39,11,2,32
+16,"University of California, Berkeley",United States,80,42,10,2,26
+17,Fudan University,China,79,55,3,0,21
+18,Harvard University,United States,74,35,0,0,39
+19,New York University,United States,74,36,6,0,32
+20,Google,United States,73,31,8,2,32
+21,Chinese University of Hong Kong,China,72,46,3,0,23
+22,Purdue University,United States,70,43,2,0,25
+23,ETH Zurich,Switzerland,67,31,12,0,24
+24,Technical University of Munich,Germany,64,33,6,0,25
+25,Columbia University,United States,62,26,5,0,31
+26,EPFL,Switzerland,61,36,4,0,21
+27,Georgia Institute of Technology,United States,61,36,0,0,25
+28,University of Texas at Austin,United States,61,27,2,1,31
+29,Harbin Institute of Technology,China,59,36,4,0,19
+30,"University of California, San Diego",United States,58,25,10,0,23
+31,Nanjing University,China,57,35,8,0,14
+32,University of Cambridge,United Kingdom,55,22,3,1,29
+33,University of Washington,United States,54,21,7,0,26
+34,Princeton University,United States,51,18,3,0,30
+35,University of Hong Kong,China,51,33,0,0,18
+36,University of Tokyo,Japan,50,30,2,0,18
+37,Sun Yat-sen University,China,49,32,3,0,14
+38,University of Pennsylvania,United States,48,20,6,0,22
+39,Cornell University,United States,47,24,1,0,22
+40,University of Toronto,Canada,46,25,1,1,19
+41,Imperial College London,United Kingdom,45,24,2,0,19
+42,University of Wisconsin-Madison,United States,45,18,2,0,25
+43,Johns Hopkins University,United States,44,23,5,0,16
+44,Korea University,South Korea,44,27,4,0,13
+45,"University of California, Los Angeles",United States,44,27,1,0,16
+46,Xi'an Jiaotong University,China,44,29,2,0,13
+47,Wuhan University,China,43,26,1,0,16
+48,Southeast University,China,42,26,1,0,15
+49,University of Michigan,United States,41,22,5,0,14
+50,Hong Kong University of Science and Technology (Guangzhou),China,39,31,2,0,6
+51,City University of Hong Kong,China,38,18,1,0,19
+52,Mohamed bin Zayed University of Artificial Intelligence,United Arab Emirates,38,21,4,0,13
+53,Technion - Israel Institute of Technology,Israel,38,22,0,0,16
+54,Yale University,United States,38,18,2,0,18
+55,Hong Kong Polytechnic University,China,37,18,2,1,16
+56,University of Electronic Science and Technology of China,China,37,29,0,0,8
+57,Inria,France,36,23,2,0,11
+58,Mila,Canada,36,17,3,0,16
+59,Tongji University,China,36,22,2,0,12
+60,University College London,United Kingdom,36,24,1,0,11
+61,Huazhong University of Science and Technology,China,35,25,1,0,9
+62,Meta,United States,35,23,2,0,10
+63,University of Southern California,United States,35,20,3,1,11
+64,Beihang University,China,34,24,3,0,7
+65,"Institute of Automation, Chinese Academy of Sciences",China,34,21,1,0,12
+66,Renmin University of China,China,34,20,1,0,13
+67,University of Chinese Academy of Sciences,China,34,18,1,0,15
+68,"University of Maryland, College Park",United States,34,25,2,0,7
+69,University of North Carolina at Chapel Hill,United States,33,23,1,0,9
+70,University of Virginia,United States,33,22,4,0,7
+71,Yonsei University,South Korea,33,22,0,0,11
+72,Beijing Institute of Technology,China,31,20,1,0,10
+73,University of Chicago,United States,31,17,2,0,12
+74,Beijing University of Posts and Telecommunications,China,30,18,0,0,12
+75,NVIDIA,United States,30,15,4,0,11
+76,Microsoft,United States,29,16,3,0,10
+77,Duke University,United States,27,13,1,0,13
+78,South China University of Technology,China,27,18,3,0,6
+79,University of Central Florida,United States,27,8,6,0,13
+80,McGill University,Canada,26,10,1,0,15
+81,University of Edinburgh,United Kingdom,26,10,3,0,13
+82,Xiamen University,China,26,15,2,0,9
+83,Northwestern University,United States,25,14,2,0,9
+84,Tel Aviv University,Israel,25,14,4,0,7
+85,Amazon,United States,24,14,1,0,9
+86,Pennsylvania State University,United States,24,13,1,1,9
+87,Pohang University of Science and Technology,South Korea,24,18,0,0,6
+88,Chinese Academy of Sciences,China,23,15,2,0,6
+89,East China Normal University,China,23,13,3,0,7
+90,RIKEN,Japan,23,14,1,0,8
+91,Tianjin University,China,23,18,0,0,5
+92,"University of California, Santa Barbara",United States,23,9,2,0,12
+93,University of Sydney,Australia,23,14,1,0,8
+94,University of Waterloo,Canada,23,14,1,0,8
+95,University of British Columbia,Canada,22,11,2,0,9
+96,Virginia Tech,United States,22,13,2,0,7
+97,Ludwig Maximilian University of Munich,Germany,21,10,4,0,7
+98,University of Massachusetts Amherst,United States,21,9,5,0,7
+99,"Chinese University of Hong Kong, Shenzhen",China,20,12,2,0,6
+100,Sungkyunkwan University,South Korea,20,10,1,0,9
+101,University of Melbourne,Australia,20,8,3,0,9
+102,University of New South Wales,Australia,20,10,5,0,5
+103,École Polytechnique,France,20,12,1,0,7
+104,Alibaba Group,China,19,10,3,0,6
+105,Southern University of Science and Technology,China,19,12,0,0,7
+106,Tencent,China,19,8,5,0,6
+107,Westlake University,China,19,13,0,1,5
+108,Arizona State University,United States,18,7,3,0,8
+109,Central South University,China,18,13,1,0,4
+110,Huawei,China,18,11,0,0,7
+111,Jilin University,China,18,10,0,0,8
+112,Technical University of Darmstadt,Germany,18,10,2,0,6
+113,University of Amsterdam,Netherlands,18,10,3,0,5
+114,CISPA Helmholtz Center for Information Security,Germany,17,9,0,0,8
+115,Hanyang University,South Korea,17,6,1,0,10
+116,Michigan State University,United States,17,5,3,0,9
+117,Qualcomm,United States,17,11,0,0,6
+118,"University of California, Irvine",United States,17,10,0,0,7
+119,University of Illinois Chicago,United States,17,7,2,0,8
+120,Apple,United States,16,11,1,0,4
+121,Beijing Jiaotong University,China,16,12,0,0,4
+122,Indian Institute of Science,India,16,8,1,0,7
+123,Max Planck Institute for Intelligent Systems,Germany,16,11,0,0,5
+124,Ohio State University,United States,16,13,0,0,3
+125,Rutgers University,United States,16,14,0,0,2
+126,ShanghaiTech University,China,16,11,1,0,4
+127,Shenzhen University,China,16,13,0,0,3
+128,Texas A&M University,United States,16,7,2,0,7
+129,Ben-Gurion University,Israel,15,10,2,0,3
+130,Delft University of Technology,Netherlands,15,8,2,0,5
+131,Sichuan University,China,15,11,1,0,3
+132,Sorbonne University,France,15,10,0,0,5
+133,Technical University of Berlin,Germany,15,8,0,0,7
+134,Xidian University,China,15,6,0,0,9
+135,ByteDance,China,14,9,0,0,5
+136,California Institute of Technology,United States,14,7,0,0,7
+137,"Institute of Computing Technology, Chinese Academy of Sciences",China,14,4,0,0,10
+138,Institute of Science Tokyo,Japan,14,10,0,0,4
+139,King's College London,United Kingdom,14,9,1,1,3
+140,KTH Royal Institute of Technology,Sweden,14,9,0,0,5
+141,Monash University,Australia,14,9,2,0,3
+142,Shandong University,China,14,9,1,0,4
+143,Stony Brook University,United States,14,8,2,0,4
+144,École Normale Supérieure de Paris,France,14,5,0,0,9
+145,Aalto University,Finland,13,11,0,0,2
+146,Beijing Normal University,China,13,10,1,0,2
+147,Boston University,United States,13,4,1,0,8
+148,Chung-Ang University,South Korea,13,7,1,0,5
+149,Dartmouth College,United States,13,8,0,0,5
+150,Indian Institute of Technology Delhi,India,13,8,1,0,4
+151,KU Leuven,Belgium,13,9,1,0,3
+152,Nanjing University of Science and Technology,China,13,12,0,0,1
+153,Nankai University,China,13,8,0,0,5
+154,University of Tübingen,Germany,13,8,2,0,3
+155,Vector Institute,Canada,13,6,3,0,4
+156,Australian National University,Australia,12,7,1,0,4
+157,Hanoi University of Science and Technology,Vietnam,12,6,0,0,6
+158,Institute of Science and Technology Austria,Austria,12,6,0,0,6
+159,King Abdullah University of Science and Technology,Saudi Arabia,12,6,0,0,6
+160,National University of Defense Technology,China,12,7,2,0,3
+161,Politecnico di Milano,Italy,12,7,2,0,3
+162,University of Bristol,United Kingdom,12,6,0,0,6
+163,"University of California, Davis",United States,12,8,1,0,3
+164,University of Queensland,Australia,12,6,3,0,3
+165,Université de Montréal,Canada,12,8,0,0,4
+166,Brown University,United States,11,8,1,0,2
+167,RWTH Aachen University,Germany,11,6,0,1,4
+168,Samsung,South Korea,11,5,1,0,5
+169,Shanxi University,China,11,9,0,0,2
+170,University of Adelaide,Australia,11,7,0,0,4
+171,University of Alberta,Canada,11,4,0,0,7
+172,University of Florida,United States,11,5,0,0,6
+173,University of Freiburg,Germany,11,7,3,0,1
+174,University of Macau,China,11,9,0,0,2
+175,University of Minnesota,United States,11,7,0,0,4
+176,University of Technology Sydney,Australia,11,5,1,0,5
+177,University of Warwick,United Kingdom,11,8,0,0,3
+178,CNRS,France,10,5,0,0,5
+179,Higher School of Economics,Russia,10,6,1,0,3
+180,Hunan University,China,10,4,3,0,3
+181,Indian Institute of Technology Bombay,India,10,6,0,1,3
+182,Karlsruhe Institute of Technology,Germany,10,5,1,0,4
+183,National Taiwan University,China,10,8,0,0,2
+184,North Carolina State University,United States,10,5,0,0,5
+185,Northwestern Polytechnical University,China,10,5,0,0,5
+186,Shanghai Artificial Intelligence Laboratory,China,10,4,1,0,5
+187,Simon Fraser University,Canada,10,5,2,0,3
+188,Technical University of Denmark,Denmark,10,9,0,0,1
+189,"University of California, Riverside",United States,10,6,1,0,3
+190,University of Copenhagen,Denmark,10,4,0,0,6
+191,University of Manchester,United Kingdom,10,6,0,0,4
+192,University of Notre Dame,United States,10,6,1,0,3
+193,Chongqing University,China,9,8,0,0,1
+194,Hebrew University of Jerusalem,Israel,9,5,0,0,4
+195,Helmholtz Munich,Germany,9,5,0,0,4
+196,IBM,United States,9,3,2,0,4
+197,Kyung Hee University,South Korea,9,6,0,0,3
+198,Singapore Management University,Singapore,9,9,0,0,0
+199,Télécom Paris,France,9,5,0,0,4
+200,University of Luxembourg,Luxembourg,9,4,3,0,2
+201,University of Texas at Arlington,United States,9,6,1,0,2
+202,VinUniversity,Unassigned,9,7,1,0,1
+203,Washington University in St. Louis,United States,9,7,0,0,2
+204,Western University,Unassigned,9,5,0,0,4
+205,George Mason University,United States,8,3,2,0,3
+206,Gwangju Institute of Science and Technology,South Korea,8,4,2,0,2
+207,"Institute of Information Engineering, Chinese Academy of Sciences",China,8,3,1,0,4
+208,Kyoto University,Japan,8,8,0,0,0
+209,Max Planck Institute for Software Systems,Germany,8,5,1,0,2
+210,Queen Mary University of London,United Kingdom,8,4,3,0,1
+211,Rensselaer Polytechnic Institute,United States,8,5,1,0,2
+212,Rice University,United States,8,6,0,0,2
+213,RMIT University,Australia,8,4,0,0,4
+214,Saarland University,Germany,8,4,1,0,3
+215,Sapienza University of Rome,Italy,8,7,0,0,1
+216,Shanghai Innovation Institute,China,8,5,1,0,2
+217,Soochow University,China,8,6,1,0,1
+218,Ulsan National Institute of Science and Technology,South Korea,8,5,1,0,2
+219,University of Connecticut,United States,8,7,0,0,1
+220,University of Rochester,United States,8,3,0,1,4
+221,University of Texas at Dallas,United States,8,2,1,0,5
+222,ELLIS Institute Tübingen,Germany,7,2,0,0,5
+223,Emory University,United States,7,5,0,0,2
+224,Heidelberg University,Germany,7,5,1,0,1
+225,Hong Kong Baptist University,China,7,2,0,0,5
+226,Institut Polytechnique de Paris,France,7,4,1,0,2
+227,"Institute of Software, Chinese Academy of Sciences",China,7,4,1,0,2
+228,Kuaishou,China,7,5,0,0,2
+229,Leiden University,Unassigned,7,4,2,0,1
+230,NAVER,South Korea,7,5,0,0,2
+231,Oregon State University,United States,7,4,0,0,3
+232,Scale AI,United States,7,1,4,0,2
+233,Shanghai University of Finance and Economics,China,7,4,0,0,3
+234,Sofia University,Unassigned,7,5,1,0,1
+235,Tulane University,United States,7,1,0,0,6
+236,University of Bath,United Kingdom,7,2,0,0,5
+237,University of Birmingham,United Kingdom,7,4,0,0,3
+238,"University of California, Santa Cruz",United States,7,2,2,0,3
+239,University of Georgia,United States,7,4,1,0,2
+240,University of Trento,Italy,7,3,1,0,3
+241,Université Paris-Saclay,France,7,3,0,0,4
+242,Waseda University,Japan,7,4,0,0,3
+243,Case Western Reserve University,United States,6,3,1,0,2
+244,Concordia University,Unassigned,6,1,0,0,5
+245,Deakin University,Australia,6,5,0,0,1
+246,Eindhoven University of Technology,Unassigned,6,2,1,0,3
+247,Hangzhou Dianzi University,China,6,5,0,0,1
+248,Jagiellonian University,Unassigned,6,5,0,0,1
+249,JPMorgan Chase,United States,6,4,0,0,2
+250,McMaster University,Unassigned,6,3,1,0,2
+251,Nanjing University of Aeronautics and Astronautics,China,6,5,0,0,1
+252,Pusan National University,South Korea,6,2,0,1,3
+253,"Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences",China,6,4,0,1,1
+254,South China Normal University,China,6,3,2,0,1
+255,University at Buffalo,United States,6,3,0,0,3
+256,University of Basel,Unassigned,6,6,0,0,0
+257,University of Helsinki,Unassigned,6,2,2,0,2
+258,University of Liverpool,United Kingdom,6,5,0,0,1
+259,University of Nebraska-Lincoln,United States,6,3,0,0,3
+260,University of Pittsburgh,United States,6,2,1,0,3
+261,University of Stuttgart,Germany,6,3,0,0,3
+262,University of Surrey,United Kingdom,6,3,1,0,2
+263,University of Utah,United States,6,2,2,0,2
+264,University of Warsaw,Unassigned,6,5,0,0,1
+265,Vanderbilt University,United States,6,2,1,1,2
+266,York University,Unassigned,6,2,2,0,2
+267,A*STAR,Singapore,5,4,0,0,1
+268,Aarhus University,Unassigned,5,2,1,0,2
+269,AMD,United States,5,2,1,0,2
+270,Ant Group,China,5,3,0,0,2
+271,Bocconi University,Italy,5,1,0,0,4
+272,Bosch,Germany,5,1,0,0,4
+273,Chalmers University of Technology,Unassigned,5,3,0,0,2
+274,Clemson University,United States,5,4,0,0,1
+275,Daegu Gyeongbuk Institute of Science and Technology,South Korea,5,2,0,0,3
+276,Flatiron Institute,United States,5,3,0,0,2
+277,Florida State University,United States,5,4,0,0,1
+278,Ghent University,Unassigned,5,3,0,0,2
+279,Griffith University,Australia,5,4,0,0,1
+280,Instituto Superior Técnico,Unassigned,5,4,0,0,1
+281,Jinan University,China,5,3,0,0,2
+282,Keio University,Japan,5,3,1,0,1
+283,Lancaster University,United Kingdom,5,5,0,0,0
+284,Moscow State University,Unassigned,5,1,1,0,3
+285,National Yang Ming Chiao Tung University,China,5,4,1,0,0
+286,Politecnico di Torino,Italy,5,4,0,0,1
+287,Rochester Institute of Technology,United States,5,2,0,0,3
+288,SAP,Germany,5,4,1,0,0
+289,Singapore University of Technology and Design,Singapore,5,5,0,0,0
+290,Sogang University,South Korea,5,5,0,0,0
+291,Sony,Japan,5,1,0,0,4
+292,The Institute of Statistical Mathematics,Japan,5,5,0,0,0
+293,University of Bonn,Germany,5,2,0,1,2
+294,University of Houston,United States,5,3,0,0,2
+295,University of Oslo,Unassigned,5,2,0,0,3
+296,University of Southampton,United Kingdom,5,4,0,0,1
+297,University of Vienna,Unassigned,5,4,0,0,1
+298,University of Wollongong,Australia,5,3,0,0,2
+299,Vietnam National University,Unassigned,5,4,1,0,0
+300,Vrije Universiteit Amsterdam,Unassigned,5,4,0,0,1
+301,École des Ponts ParisTech,France,5,4,0,0,1
+302,Aalborg University,Unassigned,4,3,0,0,1
+303,Academia Sinica,China,4,2,0,0,2
+304,Adobe,United States,4,2,0,0,2
+305,Ajou University,South Korea,4,4,0,0,0
+306,Allen Institute for Artificial Intelligence,United States,4,2,0,0,2
+307,Baidu,China,4,3,0,0,1
+308,Bar-Ilan University,Unassigned,4,3,0,0,1
+309,Capital One,United States,4,2,0,0,2
+310,CentraleSupélec,France,4,2,1,0,1
+311,Cold Spring Harbor Laboratory,United States,4,1,0,0,3
+312,CSIRO,Australia,4,1,1,0,2
+313,CyberAgent,Japan,4,2,0,0,2
+314,Czech Technical University in Prague,Unassigned,4,2,1,0,1
+315,Dalhousie University,Unassigned,4,1,0,0,3
+316,Dalian University of Technology,China,4,3,0,0,1
+317,Electronics and Telecommunications Research Institute,South Korea,4,3,0,0,1
+318,Florida Atlantic University,United States,4,3,0,0,1
+319,Florida International University,United States,4,3,0,0,1
+320,Friedrich-Alexander-Universität Erlangen-Nürnberg,Germany,4,2,0,1,1
+321,Georgetown University,United States,4,3,0,0,1
+322,Hasso Plattner Institute,Germany,4,1,0,0,3
+323,Hokkaido University,Japan,4,4,0,0,0
+324,Indraprastha Institute of Information Technology Delhi,India,4,2,0,0,2
+325,Inha University,South Korea,4,3,0,0,1
+326,International Institute of Information Technology Hyderabad,India,4,1,0,0,3
+327,Iowa State University,United States,4,3,0,0,1
+328,Johannes Kepler University Linz,Unassigned,4,2,1,0,1
+329,Korea Institute for Advanced Study,South Korea,4,2,0,0,2
+330,Lehigh University,United States,4,2,0,0,2
+331,Leibniz University Hannover,Germany,4,3,0,0,1
+332,Lenovo,China,4,1,0,0,3
+333,Macau University of Science and Technology,China,4,1,1,0,2
+334,MATS,United States,4,3,1,0,0
+335,Max Planck Institute for Informatics,Germany,4,1,0,0,3
+336,Max Planck Institute of Biochemistry,Germany,4,1,0,0,3
+337,Memorial Sloan Kettering Cancer Center,United States,4,1,1,0,2
+338,Ningbo University,China,4,1,0,0,3
+339,Osaka University,Japan,4,3,0,0,1
+340,Queen's University,Unassigned,4,3,0,0,1
+341,Salesforce,United States,4,2,2,0,0
+342,Seoul National University of Science and Technology,South Korea,4,3,1,0,0
+343,Sharif University of Technology,Unassigned,4,0,0,0,4
+344,Shenzhen Loop Area Institute,China,4,3,0,0,1
+345,Stevens Institute of Technology,United States,4,2,1,0,1
+346,TU Wien,Unassigned,4,2,0,0,2
+347,Tufts University,United States,4,3,0,0,1
+348,Universitat Autónoma de Barcelona,Unassigned,4,3,0,0,1
+349,University of Arizona,United States,4,1,0,0,3
+350,University of Delaware,United States,4,1,0,0,3
+351,University of Exeter,United Kingdom,4,3,0,0,1
+352,University of Kentucky,United States,4,2,1,0,1
+353,University of North Carolina at Charlotte,United States,4,0,0,0,4
+354,Università della Svizzera italiana,Unassigned,4,3,0,0,1
+355,Université Paris Cité,France,4,3,0,0,1
+356,Wayne State University,United States,4,2,1,0,1
+357,Xi'an Jiaotong-Liverpool University,China,4,3,1,0,0
+358,Yandex,Unassigned,4,0,2,0,2
+359,Zhengzhou University,China,4,4,0,0,0
+360,Ant International,Unassigned,3,1,0,0,2
+361,Auburn University,United States,3,2,0,0,1
+362,CEA,France,3,1,0,0,2
+363,China University of Petroleum (East China),China,3,3,0,0,0
+364,Criteo,France,3,2,0,0,1
+365,DEEPNOID Inc.,South Korea,3,2,0,0,1
+366,Drexel University,United States,3,3,0,0,0
+367,East China University of Science and Technology,China,3,1,0,0,2
+368,Fondazione Bruno Kessler,Italy,3,1,1,0,1
+369,Freie Universität Berlin,Germany,3,2,0,0,1
+370,Fuzhou University,China,3,3,0,0,0
+371,George Washington University,United States,3,0,0,0,3
+372,German Research Center for Artificial Intelligence,Germany,3,0,1,0,2
+373,Graz University of Technology,Unassigned,3,1,1,0,1
+374,Guangzhou University,China,3,3,0,0,0
+375,Hewlett Packard Enterprise,United States,3,2,1,0,0
+376,Holistic AI,United Kingdom,3,3,0,0,0
+377,Idiap Research Institute,Unassigned,3,1,1,0,1
+378,Indian Institute of Technology Hyderabad,India,3,1,0,0,2
+379,Indian Institute of Technology Madras,India,3,1,0,0,2
+380,International Institute of Information Technology,India,3,1,0,0,2
+381,ITMO University,Unassigned,3,2,1,0,0
+382,JD.com,China,3,0,0,0,3
+383,Kookmin University,South Korea,3,2,0,0,1
+384,Lawrence Berkeley National Laboratory,United States,3,2,0,0,1
+385,LG,South Korea,3,1,0,1,1
+386,Linköping University,Unassigned,3,2,0,0,1
+387,Los Alamos National Laboratory,United States,3,0,0,1,2
+388,Lund University,Unassigned,3,2,0,0,1
+389,Max-Planck Institute,Germany,3,1,0,0,2
+390,Morgan Stanley,United States,3,2,0,0,1
+391,Nagoya University,Japan,3,3,0,0,0
+392,Nanjing University of Information Science and Technology,China,3,2,0,0,1
+393,National Tsing Hua University,China,3,3,0,0,0
+394,Oak Ridge National Laboratory,United States,3,1,0,0,2
+395,OpenAI,United States,3,2,1,0,0
+396,Oslo Metropolitan University,Unassigned,3,0,0,0,3
+397,Polytechnique Montréal,Unassigned,3,2,0,0,1
+398,Qilu University of Technology,China,3,3,0,0,0
+399,Ruhr University Bochum,Germany,3,0,1,0,2
+400,Sakana AI,Japan,3,1,1,0,1
+401,Shanghai Academy of Artificial Intelligence for Science,China,3,3,0,0,0
+402,Shanghai University,China,3,3,0,0,0
+403,Southwest University of Finance and Economics,China,3,3,0,0,0
+404,Spotify,Unassigned,3,2,0,0,1
+405,Temple University,United States,3,2,0,0,1
+406,Tianjin Normal University,China,3,2,1,0,0
+407,Tohoku University,Japan,3,1,1,0,1
+408,Toyota Technological Institute at Chicago,United States,3,2,0,0,1
+409,UiT The Arctic University of Norway,Unassigned,3,1,1,0,1
+410,Universitat Pompeu Fabra,Unassigned,3,0,0,0,3
+411,University of Arkansas,United States,3,2,1,0,0
+412,University of Bern,Unassigned,3,2,0,0,1
+413,University of Bordeaux,France,3,1,1,0,1
+414,University of Colorado Boulder,United States,3,2,0,0,1
+415,University of Florence,Italy,3,2,1,0,0
+416,University of Groningen,Unassigned,3,0,0,0,3
+417,University of Haifa,Unassigned,3,2,1,0,0
+418,University of Massachusetts Boston,United States,3,2,0,0,1
+419,University of Milan,Italy,3,2,0,0,1
+420,University of Missouri,United States,3,1,0,0,2
+421,University of Ottawa,Unassigned,3,3,0,0,0
+422,University of Pisa,Italy,3,1,0,0,2
+423,University of Science and Technology Beijing,China,3,2,0,0,1
+424,University of Tennessee,United States,3,0,0,0,3
+425,University of Verona,Italy,3,3,0,0,0
+426,University of Zurich,Unassigned,3,1,2,0,0
+427,Universität Passau,Germany,3,2,0,1,0
+428,Université Grenoble Alpes,France,3,1,0,1,1
+429,Uppsala University,Unassigned,3,2,0,0,1
+430,VISA,United States,3,1,0,0,2
+431,Weizmann Institute of Science,Unassigned,3,1,0,0,2
+432,William & Mary,United States,3,0,1,0,2
+433,Worcester Polytechnic Institute,United States,3,3,0,0,0
+434,Zhongguancun Academy,China,3,2,0,0,1
+435,AGH University of Science and Technology,Unassigned,2,1,0,0,1
+436,Anhui University,China,2,2,0,0,0
+437,Anthropic,United States,2,1,0,0,1
+438,Athens University of Economics and Business,Unassigned,2,1,0,0,1
+439,Australian Institute for Machine Learning,Australia,2,1,0,0,1
+440,Beijing Academy of Artificial Intelligence,China,2,0,1,0,1
+441,Beijing Normal-Hong Kong Baptist University,China,2,2,0,0,0
+442,Beijing University of Technology,China,2,1,0,0,1
+443,Booz Allen Hamilton,United States,2,1,0,0,1
+444,Brigham Young University,United States,2,0,1,0,1
+445,Broad Institute,United States,2,2,0,0,0
+446,Capital Fund Management,France,2,1,0,0,1
+447,Charles University,Unassigned,2,2,0,0,0
+448,Chiang Mai University,Unassigned,2,2,0,0,0
+449,China Telecom,China,2,1,1,0,0
+450,China University of Petroleum,China,2,2,0,0,0
+451,Chinese Institute for Brain Research,China,2,2,0,0,0
+452,Chongqing University of Posts and Telecommunications,China,2,0,0,0,2
+453,Chongqing University of Technology,China,2,2,0,0,0
+454,City University of Hong Kong (Dongguan),China,2,1,0,0,1
+455,Cohere,Unassigned,2,0,1,0,1
+456,Dalian Minzu University,China,2,2,0,0,0
+457,Dhirubhai Ambani University,India,2,2,0,0,0
+458,digiLab,United Kingdom,2,2,0,0,0
+459,Doshisha University,Japan,2,2,0,0,0
+460,eBay Inc.,United States,2,2,0,0,0
+461,Edge Hill University,United Kingdom,2,2,0,0,0
+462,Ewha Women's University,South Korea,2,1,1,0,0
+463,Forschungszentrum Jülich,Germany,2,1,1,0,0
+464,Fujitsu Research,Japan,2,1,0,0,1
+465,FZI Research Center for Information Technology,Germany,2,1,0,0,1
+466,Hainan University,China,2,2,0,0,0
+467,Harbin Engineering University,China,2,0,0,0,2
+468,Harokopio University,Unassigned,2,0,0,0,2
+469,Henan University,China,2,2,0,0,0
+470,Hohai University,China,2,2,0,0,0
+471,Honor,China,2,2,0,0,0
+472,Huazhong Agricultural University,China,2,2,0,0,0
+473,Hugging Face,United States,2,0,0,0,2
+474,IEEE,United States,2,1,0,0,1
+475,Indian Institute of Technology Gandhinagar,India,2,1,0,0,1
+476,Inductive Technologies,Unassigned,2,0,1,0,1
+477,Information Support Force Engineering University,China,2,2,0,0,0
+478,Information Technology University,Unassigned,2,2,0,0,0
+479,Inner Mongolia University,China,2,1,0,0,1
+480,InstaDeep,United Kingdom,2,2,0,0,0
+481,Institute for Basic Science,South Korea,2,1,0,1,0
+482,Intelligent Science & Technology Academy of CASIC,China,2,1,0,0,1
+483,Jiangsu Ocean University,China,2,2,0,0,0
+484,Jozef Stefan Institute,Unassigned,2,1,0,0,1
+485,Khalifa University,Unassigned,2,0,1,0,1
+486,Koç University,Unassigned,2,1,0,0,1
+487,KRAFTON,South Korea,2,1,0,0,1
+488,Kyungpook National University,South Korea,2,1,0,0,1
+489,Kyushu University,Japan,2,2,0,0,0
+490,Københavns Universitet,Unassigned,2,2,0,0,0
+491,Lanzhou University,China,2,1,0,0,1
+492,Lausanne University Hospital,Unassigned,2,0,1,0,1
+493,London School of Economics and Political Science,United Kingdom,2,1,0,0,1
+494,Luleå University of Technology,Unassigned,2,1,0,0,1
+495,LY Corporation,Japan,2,1,0,0,1
+496,Macquarie University,Australia,2,2,0,0,0
+497,Max Planck Institute for Mathematics in the Sciences,Germany,2,1,0,0,1
+498,Meituan,China,2,2,0,0,0
+499,Middle East Technical University,Unassigned,2,2,0,0,0
+500,Moscow Independent Research Institute of Artificial Intelligence,Unassigned,2,2,0,0,0
+501,Nanjing Audit University,China,2,2,0,0,0
+502,Nanjing Normal University,China,2,1,0,0,1
+503,National Cheng Kung University,China,2,2,0,0,0
+504,New Jersey Institute of Technology,United States,2,1,0,0,1
+505,Newcastle University,United Kingdom,2,1,1,0,0
+506,Ocean University of China,China,2,1,0,0,1
+507,Oracle,United States,2,0,0,0,2
+508,Palo Alto Networks,United States,2,2,0,0,0
+509,Patronus AI,United States,2,0,0,0,2
+510,Peng Cheng Laboratory,China,2,1,0,0,1
+511,Pluralis Research,Australia,2,0,0,0,2
+512,Pontificia Universidad Catolica de Chile,Unassigned,2,2,0,0,0
+513,Posts & Telecommunications Institute of Technology,Unassigned,2,2,0,0,0
+514,Poznan University of Technology,Unassigned,2,1,0,0,1
+515,Qatar Computing Research Institute,Unassigned,2,1,1,0,0
+516,Qube Research & Technologies,United Kingdom,2,1,0,0,1
+517,Radboud University,Unassigned,2,1,0,0,1
+518,Redwood Research,United States,2,0,1,0,1
+519,Reichman University,Unassigned,2,0,1,0,1
+520,San Diego State University,United States,2,2,0,0,0
+521,Sejong University,South Korea,2,2,0,0,0
+522,Shaanxi Normal University,China,2,2,0,0,0
+523,Shandong Technology and Business University,China,2,2,0,0,0
+524,Shanghai University of Electric Power,China,2,2,0,0,0
+525,Shenzhen Technology University,China,2,1,0,0,1
+526,Singapore Institute of Technology,Unassigned,2,0,0,0,2
+527,Snap,United States,2,0,0,0,2
+528,Southern Methodist University,United States,2,1,1,0,0
+529,Southwest University,China,2,1,0,0,1
+530,Syracuse University,United States,2,2,0,0,0
+531,Technische Universität Dresden,Germany,2,1,0,0,1
+532,Technische Universität Hamburg,Germany,2,0,0,0,2
+533,Texas Tech University,United States,2,1,0,0,1
+534,Tianjin University of Technology,China,2,2,0,0,0
+535,Toronto Metropolitan University,Unassigned,2,0,0,0,2
+536,Télécom SudParis,France,2,2,0,0,0
+537,UK AI Security Institute,United Kingdom,2,1,1,0,0
+538,Ulm University,Germany,2,1,0,0,1
+539,Umeå University,Unassigned,2,1,0,0,1
+540,Universidad Rey Juan Carlos,Unassigned,2,1,0,0,1
+541,Universitat Politècnica de Catalunya,Unassigned,2,0,1,0,1
+542,Universiteit Antwerpen,Unassigned,2,0,0,0,2
+543,University of Athens,Unassigned,2,1,0,0,1
+544,University of Barcelona,Unassigned,2,1,1,0,0
+545,University of Bologna,Italy,2,1,0,0,1
+546,University of Bucharest,Unassigned,2,0,2,0,0
+547,"University of California, San Francisco",United States,2,1,0,0,1
+548,University of Catania,Italy,2,0,0,0,2
+549,University of Fribourg,Unassigned,2,0,1,0,1
+550,University of Göttingen,Germany,2,1,0,0,1
+551,University of Iowa,United States,2,1,0,0,1
+552,University of Lausanne,Unassigned,2,1,1,0,0
+553,University of Louisville,United States,2,1,0,0,1
+554,University of Neuchâtel,Unassigned,2,2,0,0,0
+555,University of North Texas,United States,2,1,0,0,1
+556,University of Oklahoma,United States,2,1,0,0,1
+557,University of Oregon,United States,2,1,1,0,0
+558,University of Oulu,Unassigned,2,0,1,0,1
+559,University of Padua,Italy,2,1,0,0,1
+560,University of Sheffield,United Kingdom,2,1,0,0,1
+561,University of South Carolina,United States,2,1,0,1,0
+562,University of South Florida,United States,2,2,0,0,0
+563,University of Texas Health Science Center at Houston,United States,2,0,2,0,0
+564,University of Toulouse,France,2,1,0,0,1
+565,University of Tsukuba,Japan,2,2,0,0,0
+566,University of Turku,Unassigned,2,1,0,0,1
+567,University of Twente,Unassigned,2,0,0,0,2
+568,University of Würzburg,Germany,2,1,1,0,0
+569,Universität Hildesheim,Germany,2,0,0,0,2
+570,Université Clermont Auvergne,France,2,0,0,0,2
+571,Université Paris Dauphine - PSL,France,2,1,0,0,1
+572,Valeo,France,2,1,0,0,1
+573,Vanderbilt University Medical Center,United States,2,0,0,0,2
+574,Vrije Universiteit Brussel,Unassigned,2,1,1,0,0
+575,Washington State University,United States,2,1,0,0,1
+576,West Virginia University,United States,2,0,0,0,2
+577,Wroclaw University of Science and Technology,Unassigned,2,0,1,0,1
+578,Wrocław University of Science and Technology,Unassigned,2,1,1,0,0
+579,Xiaohongshu,China,2,2,0,0,0
+580,Yantai University,China,2,0,0,0,2
+581,Yeshiva University,United States,2,2,0,0,0
+582,Yunnan University,China,2,2,0,0,0
+583,Zhejiang Gongshang University,China,2,0,0,0,2
+584,Zuse Institute Berlin,Germany,2,2,0,0,0
+585,École de technologie supérieure,Unassigned,2,1,0,0,1
+586,ACS Research,Unassigned,1,0,0,1,0
+587,Adam Mickiewicz University,Unassigned,1,0,0,0,1
+588,Aegean University,Unassigned,1,1,0,0,0
+589,African Institute for Mathematical Sciences (AIMS) Rwanda,Unassigned,1,0,0,0,1
+590,AIG,United States,1,0,0,0,1
+591,AIM Intelligence,South Korea,1,0,0,0,1
+592,Akershus University Hospital,Unassigned,1,0,0,0,1
+593,Albert Einstein College of Medicine,United States,1,0,0,0,1
+594,Alberta Machine Intelligence Institute,Unassigned,1,1,0,0,0
+595,Alignment Research Center,United States,1,1,0,0,0
+596,Allen Institute,United States,1,1,0,0,0
+597,Amherst College,United States,1,1,0,0,0
+598,Anhui Polytechnic University,China,1,1,0,0,0
+599,Arb Research,Unassigned,1,0,0,0,1
+600,Argonne National Lab,United States,1,1,0,0,0
+601,Argonne National Laboratory,United States,1,0,1,0,0
+602,Aristotle University of Thessaloniki,Unassigned,1,1,0,0,0
+603,ASIAN INSTITUTE OF GASTROENTEROLOGY,India,1,0,0,0,1
+604,AstraZeneca,United Kingdom,1,0,0,0,1
+605,Athena Research Center,Unassigned,1,1,0,0,0
+606,Babes-Bolyai University of Cluj-Napoca,Unassigned,1,0,0,0,1
+607,Babeș-Bolyai University,Unassigned,1,0,0,0,1
+608,Bangladesh Sweden Polytechnic Institute,Unassigned,1,1,0,0,0
+609,Barcelona Supercomputing Center,Unassigned,1,1,0,0,0
+610,Baylor University,United States,1,1,0,0,0
+611,Beijing Foresty University,China,1,1,0,0,0
+612,Beijing Institute for General Artificial Intelligence,China,1,0,0,0,1
+613,Beijing Institute of Mathematical Sciences and Applications,China,1,0,0,0,1
+614,Beijing Technology and Business University,China,1,0,0,0,1
+615,Bennett University,India,1,1,0,0,0
+616,Bielefeld University,Germany,1,0,0,0,1
+617,Bilkent University,Unassigned,1,0,0,0,1
+618,Bloomberg,United States,1,0,0,0,1
+619,Bogazici University,Unassigned,1,1,0,0,0
+620,Braindeck Inc.,Unassigned,1,0,0,0,1
+621,Brandeis University,United States,1,1,0,0,0
+622,Brookhaven National Lab,United States,1,1,0,0,0
+623,Bucknell University,United States,1,0,0,0,1
+624,Can-Tho University,Unassigned,1,1,0,0,0
+625,Cape Institute for Safe AI,Unassigned,1,1,0,0,0
+626,Cardiff University,United Kingdom,1,0,1,0,0
+627,Celonis,Germany,1,0,0,0,1
+628,Central China Normal University,China,1,1,0,0,0
+629,Central Institute of Mental Health Mannheim,Germany,1,1,0,0,0
+630,Champalimaud Research,Unassigned,1,0,0,0,1
+631,Chang'an University,China,1,0,0,0,1
+632,Charité - Universitätsmedizin Berlin,Germany,1,1,0,0,0
+633,Chengdu University of Information Technology,China,1,1,0,0,0
+634,Chiba University,Japan,1,1,0,0,0
+635,China Academy of Aerospace Aerodynamics,China,1,0,0,0,1
+636,China Agricultural University,China,1,1,0,0,0
+637,China University of Mining Technology - Xuzhou,China,1,1,0,0,0
+638,Chonnam National University,South Korea,1,0,0,0,1
+639,Chubu University,Japan,1,1,0,0,0
+640,Cisco,United States,1,1,0,0,0
+641,City St. George's University Of London,United Kingdom,1,0,1,0,0
+642,Civil Aviation University of China,China,1,1,0,0,0
+643,Clarkson University,United States,1,0,0,0,1
+644,Clausthal University of Technology,Germany,1,0,0,0,1
+645,Comenius University in Bratislava,Unassigned,1,0,1,0,0
+646,Computer Network Information Center (CNIC) of the Chinese Academy of Sciences (CAS),China,1,0,0,0,1
+647,Constructor University,Germany,1,1,0,0,0
+648,Contramont Research,Unassigned,1,1,0,0,0
+649,Czech Academy of Sciences,Unassigned,1,1,0,0,0
+650,Dalian Maritime University,China,1,0,0,0,1
+651,Dalousie University,Unassigned,1,1,0,0,0
+652,Dankook University,South Korea,1,0,1,0,0
+653,DeepWisdom,China,1,1,0,0,0
+654,Defence Science and Technology Group (DSTG),Australia,1,1,0,0,0
+655,Denmark Technological University,Unassigned,1,1,0,0,0
+656,DENSO CORPORATION,Japan,1,1,0,0,0
+657,DENSO IT Laboratory,Japan,1,1,0,0,0
+658,DePaul University,United States,1,1,0,0,0
+659,Dolby Laboratories,United States,1,0,0,0,1
+660,Donders Institute,Unassigned,1,0,0,0,1
+661,Dongguk University,South Korea,1,1,0,0,0
+662,Donghua University,China,1,1,0,0,0
+663,DP Technology,China,1,1,0,0,0
+664,DSO National Laboratories,Unassigned,1,1,0,0,0
+665,Earlham Institute,United Kingdom,1,1,0,0,0
+666,Eastern Michigan University,United States,1,1,0,0,0
+667,Eli Lilly and Company,United States,1,1,0,0,0
+668,ELLIS Institute Finland,Unassigned,1,0,0,0,1
+669,Embry-Riddle Aeronautical University,United States,1,0,0,0,1
+670,Ernst Strüngmann Institute (ESI) for Neuroscience,Germany,1,0,0,0,1
+671,Ewha Womans University,South Korea,1,0,0,0,1
+672,Exponent Inc.,United States,1,0,0,0,1
+673,Federal University of Rio Grande do Sul,Unassigned,1,1,0,0,0
+674,Flybits Inc.,Unassigned,1,1,0,0,0
+675,Foresight Institute,United States,1,0,0,0,1
+676,Foundation for Research and Technology - Hellas (FORTH),Unassigned,1,1,0,0,0
+677,Friedrich-Alexander University of Erlangen–Nuremberg,Germany,1,1,0,0,0
+678,Fujian University of Technology,China,1,1,0,0,0
+679,Fujitsu Research and Development Center Co. Ltm.,China,1,1,0,0,0
+680,Genentech,United States,1,0,0,0,1
+681,General-Purpose AI Policy Lab,Unassigned,1,0,0,1,0
+682,Georgia State University,United States,1,0,1,0,0
+683,German Cancer Research Center (DKFZ),Germany,1,0,0,0,1
+684,Goethe University Frankfurt am Main,Germany,1,0,0,0,1
+685,Gran Sasso Science Institute,Italy,1,1,0,0,0
+686,Great Bay University,China,1,0,1,0,0
+687,Guangdong Provincial Laboratory of Traditional Chinese Medicine,China,1,1,0,0,0
+688,Guangdong University of Technology,China,1,1,0,0,0
+689,Guangming Lab.,China,1,1,0,0,0
+690,Guangxi Normal University,China,1,1,0,0,0
+691,Guizhou University,China,1,1,0,0,0
+692,Gustave-Eiffel University,France,1,1,0,0,0
+693,Haifa University,Unassigned,1,1,0,0,0
+694,Hamad Bin Khalifa University,Unassigned,1,1,0,0,0
+695,Hangzhou Normal University,China,1,1,0,0,0
+696,Hanoi National Economics University,Unassigned,1,1,0,0,0
+697,Hebei University of Technology,China,1,0,0,0,1
+698,Hefei University of Technology,China,1,1,0,0,0
+699,Heinrich-Heine Universität Düsseldorf,Germany,1,0,0,0,1
+700,Helmut Schmidt University Hamburg,Germany,1,0,0,0,1
+701,Helsingfors Universitet,Unassigned,1,0,0,0,1
+702,Heriot-Watt University,United Kingdom,1,1,0,0,0
+703,HHMI Janelia Research Campus,United States,1,1,0,0,0
+704,Horizon Robotics,China,1,1,0,0,0
+705,HTWG Konstanz - University of Applied Sciences,Germany,1,1,0,0,0
+706,Hubei University,China,1,0,0,0,1
+707,Humboldt University of Berlin,Germany,1,1,0,0,0
+708,Hunan University of Science and Technology,China,1,0,0,0,1
+709,iCTLab,Unassigned,1,0,1,0,0
+710,Illinois Institute of Technology,United States,1,0,0,0,1
+711,Incheon National University,South Korea,1,0,0,0,1
+712,Indian Institute of Technology (BHU),India,1,1,0,0,0
+713,Indian Institute of Technology Kanpur,India,1,1,0,0,0
+714,Indian Institute of Technology Kharagpur,India,1,1,0,0,0
+715,Indian Institute of Technology Patna,India,1,1,0,0,0
+716,Indian Institute of Technology Roorkee,India,1,1,0,0,0
+717,Indian Statistical Institute,India,1,1,0,0,0
+718,Indiana University,United States,1,1,0,0,0
+719,Innopolis University,Unassigned,1,1,0,0,0
+720,Institute for Advanced Study,United States,1,1,0,0,0
+721,Institute for AI in Medicine (IKIM),Germany,1,1,0,0,0
+722,Institute for Data Science in Mechanical Engineering,Germany,1,1,0,0,0
+723,Institute of Mathematics of Toulouse,France,1,1,0,0,0
+724,Institute of Numerical Mathematics,Unassigned,1,0,0,0,1
+725,Instituto de Telecomunicações,Unassigned,1,0,0,0,1
+726,Intelligent Game and Decision Lab,China,1,1,0,0,0
+727,International Digital Economy Academy,China,1,1,0,0,0
+728,INTI INTERNATIONAL UNIVERSITY,Unassigned,1,0,0,0,1
+729,IRIT - Institut de Recherche en Informatique de Toulouse,France,1,1,0,0,0
+730,IUF - Leibniz Research Institute for Environmental Medicine,Germany,1,0,0,0,1
+731,James Cook University,Australia,1,1,0,0,0
+732,Jiangxi University of Finance and Economics,China,1,0,0,0,1
+733,JIUTIAN Research,China,1,1,0,0,0
+734,Johann Wolfgang Goethe Universität Frankfurt am Main,Germany,1,1,0,0,0
+735,Johannes-Gutenberg Universität Mainz,Germany,1,0,0,1,0
+736,Julius-Maximilians-Univeristy Würzburg,Germany,1,1,0,0,0
+737,Juntendo University,Japan,1,0,0,0,1
+738,Kandinsky Lab,Unassigned,1,0,0,0,1
+739,Kennesaw State University,United States,1,0,0,0,1
+740,King Fahad University of Petroleum and Minerals,Unassigned,1,0,0,0,1
+741,Kioxia Corporation,Japan,1,1,0,0,0
+742,Kobe University,Japan,1,1,0,0,0
+743,Konkuk University,South Korea,1,1,0,0,0
+744,Korea AI Safety Institute,South Korea,1,0,1,0,0
+745,Korea Cyber University,South Korea,1,1,0,0,0
+746,Korea Electronics Technology Institute,South Korea,1,1,0,0,0
+747,Korea Research Institute of Chemical Technology,South Korea,1,1,0,0,0
+748,Kumamoto University,Japan,1,0,0,0,1
+749,Kumoh National Institute of Technology,South Korea,1,1,0,0,0
+750,Kwangwoon University,South Korea,1,1,0,0,0
+751,La Trobe University,Australia,1,1,0,0,0
+752,Laboratoire de Probabilités Statistique et Modélisation,France,1,1,0,0,0
+753,Lambda,United States,1,0,1,0,0
+754,Lappeenranta University of Technology,Unassigned,1,0,1,0,0
+755,Layer 6 AI,Unassigned,1,0,0,0,1
+756,Leibniz Institute for Prevention Research and Epidemiology - BIPS,Germany,1,1,0,0,0
+757,Li Auto,China,1,1,0,0,0
+758,Lingang Laboratory,China,1,1,0,0,0
+759,Los Alamos National Lab,United States,1,0,0,0,1
+760,Loughborough University,United Kingdom,1,1,0,0,0
+761,Louisiana State University,United States,1,1,0,0,0
+762,Lunit Inc.,South Korea,1,1,0,0,0
+763,LUT University,Unassigned,1,0,0,0,1
+764,Macao Polytechnic University,China,1,0,0,0,1
+765,Machine Intelligence Research Institute,United States,1,1,0,0,0
+766,Malanshan Audio&Video Laboratory,China,1,0,0,0,1
+767,Masaryk University,Unassigned,1,1,0,0,0
+768,Max Planck Institute for Biogeochemistry,Germany,1,1,0,0,0
+769,Max Planck Institute for Human Development,Germany,1,1,0,0,0
+770,Medical University of Vienna,Unassigned,1,1,0,0,0
+771,Mines ParisTech,France,1,0,0,0,1
+772,Mississippi State University,United States,1,0,0,0,1
+773,Missouri University of Science and Technology,United States,1,0,0,0,1
+774,Mohammed VI Polytechnic University,Unassigned,1,1,0,0,0
+775,Morph Research,Unassigned,1,0,0,0,1
+776,Mott Community College,United States,1,1,0,0,0
+777,MSU AI Institute,Unassigned,1,0,0,0,1
+778,MSU Institute for Artificial Intelligence,Unassigned,1,0,0,0,1
+779,Nanchang University,China,1,0,0,0,1
+780,Nanjing Agricutural University,China,1,0,0,0,1
+781,Nanjing Brain Hospital,China,1,1,0,0,0
+782,Nanjing University of Finance and Economics,China,1,1,0,0,0
+783,Nanjing University of Posts and Telecommunications,China,1,1,0,0,0
+784,NASK - National Research Institute,Unassigned,1,1,0,0,0
+785,National Institute for Mathematical Sciences,South Korea,1,0,0,0,1
+786,National Institute of Advanced Industrial Science and Technology,Japan,1,0,0,0,1
+787,National Institute of Informatics,Japan,1,0,0,1,0
+788,National Institute of Science Education and Research,India,1,1,0,0,0
+789,NEC,Japan,1,0,0,0,1
+790,Netflix,United States,1,1,0,0,0
+791,North Dakota State University,United States,1,0,0,0,1
+792,Northeast University at Qinhuangdao Campus,China,1,0,0,0,1
+793,Northeastern University (China),China,1,1,0,0,0
+794,Northeastern University London,United Kingdom,1,0,0,0,1
+795,Northumbria University,United Kingdom,1,0,0,0,1
+796,Norwegian University of Science and Technology,Unassigned,1,1,0,0,0
+797,Nous Research,United States,1,0,0,0,1
+798,NOVA School of Science and Technology,Unassigned,1,1,0,0,0
+799,NTT Human Informatics Laboratories,Japan,1,0,0,1,0
+800,Oakland University,United States,1,1,0,0,0
+801,OceanDataLab,France,1,1,0,0,0
+802,Offenburg University,Germany,1,1,0,0,0
+803,Ohio University,United States,1,1,0,0,0
+804,Osnabrueck University,Germany,1,0,0,0,1
+805,Oxford Brookes University,United Kingdom,1,1,0,0,0
+806,Pacific Northwest National Laboratory,United States,1,1,0,0,0
+807,Paris Dauphine - PSL University,France,1,1,0,0,0
+808,Plekhanov Russian University of Economics,Unassigned,1,1,0,0,0
+809,Polish-Japanese Academy of Information Technology,Unassigned,1,0,0,0,1
+810,Politehnica University of Bucharest,Unassigned,1,1,0,0,0
+811,Polytechnic Institute of Bari,Italy,1,0,0,0,1
+812,Pontifical Catholic University of Rio Grande do Sul,Unassigned,1,0,0,0,1
+813,Proxima Technology Inc,Japan,1,1,0,0,0
+814,Qihoo 360,China,1,0,0,0,1
+815,Qiyuan Lab,China,1,1,0,0,0
+816,Rajshahi University of Engineering and Technology,Unassigned,1,1,0,0,0
+817,Robert Koch Institute,Germany,1,0,0,0,1
+818,Robotics & AI Institute,United States,1,0,0,0,1
+819,Rosalind Franklin Institute,United Kingdom,1,1,0,0,0
+820,Royal Holloway and Bedford New College,United Kingdom,1,1,0,0,0
+821,Sapienza University,Italy,1,1,0,0,0
+822,Scienta Lab,France,1,0,0,0,1
+823,SciLifeLab,Unassigned,1,1,0,0,0
+824,Seattle University,United States,1,1,0,0,0
+825,Semyung University,South Korea,1,0,0,0,1
+826,ServiceNow Inc,United States,1,1,0,0,0
+827,Shenzhen MSU-BIT University,China,1,0,0,0,1
+828,Shenzhen Research Institute of Big Data,China,1,1,0,0,0
+829,Shiga University,Japan,1,1,0,0,0
+830,Shihezi University,China,1,1,0,0,0
+831,Shizuoka University,Japan,1,1,0,0,0
+832,Siena College,United States,1,0,0,0,1
+833,Sirjan University of Technology,Unassigned,1,0,0,0,1
+834,SLAC National Accelerator Laboratory,United States,1,0,0,0,1
+835,Slovak University of Technology in Bratislava,Unassigned,1,0,1,0,0
+836,Sookmyung Women's University,South Korea,1,1,0,0,0
+837,Soonchunhyang University,South Korea,1,0,0,0,1
+838,Soongsil University,South Korea,1,1,0,0,0
+839,Southwest Jiaotong University,China,1,0,0,0,1
+840,Southwest University of Nationalities,China,1,1,0,0,0
+841,Southwestern University of Finance and Economics,China,1,1,0,0,0
+842,Squirrel AI,China,1,1,0,0,0
+843,St. Petersburg State University,Unassigned,1,1,0,0,0
+844,State University of New York at Albany,United States,1,0,0,0,1
+845,SUNY - University at Stony Brook,United States,1,1,0,0,0
+846,Supervised Program for Alignment Research,United States,1,1,0,0,0
+847,Suwon University,South Korea,1,1,0,0,0
+848,Swinburne University of Technology,Australia,1,1,0,0,0
+849,Taiyuan University of Technology,China,1,1,0,0,0
+850,Technical University of Cluj-Napoca,Unassigned,1,1,0,0,0
+851,Technical University of Crete,Unassigned,1,1,0,0,0
+852,Technical University of Dortmund,Germany,1,1,0,0,0
+853,Technische Universität Braunschweig,Germany,1,0,0,0,1
+854,The Cyprus Institute,Unassigned,1,0,0,0,1
+855,The Francis Crick Institute,United Kingdom,1,1,0,0,0
+856,The Institute of Cancer Research,United Kingdom,1,0,0,0,1
+857,The Scripps Research Institute,United States,1,1,0,0,0
+858,The University of Electro-Communications,Japan,1,1,0,0,0
+859,Thinking Machines Lab,United States,1,0,0,0,1
+860,Tilburg University,Unassigned,1,1,0,0,0
+861,Together AI,United States,1,0,0,0,1
+862,Tokyo University of Agriculture and Technology,Japan,1,0,0,0,1
+863,Transluce,United States,1,1,0,0,0
+864,Trinity College Dublin,Unassigned,1,0,0,0,1
+865,Uber,United States,1,0,0,0,1
+866,Ukrainian Catholic University,Unassigned,1,1,0,0,0
+867,Unity Technologies,United States,1,1,0,0,0
+868,Universidad Carlos III de Madrid,Unassigned,1,0,0,0,1
+869,Universidad de Granada,Unassigned,1,1,0,0,0
+870,Universidad de La Coruña,Unassigned,1,1,0,0,0
+871,Universidad de La Sabana,Unassigned,1,0,1,0,0
+872,Universidad de Los Andes,Unassigned,1,0,1,0,0
+873,Universidad Nacional de Educación a Distancia,Unassigned,1,0,0,0,1
+874,Universidade do Porto,Unassigned,1,0,1,0,0
+875,Universidade Estadual de Campinas,Unassigned,1,0,0,0,1
+876,Universidade Federal do Ceará,Unassigned,1,1,0,0,0
+877,Universitas Mercatorum,Italy,1,1,0,0,0
+878,Universitat de Barcelona,Unassigned,1,0,0,0,1
+879,University College Dublin,Unassigned,1,1,0,0,0
+880,University Hospital Freiburg,Germany,1,1,0,0,0
+881,University Koblenz,Germany,1,1,0,0,0
+882,University Mohammed VI Polytechnic,Unassigned,1,1,0,0,0
+883,University of Alabama in Huntsville,United States,1,0,0,0,1
+884,University of Alicante,Unassigned,1,1,0,0,0
+885,University of Almería,Unassigned,1,1,0,0,0
+886,University of Auckland,Unassigned,1,1,0,0,0
+887,University of Augsburg,Germany,1,0,1,0,0
+888,University of Bari Aldo Moro,Italy,1,0,0,0,1
+889,University of Cagliari,Italy,1,0,0,0,1
+890,University of Calgary,Unassigned,1,0,0,0,1
+891,"University of California, Merced",United States,1,1,0,0,0
+892,University of Camerino,Italy,1,1,0,0,0
+893,University of Canterbury,Unassigned,1,0,0,0,1
+894,University Of Cologne,Germany,1,1,0,0,0
+895,University of Colorado Denver,United States,1,1,0,0,0
+896,University of Dhaka,Unassigned,1,0,0,0,1
+897,University of Essex,United Kingdom,1,0,0,0,1
+898,University of Genoa,Italy,1,1,0,0,0
+899,University of Glasgow,United Kingdom,1,1,0,0,0
+900,University of Hamburg,Germany,1,1,0,0,0
+901,University of Illinois Champaign-Urbana,United States,1,1,0,0,0
+902,University of Jinan,China,1,1,0,0,0
+903,University of Kansas,United States,1,0,0,0,1
+904,University of Leicester,United Kingdom,1,0,0,0,1
+905,University of Liège,Unassigned,1,0,0,0,1
+906,University of Ljubljana,Unassigned,1,0,0,0,1
+907,University of Macquaire,Australia,1,1,0,0,0
+908,University of Maine,United States,1,1,0,0,0
+909,University of Manitoba,Unassigned,1,0,0,0,1
+910,University of Mannheim,Germany,1,0,0,0,1
+911,University of Milan-Bicocca,Italy,1,0,0,0,1
+912,University of Modena and Reggio Emilia,Italy,1,1,0,0,0
+913,University of Modena e Reggio Emilia,Italy,1,1,0,0,0
+914,University of Moratuwa,Unassigned,1,0,0,0,1
+915,University of Nebraska Medical Center,United States,1,0,0,0,1
+916,University of New Brunswick,Unassigned,1,0,0,0,1
+917,University of New Mexico,United States,1,0,0,0,1
+918,University of Nottingham,United Kingdom,1,1,0,0,0
+919,University of Osnabrück,Germany,1,0,1,0,0
+920,"University of Roma ""Tor Vergata""",Italy,1,0,0,0,1
+921,University of Rome Tor Vergata,Italy,1,0,0,0,1
+922,University of Salerno,Italy,1,1,0,0,0
+923,University of Seoul,South Korea,1,0,0,0,1
+924,University of South China,China,1,0,0,0,1
+925,University of Southern Denmark,Unassigned,1,1,0,0,0
+926,University of St. Gallen,Unassigned,1,0,0,0,1
+927,University of Stellenbosch,Unassigned,1,1,0,0,0
+928,University of Strathclyde,United Kingdom,1,1,0,0,0
+929,University of Szeged,Unassigned,1,0,0,0,1
+930,University of Tennessee Chattanooga,United States,1,1,0,0,0
+931,University of Tennessee Health Science Center,United States,1,0,1,0,0
+932,University of Texas at San Antonio,United States,1,0,0,0,1
+933,University of Texas Rio Grande Valley,United States,1,1,0,0,0
+934,University of Texas Southwestern Medical Center,United States,1,0,0,0,1
+935,University of Tulsa,United States,1,0,0,0,1
+936,University of Vermont,United States,1,0,0,0,1
+937,University of Western Australia,Australia,1,1,0,0,0
+938,University of Windsor,Unassigned,1,0,0,0,1
+939,University of Wisconsin - Milwaukee,United States,1,0,0,0,1
+940,Università Campus Bio-Medico di Roma,Italy,1,1,0,0,0
+941,Università degli Studi di Genova,Italy,1,1,0,0,0
+942,Università degli Studi di Milano,Italy,1,1,0,0,0
+943,Università degli Studi di Modena e Reggio Emilia,Italy,1,1,0,0,0
+944,Università di Modena e Reggio Emilia,Italy,1,1,0,0,0
+945,Universität Hamburg,Germany,1,1,0,0,0
+946,Universität Hannover,Germany,1,1,0,0,0
+947,Universität Innsbruck,Unassigned,1,1,0,0,0
+948,Universität Mannheim,Germany,1,1,0,0,0
+949,Universität Potsdam,Germany,1,0,0,0,1
+950,Universität Regensburg,Germany,1,1,0,0,0
+951,Universität Siegen,Germany,1,1,0,0,0
+952,Universität zu Lübeck,Germany,1,1,0,0,0
+953,Université Claude Bernard (Lyon I),France,1,1,0,0,0
+954,Université d'Artois,France,1,0,0,0,1
+955,Université de Bordeaux,France,1,0,0,0,1
+956,Université de Bretagne Sud,France,1,0,0,0,1
+957,Université de Lille,France,1,0,0,0,1
+958,Université de Liège,Unassigned,1,1,0,0,0
+959,Université Laval,Unassigned,1,0,0,0,1
+960,Université Paul Sabatier,France,1,1,0,0,0
+961,Utah State University,United States,1,0,1,0,0
+962,Utrecht University,Unassigned,1,1,0,0,0
+963,Victoria University of Wellington,Unassigned,1,1,0,0,0
+964,Virginia Commonwealth University,United States,1,1,0,0,0
+965,Virginia State University,United States,1,0,0,0,1
+966,vivo,China,1,0,0,0,1
+967,VNUHCM - University of Science,Unassigned,1,1,0,0,0
+968,VUNO Inc,South Korea,1,1,0,0,0
+969,Warrington College of Business,United States,1,1,0,0,0
+970,Warsaw University of Technology,Unassigned,1,1,0,0,0
+971,Weierstrass Institute for Applied Analysis and Stochastics,Germany,1,0,0,0,1
+972,Weizenbaum Institute Berlin,Germany,1,1,0,0,0
+973,Wellcome Sanger Institute,United Kingdom,1,0,0,0,1
+974,Western Sydney University,Australia,1,0,0,0,1
+975,Westfälische Wilhelms-Universität Münster,Germany,1,0,0,0,1
+976,Wuhan University of Science and Technology,China,1,0,0,0,1
+977,Wuhan University of Technology,China,1,1,0,0,0
+978,Xi'an University of Telecommunications Engineering,China,1,1,0,0,0
+979,Xiangtan University,China,1,1,0,0,0
+980,Xihua University,China,1,0,0,0,1
+981,Xinjiang University,China,1,1,0,0,0
+982,xLight Inc.,Unassigned,1,1,0,0,0
+983,Yangzhou University,China,1,0,0,0,1
+984,Yerevan State University,Unassigned,1,0,0,0,1
+985,YerevaNN research Lab,Unassigned,1,0,0,0,1
+986,Yokohama National University,Japan,1,0,0,0,1
+987,Yunnan Normal University,China,1,1,0,0,0
+988,Zhejiang Normal University,China,1,1,0,0,0
+989,Zhejiang Sci-Tech University,China,1,0,0,0,1
+990,Zhejiang University of Technology,China,1,1,0,0,0
+991,Zhongguancun Institute of Artificial Intelligence,China,1,0,0,0,1
+992,Örebro University,Unassigned,1,1,0,0,0

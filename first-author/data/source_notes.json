@@ -1,0 +1,23 @@
+{
+  "source_filename": "NeurIPS_2026_First_Author_Institutions (1).xlsx",
+  "source_sha256": "1abdfe5191c2e5096ae1556c6b49d89f1c2b7188076a7520e16288fde9949932",
+  "records": 9006,
+  "countable_papers": 8129,
+  "unrepresented_papers": 877,
+  "institutions": 992,
+  "institution_paper_pairs": 8284,
+  "multi_institution_first_author_records": 152,
+  "missing_affiliation_records": 383,
+  "records_with_unverified_names": 524,
+  "source_author_metadata_mismatches": 69,
+  "workbook_processed_date": "2026-09-29",
+  "counting": "First-listed author in the supplied JSON, not PDF-verified first authorship or equal-contribution authorship. Every explicit affiliation is counted once per paper. Workbook canonical labels are preserved without further merging.",
+  "geography": "Reuse existing atlas country conventions via exact or punctuation/accent-normalized names; explicit overrides are recorded separately. Corporate group locations are not individual-author locations. Unassigned countries are excluded from national views.",
+  "track_record_counts": {
+    "Main conference (matched subset)": 5097,
+    "Evaluations and Datasets": 612,
+    "Position papers": 46,
+    "Unconfirmed track": 3251
+  },
+  "mapped_institutions": 793
+}

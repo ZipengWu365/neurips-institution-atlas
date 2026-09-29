@@ -10,7 +10,32 @@ Open `index.html` to explore all charts, search for institutions, change magnifi
 
 ![Worldwide institutions grouped by region](assets/world-regions.svg)
 
-## Country editions
+## First-listed-author edition
+
+**[Explore first-listed-author institutions](https://zipengwu365.github.io/neurips-institution-atlas/first-author/)** · **[UK first-author edition](https://zipengwu365.github.io/neurips-institution-atlas/first-author/?view=united-kingdom)**
+
+This separate edition preserves the canonical English institution labels in `NeurIPS_2026_First_Author_Institutions (1).xlsx`. Counts were reconstructed from distinct institution–paper pairs and checked against all 992 summary rows: 8,284 pairs from 8,129 of 9,006 source records. No additional aliases were merged. The workbook was processed on 29 September 2026; this is not a new conference snapshot date.
+
+“First-listed author” is the first person in the source JSON author string, not PDF-verified first authorship or equal-contribution authorship. All explicit affiliations receive a full count. The 877 unrepresented records and incomplete geography limit coverage. The workbook reports 383 records missing affiliations, 524 containing unverified institution names and 69 author-string mismatches against newer public metadata; these categories overlap. Its track labels comprise 5,097 main-conference matches (a subset), 612 Evaluations and Datasets records, 46 Position Papers and 3,251 unconfirmed tracks. Charts combine these tracks and must not be presented as main-conference-only rankings.
+
+Country assignments reuse the existing atlas conventions by exact or punctuation/accent-normalized name matches, plus [explicit overrides](first-author/data/geography_overrides.json). Of 992 labels, 793 are assigned and 199 remain unassigned. All global top-200 entries are assigned; national editions exclude unresolved entries and cannot be claimed exhaustive. China includes mainland China, Hong Kong, Macao and Taiwan.
+
+| Country | Institutions shown |
+|---|---:|
+| China | 200 |
+| United Kingdom | 45 |
+| United States | 200 |
+| Germany | 84 |
+| France | 35 |
+| Italy | 32 |
+| Australia | 23 |
+| South Korea | 51 |
+| India | 19 |
+| Japan | 37 |
+
+[Full counts](first-author/data/institutions.csv) · [Source hash and coverage notes](first-author/data/source_notes.json) · [Institution–paper links](first-author/data/paper_links.json)
+
+## Country editions (all-author participation)
 
 | Country | Institutions displayed | Figure | Data |
 |---|---:|---|---|
