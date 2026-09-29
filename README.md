@@ -10,6 +10,17 @@ Open `index.html` to explore all charts, search for institutions, change magnifi
 
 ![Worldwide institutions grouped by region](assets/world-regions.svg)
 
+## Data downloads
+
+Both original input workbooks and the detailed cleaned tables are available:
+
+| Edition | Original workbook | Full institution table | Interactive charts |
+|---|---|---|---|
+| All-author participation (not restricted to first authors) | [Excel](data/raw/NeurIPS_2026_All_Author_Institutions.xlsx) | [CSV](data/institutions.csv) | [Explore](https://zipengwu365.github.io/neurips-institution-atlas/) |
+| First-listed author | [Excel](data/raw/NeurIPS_2026_First_Author_Institutions.xlsx) | [CSV](first-author/data/institutions.csv) | [Explore](https://zipengwu365.github.io/neurips-institution-atlas/first-author/) |
+
+The website also provides searchable view tables and downloadable CSVs with counts, percentages and denominators for the global top 200 and ten country editions. [Source provenance and checksums](data/raw/README.md).
+
 ## First-listed-author edition
 
 **[Explore first-listed-author institutions](https://zipengwu365.github.io/neurips-institution-atlas/first-author/)** · **[UK first-author edition](https://zipengwu365.github.io/neurips-institution-atlas/first-author/?view=united-kingdom)**
@@ -110,4 +121,4 @@ Suggested corrections should include the institution name, the affected paper ID
 
 ## Rebuild the posters
 
-Install Pillow and run `python scripts/build_atlas.py --edition first-author` or `python scripts/build_atlas.py --edition all-author` from the project directory. The renderer updates PNG/SVG posters, CSV percentages, the contact sheet and the matching interactive page from the included cleaned data. A ZIP of PNG/SVG posters is written to that edition's ignored `posters/` directory. The renderer uses Arial fonts at the Windows font paths in its `font()` function; adjust those two paths on other operating systems. It does not require the private source workbook to reproduce the figures. Rebuilding the affiliation cleanup from a new workbook is a separate step. The older `generate_posters.py` is retained as a legacy renderer and should not be used to rebuild the current interactive pages.
+Install Pillow and run `python scripts/build_atlas.py --edition first-author` or `python scripts/build_atlas.py --edition all-author` from the project directory. The renderer updates PNG/SVG posters, CSV percentages, the contact sheet and the matching interactive page from the included cleaned data. A ZIP of PNG/SVG posters is written to that edition's ignored `posters/` directory. The renderer uses Arial fonts at the Windows font paths in its `font()` function; adjust those two paths on other operating systems. It reproduces the figures from the included cleaned data; the original input workbooks are also available in `data/raw/`. Rebuilding the affiliation cleanup from a new workbook is a separate step. The older `generate_posters.py` is retained as a legacy renderer and should not be used to rebuild the current interactive pages.

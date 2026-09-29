@@ -1,0 +1,16 @@
+[
+  {
+    "file": "NeurIPS_2026_All_Author_Institutions.xlsx",
+    "original_filename": "NeurIPS_2026_机构中稿统计-1.xlsx",
+    "edition": "all-author participation",
+    "bytes": 8359582,
+    "sha256": "8bf89810fdce3bac89caf02cef3f0af8cfec8cb0a34c4ac90b89930cbf2740a7"
+  },
+  {
+    "file": "NeurIPS_2026_First_Author_Institutions.xlsx",
+    "original_filename": "NeurIPS_2026_First_Author_Institutions (1).xlsx",
+    "edition": "first-listed author",
+    "bytes": 2880537,
+    "sha256": "1abdfe5191c2e5096ae1556c6b49d89f1c2b7188076a7520e16288fde9949932"
+  }
+]
